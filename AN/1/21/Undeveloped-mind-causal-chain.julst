@@ -1,0 +1,12 @@
+---
+id: AN-1.21-undeveloped-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+  1+[:
+    "Undeveloped mind" "Stress" 
+    | /"whilst in samsara"/]
+  =]=
+  

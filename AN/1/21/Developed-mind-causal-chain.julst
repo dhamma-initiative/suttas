@@ -1,0 +1,9 @@
+---
+id: AN-1.21-developed-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    1+[:"Developed mind" "Happiness" | /"whilst fuel remains"/] 
+  =Parranibanna]=

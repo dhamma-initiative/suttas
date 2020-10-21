@@ -1,0 +1,36 @@
+---
+id: AN-1.21-activity-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+name: High level process of the mind
+embedJsonModelInTarget: false
+stereotype: stereoType
+namespace: nameSpace
+href: https://www.dhammatalks.org/suttas/AN/AN1_21.html
+applyCompartmentSeparator: false
+applyMarkdown: true
+hideCompartments: false
+enableScript: true
+compartments: |
+  **Authors**: ASW & MW
+  **Date**: Sept 2021
+config:
+  dotUml.dot:
+    ranksep: 1
+    splines: "ortho"
+notation: |2
+                               ,              {no}             
+  [^ __start] ~~~~~~> [? Is fuel remaining?] ~~~~~~> [$ __end]
+
+                                         ,               {yes}
+  [? Is fuel remaining?] ~~~~~~> [? Is mind developed?] ~~~~~~> [s <<Here-&-now>> Happiness]
+
+  [? Is mind developed?] ~~~~~~> [_ __undevFork] ~~~~~~> [s <<Here-&-now>> Stress] ~~~~~~> [_ __undevJoin]
+
+                                ,                                ,                  {yes}
+  [_ __undevFork] ~~~~~~> [? Is skillful?] ~~~~~~> [s <<merit>> Becoming w/ benefit] ~~~~~~> [_ __undevJoin]
+
+  [? Is skillful?] ~~~~~~>  [s <<de-merit>> Becoming w/ harm] ~~~~~~> [_ __undevJoin]
+
+  [_ __undevJoin] ~~~~~~> [? Is fuel remaining?]

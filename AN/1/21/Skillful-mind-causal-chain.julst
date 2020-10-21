@@ -1,0 +1,11 @@
+---
+id: AN-1.21-skillful-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  +=[=
+  1+[:
+    (1+("tamed" | "guarded" | "protected" | "restrained") | /"Skillful qualities"/) "Becoming w/ Benefit"
+  | /"whilst in samsara"/] 
+  =]=

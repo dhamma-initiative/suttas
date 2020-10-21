@@ -1,0 +1,144 @@
+<svg class="tracks" width="556.5" height="220" viewBox="0 0 556.5 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M20 61h0"></path>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M476.5 61h0"></path>
+<path d="M60 61h10"></path>
+<g>
+<path d="M70 61h0"></path>
+<path d="M466.5 61h0"></path>
+<g>
+<path d="M70 61h0"></path>
+<path d="M265 61h0"></path>
+<rect x="70" y="42" width="195" height="128" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M70 61h10"></path>
+<path d="M255 61h10"></path>
+<path d="M110 61h10"></path>
+<g class="terminal">
+<path d="M120 61h21.25"></path>
+<path d="M203.75 61h21.25"></path>
+<rect x="141.25" y="50" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="172.5" y="65">tamed</text>
+</g>
+<path d="M225 61h10"></path>
+<path d="M110 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 91h12.75"></path>
+<path d="M212.25 91h12.75"></path>
+<rect x="132.75" y="80" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="172.5" y="95">guarded</text>
+</g>
+<path d="M225 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M110 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 121h4.25"></path>
+<path d="M220.75 121h4.25"></path>
+<rect x="124.25" y="110" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="172.5" y="125">protected</text>
+</g>
+<path d="M225 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M110 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 151h0"></path>
+<path d="M225 151h0"></path>
+<rect x="120" y="140" width="105" height="22" rx="10" ry="10"></rect>
+<text x="172.5" y="155">restrained</text>
+</g>
+<path d="M225 151a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 110 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="95" y="65" class="diagram-text">1+</text>
+<path d="M 235 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 242 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M70 31h0"></path>
+<path d="M206 31h0"></path>
+<text x="138" y="36" class="comment">Skillful qualities</text>
+</g>
+</g>
+<path d="M265 61h10"></path>
+<path d="M275 61h10"></path>
+<g class="terminal">
+<path d="M285 61h0"></path>
+<path d="M466.5 61h0"></path>
+<rect x="285" y="50" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="375.75" y="65">Becoming w/ Benefit</text>
+</g>
+</g>
+<path d="M466.5 61h10"></path>
+<path d="M70 61a10 10 0 0 0 -10 10v108a10 10 0 0 0 10 10"></path>
+<g class="comment">
+<path d="M70 189h133.75"></path>
+<path d="M332.75 189h133.75"></path>
+<text x="268.25" y="194" class="comment">whilst in samsara</text>
+</g>
+<path d="M466.5 189a10 10 0 0 0 10 -10v-108a10 10 0 0 0 -10 -10"></path>
+<path d="M55 127.5l5 -5l5 5"></path>
+</g>
+<path d="M476.5 61h10"></path>
+<path d="M486.5 61h10"></path>
+<g>
+<path d="M496.5 61h0"></path>
+<path d="M 496.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

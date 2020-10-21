@@ -1,0 +1,11 @@
+---
+id: AN-1.21-unskillful-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  +=[=
+  1+[:
+    (1+("untamed" | "unguarded" | "unprotected" | "unrestrained") | /"Unskillful qualities"/) "Becoming w/ Harm"
+  | /"whilst in samsara"/]
+  =]=
