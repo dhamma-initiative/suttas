@@ -6,6 +6,6 @@ renderer: tracks.svg
 notation: |
   +=[=
   1+[:
-    (1+("tamed" | "guarded" | "protected" | "restrained") | /"Skillful qualities"/) "Becoming w/ Benefit"
+    (1+("tamed" | "guarded" | "protected" | "restrained") | /"Skillful qualities"/) "Becoming with Benefit"
   | /"whilst in samsara"/] 
   =]=

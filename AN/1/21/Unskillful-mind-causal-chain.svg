@@ -1,4 +1,4 @@
-<svg class="tracks" width="548" height="220" viewBox="0 0 548 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg class="tracks" width="565" height="220" viewBox="0 0 565 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g transform="translate(.5 .5)">
 <g>
 <path d="M20 61h0"></path>
@@ -9,11 +9,11 @@
 <path d="M50 61h10"></path>
 <g>
 <path d="M60 61h0"></path>
-<path d="M468 61h0"></path>
+<path d="M485 61h0"></path>
 <path d="M60 61h10"></path>
 <g>
 <path d="M70 61h0"></path>
-<path d="M458 61h0"></path>
+<path d="M475 61h0"></path>
 <g>
 <path d="M70 61h0"></path>
 <path d="M282 61h0"></path>
@@ -71,26 +71,26 @@
 <path d="M292 61h10"></path>
 <g class="terminal">
 <path d="M302 61h0"></path>
-<path d="M458 61h0"></path>
-<rect x="302" y="50" width="156" height="22" rx="10" ry="10"></rect>
-<text x="380" y="65">Becoming w/ Harm</text>
+<path d="M475 61h0"></path>
+<rect x="302" y="50" width="173" height="22" rx="10" ry="10"></rect>
+<text x="388.5" y="65">Becoming with Harm</text>
 </g>
 </g>
-<path d="M458 61h10"></path>
+<path d="M475 61h10"></path>
 <path d="M70 61a10 10 0 0 0 -10 10v108a10 10 0 0 0 10 10"></path>
 <g class="comment">
-<path d="M70 189h129.5"></path>
-<path d="M328.5 189h129.5"></path>
-<text x="264" y="194" class="comment">whilst in samsara</text>
+<path d="M70 189h138"></path>
+<path d="M337 189h138"></path>
+<text x="272.5" y="194" class="comment">whilst in samsara</text>
 </g>
-<path d="M458 189a10 10 0 0 0 10 -10v-108a10 10 0 0 0 -10 -10"></path>
+<path d="M475 189a10 10 0 0 0 10 -10v-108a10 10 0 0 0 -10 -10"></path>
 <path d="M55 127.5l5 -5l5 5"></path>
 </g>
-<path d="M468 61h10"></path>
-<path d="M478 61h10"></path>
+<path d="M485 61h10"></path>
+<path d="M495 61h10"></path>
 <g>
-<path d="M488 61h0"></path>
-<path d="M 488 61 h 20 m 0 -10 v 20"></path>
+<path d="M505 61h0"></path>
+<path d="M 505 61 h 20 m 0 -10 v 20"></path>
 </g>
 </g>
 <style>

@@ -1,36 +1,54 @@
 ---
-id: AN-1.21-activity-diagram
+id: AN-1:21-activity-diagram
 type: UmlModel
 parser: juls
 renderer: dotUml.svg
-name: High level process of the mind
-embedJsonModelInTarget: false
-stereotype: stereoType
-namespace: nameSpace
-href: https://www.dhammatalks.org/suttas/AN/AN1_21.html
-applyCompartmentSeparator: false
-applyMarkdown: true
-hideCompartments: false
-enableScript: true
-compartments: |
-  **Authors**: ASW & MW
-  **Date**: Sept 2021
 config:
   dotUml.dot:
-    ranksep: 1
-    splines: "ortho"
+    # rankdir: LR
+    # ranksep: 2
+    nodesep: 1.5
+    splines: ortho
+name: High level process of the mind
+href: https://www.dhammatalks.org/suttas/AN/AN1_21.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 1:21 href=https://www.dhammatalks.org/suttas/AN/AN1_21.html
+  ---
 notation: |2
-                               ,              {no}             
-  [^ __start] ~~~~~~> [? Is fuel remaining?] ~~~~~~> [$ __end]
+                               ,                         {no}             
+  [^ Beginningless past] ~~~~~~> [? Is fuel remaining?] ~~~~~~> [$ Extinguishment]
 
-                                         ,               {yes}
-  [? Is fuel remaining?] ~~~~~~> [? Is mind developed?] ~~~~~~> [s <<Here-&-now>> Happiness]
+                                         ,              <<Arahant>> 
+                          {yes}          ,               {yes}
+  [? Is fuel remaining?] ~~~~~~> [? Is mind developed?] ~~~~~~> [s <<Here-&-now>> Happiness] ~~~~~~> [? Is fuel remaining?]
 
+                          {no}
   [? Is mind developed?] ~~~~~~> [_ __undevFork] ~~~~~~> [s <<Here-&-now>> Stress] ~~~~~~> [_ __undevJoin]
 
-                                ,                                ,                  {yes}
-  [_ __undevFork] ~~~~~~> [? Is skillful?] ~~~~~~> [s <<merit>> Becoming w/ benefit] ~~~~~~> [_ __undevJoin]
+                                ,           {yes}
+  [_ __undevFork] ~~~~~~> [? Is skillful?] ~~~~~~> [s <<merit later>> Becoming with benefit] ~~~~~~> [_ __undevJoin]
 
-  [? Is skillful?] ~~~~~~>  [s <<de-merit>> Becoming w/ harm] ~~~~~~> [_ __undevJoin]
+                    {no}
+  [? Is skillful?] ~~~~~~>  [s <<de-merit later>> Becoming with harm] ~~~~~~> [_ __undevJoin]
 
-  [_ __undevJoin] ~~~~~~> [? Is fuel remaining?]
+  [_ __undevJoin] ~~~~~~> [? __undevJoinAfter] ~~~~~~> [? Is fuel remaining?]
+elements:
+  - id: Happiness
+    type: State
+    compartments: |
+      Felt as:
+        - pleasure
+        - pain
+        - neither
+  - id: Stress
+    type: State
+    compartments: |
+      Felt as:
+        - pleasure
+        - pain
+        - neither        

@@ -5,5 +5,5 @@ parser: juls
 renderer: tracks.svg
 notation: |
   =[= 
-    1+[:"Developed mind" "Happiness" | /"whilst fuel remains"/] 
-  =Parranibanna]=
+    1+[:"Developed hello" "Happiness" | /"whilst fuel remains"/] 
+  =Parra]=

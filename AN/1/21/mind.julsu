@@ -1,0 +1,56 @@
+---
+id: AN-1:21-mind class diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+name: Mind in relation to self
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 1:21 href=https://www.dhammatalks.org/suttas/AN/AN1_21.html
+  ---
+config:
+  dotUml.dot:
+    nodesep: 3
+notation: |2
+                          lives dependent on,
+  [<<fabrications>> Action] 1..* ~~~~<*> [Self] <>~~~~~ * [Mind]
+
+              ,                instigates
+  [Action] <|~~~~~ [Intention] ~~~~~~~ [Mind] 
+
+              (icAssoc):,                 
+  [Intention] ~~~~~~~ [Clinging] 
+  
+  [Self] ~~~~~~~ [Becoming] ....... [R icAssoc]
+            ,         , leads to
+elements:
+  - id: Self
+    type: Class
+    compartments: |
+      has fuel remaining
+      ripen next consciousness seed
+      plant seed of becoming
+  - id: Mind
+    type: Class
+    applyCompartmentSeparator: true
+    compartments: |
+      is tamed
+      is guarded
+      is protected
+      is restrainted
+      ---
+      is developed
+      experience happiness
+      experience stress
+  - id: Intention
+    type: Class
+    compartments: |
+      was skillful
+  - id: Becoming
+    type: Class
+    compartments: |
+      will it side with benefit
