@@ -1,5 +1,5 @@
 ---
-id: AN-1:21-mind class diagram
+id: AN-1:21-class diagram
 type: UmlModel
 parser: juls
 renderer: dotUml.svg

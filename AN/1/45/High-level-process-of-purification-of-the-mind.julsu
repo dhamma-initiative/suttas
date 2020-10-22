@@ -1,0 +1,53 @@
+---
+id: MN-24-activity-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+config:
+  dotUml.dot:
+    nodesep: 0.5
+    # splines: ortho
+name: High level process of purification of the mind
+href: https://www.dhammatalks.org/suttas/MN/MN24.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta MN 24 href=https://www.dhammatalks.org/suttas/MN/MN24.html
+  ---
+notation: |2
+  [^ Beginningless past] ~~~~~~> [s <<virtue>> Purify in terms of virtue]
+
+                                                                             , {no: lacking in skill}
+  [s Purify in terms of virtue] ~~~~~~> [? has requisites for concentration?] ~~~~~~> [s Purify in terms of virtue]
+
+  [? has requisites for concentration?] ~~~~~~> [s <<concentration>> Purify in terms of mind]
+
+                                                                                 , {no: lacking in skill}
+  [s Purify in terms of mind] ~~~~~~> [? has requisites for relinquishing views?] ~~~~~~> [s Purify in terms of virtue]
+
+  [? has requisites for relinquishing views?] ~~~~~~> [s <<discernment>> Purify in terms of view]
+  
+                                                                                                , {no: lacking in skill}
+  [s Purify in terms of view] ~~~~~~> [? has requisites for knowing what to develop & abandon?] ~~~~~~> [s Purify in terms of virtue]
+  
+  [? has requisites for knowing what to develop & abandon?] ~~~~~~> [s <<discernment>> Purify in terms of overcoming perplexity]
+
+                                                                                                    , {no: lacking in skill}
+  [s Purify in terms of overcoming perplexity] ~~~~~~> [? has requisites for a masterful practice?] ~~~~~~> [s Purify in terms of virtue]
+  
+  [? has requisites for a masterful practice?] ~~~~~~> [s <<discernment>> Purify in terms of knowledge & vision of what is & is not the path]
+ 
+                                                                                                                                     , {no: lacking in skill}
+  [s Purify in terms of knowledge & vision of what is & is not the path] ~~~~~~> [? has requisites for a straight-forward practice?] ~~~~~~> [s Purify in terms of virtue]
+
+  [? has requisites for a straight-forward practice?] ~~~~~~> [s <<discernment>> Purify in terms of knowledge & vision of the way]
+
+                                                                                                         , {no: lacking in skill}
+  [s Purify in terms of knowledge & vision of the way] ~~~~~~> [? has requisites for higher knowledges?] ~~~~~~> [s Purify in terms of virtue]
+  
+  [? has requisites for higher knowledges?] ~~~~~~> [s <<discernment>> Purify in terms of knowledge & vision]
+
+  [s Purify in terms of knowledge & vision] ~~~~~~> [s Unbinding] ~~~~~~> [$ Extinguishment]

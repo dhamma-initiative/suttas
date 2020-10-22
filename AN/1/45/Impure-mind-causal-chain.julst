@@ -1,0 +1,19 @@
+---
+id: AN-1.45-impure-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    1+[:
+      ^{
+        "Impure mind" 
+        "Not know his own benefit" 
+        "Not know the benefit of others"
+        "Not know the benefit of both"
+        "No noble attainment"
+        "No noble knowledge & vision"
+      }
+      | /"whilst the mind remains impure"/
+    ] 
+  =]=

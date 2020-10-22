@@ -1,0 +1,22 @@
+---
+id: AN-1.45-pure-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    1+[:
+      1+[:
+        ^{
+          "Pure mind" 
+          "Knows his own benefit" 
+          "Knows the benefit of others"
+          "Knows the benefit of both"
+        }
+        | /"whilst leading to next noble attainment"/
+      ] 
+      "Realises a noble attainment"
+      | /"whilst mind still has impurities [non-Arahant]"/
+    ]
+    "Acquires noble knowledge & vision"
+  =]=

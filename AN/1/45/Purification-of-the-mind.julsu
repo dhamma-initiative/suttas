@@ -1,0 +1,39 @@
+---
+id: AN-1:21-class diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+name: Purification of the mind
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Sources**: 
+    - Sutta AN 1:45 href=https://www.dhammatalks.org/suttas/AN/AN1_21.html
+    - Sutta MN 24 href=https://www.dhammatalks.org/suttas/MN/MN24.html
+  ---
+config:
+  dotUml.dot:
+    nodesep: 1.5
+    # ranksep: 2
+    # splines: ortho
+notation: |2
+        develops path to purification
+  [Mind] ~~~~~~> 7 [Purification Practice] 
+  
+  [Purification Practice] <|~~~~~ [<<virtue>> Virtue Practices]
+
+  [<<mind>> Concentration Practices] ~~~~~|> [Purification Practice] <|~~~~~ [<<views>> Methodical Practices]
+
+  [<<overcoming-perplexity>> Gotami's Practices] ~~~~~|> [Purification Practice] <|~~~~~ [<<is-&-isnt>> Masterful Practices]
+
+  [<<the-way>> Straight-forward Practices] ~~~~~|> [Purification Practice] <|~~~~~ [<<knowledge-&-vision>> Wings for Awakening Practices]
+elements:
+  - id: Mind
+    type: Class
+    applyCompartmentSeparator: true
+    compartments: |
+      develop what is skillful
+      abandon what is unskillful
