@@ -17,23 +17,29 @@ compartments: |
 config:
   dotUml.dot:
     nodesep: 1.5
-    # ranksep: 2
-    # splines: ortho
+    ranksep: 1.5
+    splines: ortho
 notation: |2
         develops path to purification
-  [Mind] ~~~~~~> 7 [Purification Practice] 
-  
-  [Purification Practice] <|~~~~~ [<<virtue>> Virtue Practices]
+  [Mind] ~~~~~~~ 7 [Purification Practices] ~~~~~~> 0..1 [Purification Practices]
+             ,                ,               ,    leads to the next
 
-  [<<mind>> Concentration Practices] ~~~~~|> [Purification Practice] <|~~~~~ [<<views>> Methodical Practices]
+  [Purification Practices] <|~~~~~ [<<virtue>> Lesser-Intermediate-Higher Virtue Practices]
 
-  [<<overcoming-perplexity>> Gotami's Practices] ~~~~~|> [Purification Practice] <|~~~~~ [<<is-&-isnt>> Masterful Practices]
+  [<<mind>> Four Jhanas Practices] ~~~~~|> [Purification Practices] <|~~~~~ [<<views>> Awakening to the Truth Practices]
 
-  [<<the-way>> Straight-forward Practices] ~~~~~|> [Purification Practice] <|~~~~~ [<<knowledge-&-vision>> Wings for Awakening Practices]
+  [<<overcoming-perplexity>> Gotami's Practices] ~~~~~|> [Purification Practices] <|~~~~~ [<<what-is-&-isnt>> Contemplatives Practices]
+
+  [<<the-way>> Noble Eightfold Path Practices] ~~~~~|> [Purification Practices] <|~~~~~ [<<knowledge-&-vision>> Four Bases of Power Practices]
 elements:
   - id: Mind
     type: Class
-    applyCompartmentSeparator: true
     compartments: |
       develop what is skillful
       abandon what is unskillful
+  - id: Purification Practices
+    type: Class
+    isAbstract: true
+    compartments: |
+      develop skillful qualities
+      abandon unskillful qualities

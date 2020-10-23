@@ -18,36 +18,67 @@ compartments: |
   **Source**: Sutta MN 24 href=https://www.dhammatalks.org/suttas/MN/MN24.html
   ---
 notation: |2
-  [^ Beginningless past] ~~~~~~> [s <<virtue>> Purify in terms of virtue]
+  [^ Beginningless past] ~~~~~~> [s <<virtue>> Purity in terms of virtue]
 
                                                                              , {no: lacking in skill}
-  [s Purify in terms of virtue] ~~~~~~> [? has requisites for concentration?] ~~~~~~> [s Purify in terms of virtue]
+  [s Purity in terms of virtue] ~~~~~~> [? has requisites for Jhana?] ~~~~~~> [s Purity in terms of virtue]
 
-  [? has requisites for concentration?] ~~~~~~> [s <<concentration>> Purify in terms of mind]
+  [? has requisites for Jhana?] ~~~~~~> [s <<concentration>> Purity in terms of mind]
 
                                                                                  , {no: lacking in skill}
-  [s Purify in terms of mind] ~~~~~~> [? has requisites for relinquishing views?] ~~~~~~> [s Purify in terms of virtue]
+  [s Purity in terms of mind] ~~~~~~> [? has requisites to awaken to truths?] ~~~~~~> [s Purity in terms of virtue]
 
-  [? has requisites for relinquishing views?] ~~~~~~> [s <<discernment>> Purify in terms of view]
+  [? has requisites to awaken to truths?] ~~~~~~> [s <<discernment>> Purity in terms of view]
   
                                                                                                 , {no: lacking in skill}
-  [s Purify in terms of view] ~~~~~~> [? has requisites for knowing what to develop & abandon?] ~~~~~~> [s Purify in terms of virtue]
+  [s Purity in terms of view] ~~~~~~> [? has requisites for Gotami's practices?] ~~~~~~> [s Purity in terms of virtue]
   
-  [? has requisites for knowing what to develop & abandon?] ~~~~~~> [s <<discernment>> Purify in terms of overcoming perplexity]
+  [? has requisites for Gotami's practices?] ~~~~~~> [s <<discernment>> Purity in terms of overcoming perplexity]
 
                                                                                                     , {no: lacking in skill}
-  [s Purify in terms of overcoming perplexity] ~~~~~~> [? has requisites for a masterful practice?] ~~~~~~> [s Purify in terms of virtue]
+  [s Purity in terms of overcoming perplexity] ~~~~~~> [? has requisites for contemplative practices?] ~~~~~~> [s Purity in terms of virtue]
   
-  [? has requisites for a masterful practice?] ~~~~~~> [s <<discernment>> Purify in terms of knowledge & vision of what is & is not the path]
+  [? has requisites for contemplative practices?] ~~~~~~> [s <<discernment>> Purity in terms of knowledge & vision of what is & is not the path]
  
                                                                                                                                      , {no: lacking in skill}
-  [s Purify in terms of knowledge & vision of what is & is not the path] ~~~~~~> [? has requisites for a straight-forward practice?] ~~~~~~> [s Purify in terms of virtue]
+  [s Purity in terms of knowledge & vision of what is & is not the path] ~~~~~~> [? has requisites for a noble eightfold path practices?] ~~~~~~> [s Purity in terms of virtue]
 
-  [? has requisites for a straight-forward practice?] ~~~~~~> [s <<discernment>> Purify in terms of knowledge & vision of the way]
+  [? has requisites for a noble eightfold path practices?] ~~~~~~> [s <<discernment>> Purity in terms of knowledge & vision of the way]
 
                                                                                                          , {no: lacking in skill}
-  [s Purify in terms of knowledge & vision of the way] ~~~~~~> [? has requisites for higher knowledges?] ~~~~~~> [s Purify in terms of virtue]
+  [s Purity in terms of knowledge & vision of the way] ~~~~~~> [? has requisites for higher knowledges?] ~~~~~~> [s Purity in terms of virtue]
   
-  [? has requisites for higher knowledges?] ~~~~~~> [s <<discernment>> Purify in terms of knowledge & vision]
+  [? has requisites for higher knowledges?] ~~~~~~> [s <<discernment>> Purity in terms of knowledge & vision]
 
-  [s Purify in terms of knowledge & vision] ~~~~~~> [s Unbinding] ~~~~~~> [$ Extinguishment]
+  [s Purity in terms of knowledge & vision] ~~~~~~> [s Unbinding] ~~~~~~> [$ Extinguishment]
+elements:
+  - id: Purity in terms of virtue
+    type: State
+    compartments: |
+      practices virtues
+  - id: Purity in terms of mind
+    type: State
+    compartments: |
+      practices Jhana
+  - id: Purity in terms of view
+    type: State
+    compartments: |
+      practices safe-guarding the truth
+      practices awakening to the truth
+  - id: Purity in terms of overcoming perplexity
+    type: State
+    compartments: |
+      practices Gotami's instructions for dispassion
+  - id: Purity in terms of knowledge & vision of what is & is not the path
+    type: State
+    compartments: |
+      practices contemplative's instructions for mastery
+  - id: Purity in terms of knowledge & vision of the way
+    type: State
+    compartments: |
+      practices noble eightfold path
+  - id: Purity in terms of knowledge & vision
+    type: State
+    compartments: |
+      practices the four bases of power
+
