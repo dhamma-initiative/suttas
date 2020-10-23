@@ -1,0 +1,40 @@
+---
+id: AN-3:103-class diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+name: Pliant mind
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 3:103 href=https://www.dhammatalks.org/suttas/AN/AN3_103.html
+  ---
+config:
+  dotUml.dot:
+    nodesep: 1
+    # ranksep: 1.5
+    splines: ortho
+notation: |2
+  [Intention] ~~~~~~~ [Mind] ~~~~~~~ [Attention]
+
+  [Attention] <|~~~~~ [<<theme>> Concentration Attention]
+
+  [Attention] <|~~~~~ [<<theme>> Uplifted Energy Attention]
+
+  [Attention] <|~~~~~ [<<theme>> Equinimity Attention]
+
+  [Intention] <|~~~~~ [<<potential>> Higher Knowledge Intention]
+
+  [Intention] <|~~~~~ [<<potential>> Supranormal Powers Intention]
+
+  [Intention] <|~~~~~ [<<potential>> Devine Ear Intention]
+
+  [Intention] <|~~~~~ [<<potential>> Awareness of Other Beings Intention]
+elements:
+  - id: Mind
+    type: Class
+    compartments: |
+      is pliant

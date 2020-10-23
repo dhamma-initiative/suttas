@@ -1,0 +1,47 @@
+---
+id: AN-3:103-activity-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+config:
+  dotUml.dot:
+    nodesep: 0.5
+    splines: ortho
+name: High level process of a pliant mind
+href: https://www.dhammatalks.org/suttas/AN/AN3_103.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 3:103 href=https://www.dhammatalks.org/suttas/AN/AN3_103.html
+  ---
+notation: |2
+  [^ __start] ~~~~~~> [_ __appropAttnFork]
+
+  [_ __appropAttnFork] ~~~~~~> [s __disTerm] ~~~~~~> [$ __end]
+  
+  [_ __appropAttnFork] ~~~~~~> [s attends to concentration] ~~~~~~> [_ __appropAttnJoin]
+
+  [_ __appropAttnFork] ~~~~~~> [s attends to uplifted energy] ~~~~~~> [_ __appropAttnJoin]
+
+  [_ __appropAttnFork] ~~~~~~> [s attends to equanimity] ~~~~~~> [_ __appropAttnJoin]
+
+  [_ __appropAttnJoin] ~~~~~~> [s pliant mind] ~~~~~~> [? wants?]
+
+                                    , {no opening}
+  [? __optionsEnd] ~~~~~~> [$ __end] <~~~~~~ [? wants?] 
+
+  [? wants?] ~~~~~~> [s Higher knowledges] ~~~~~~> [? __optionsEnd]
+
+  [? wants?] ~~~~~~> [s Supranormal powers] ~~~~~~> [? __optionsEnd]
+
+  [? wants?] ~~~~~~> [s Divine ear-element] ~~~~~~> [? __optionsEnd]
+
+  [? wants?] ~~~~~~> [s Awareness of other being] ~~~~~~> [? __optionsEnd]
+elements:
+  - id: __disTerm
+    type: State
+    name: fails to attend to all three
+    stateType: terminate
