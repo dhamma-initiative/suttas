@@ -18,38 +18,43 @@ compartments: |
   **Source**: Sutta AN 1:49 href=https://www.dhammatalks.org/suttas/AN/AN1_49.html
   ---
 notation: |2
-  [^ __start] ~~~~~~> [_ __nameAndFormFork]
-
-  [_ __nameAndFormFork] ~~~~~~> [o past perception:] ~~~~~~> [_ __contactFork]
-
-  [_ __nameAndFormFork] ~~~~~~> [o past feeling:] ~~~~~~> [_ __contactFork]
-
-  [_ __nameAndFormFork] ~~~~~~> [o past intention:] ~~~~~~> [_ __contactFork]
-
-  [_ __nameAndFormFork] ~~~~~~> [s direct ones attention] ~~~~~~> [_ __contactFork]
-
-  [_ __contactFork] ~~~~~~> [o <<six-sense-media>> past kamma:] ~~~~~~> [_ __feelingFork]
-
-  [_ __contactFork] ~~~~~~> [o consciousness:] ~~~~~~> [_ __feelingFork]
-
-                                                          , {no}
-  [_ __contactFork] ~~~~~~> [? is holding appropriate attention?] ~~~~~~> [o ignorance & craving:] ~~~~~~> [_ __feelingFork]
+                                       accompanied by
+                                       {not unbound}
+                                       \/
+  [^ seed next moment of consciousness] ....... [o ignorance:]
   
-  [? is holding appropriate attention?] ~~~~~~> [_ __feelingFork]
+  [^ seed next moment of consciousness] ~~~~~~> [s directs attention] 
 
-  [_ __contactFork] ~~~~~~> [s establish contact with sense media] ~~~~~~> [_ __feelingFork] 
+                                         , /\
+                 resulting in            , influenced by      
+  [o attention:] ~~~~<*> [o nameAndForm] ......O [s directs attention] 
 
-  [_ __feelingFork] ~~~~~~> [o feeling:] ~~~~~~> [_ __feelingJoin]
+                                                          , based on
+                                                          , \/
+  [s directs attention] ~~~~~~> [s senses contact] O...... [o <<past-kamma>> six sense media:]
 
-  [_ __feelingFork] ~~~~~~> [o perception:] ~~~~~~> [_ __feelingJoin]
+               accompanied by                , supported by
+               /\                            , \/
+               {not unbound}
+  [o craving:] ......O [s senses contact] O...... [o <<aggregate>> consciousness:]
 
-  [_ __feelingFork] ~~~~~~> [s cognizes feeling] ~~~~~~> [_ __feelingJoin] ~~~~~~> [? is dispassionate & resolved on cessation?]
-   
-                                 {no}
+  [s senses contact] ~~~~~~> [s feels, perceives & cognizes] ~~~~~~> [? is dispassionate & resolved on cessation?]
+
+  [o feeling] ......O [s feels, perceives & cognizes] O...... [o perception]
+
+                                                {no}
   [? is dispassionate & resolved on cessation?] ~~~~~~> [s complicates] ~~~~~~> [s directs ones intent]
 
   [? is dispassionate & resolved on cessation?] ~~~~~~> [s discerns] ~~~~~~> [s directs ones intent] ~~~~~~> [o intention:] ~~~~~~> [$ __end]
 elements:
+  - id: nameAndForm
+    type: Object
+    name: "name and form:"
+    compartments: |
+      - previous feeling
+      - previous perception
+      - previous intention
+      - previous contact
   - id: discerns
     type: State
     stateType: simple
