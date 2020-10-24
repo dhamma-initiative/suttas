@@ -1,0 +1,86 @@
+---
+id: reversal-of-mind-activity-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+config:
+  dotUml.dot:
+    nodesep: 0.5
+    # splines: ortho
+name: High level process of a reversal of mind
+href: https://www.dhammatalks.org/suttas/AN/AN1_49.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 1:49 href=https://www.dhammatalks.org/suttas/AN/AN1_49.html
+  ---
+notation: |2
+  [^ __start] ~~~~~~> [_ __nameAndFormFork]
+
+  [_ __nameAndFormFork] ~~~~~~> [o past perception:] ~~~~~~> [_ __contactFork]
+
+  [_ __nameAndFormFork] ~~~~~~> [o past feeling:] ~~~~~~> [_ __contactFork]
+
+  [_ __nameAndFormFork] ~~~~~~> [o past intention:] ~~~~~~> [_ __contactFork]
+
+  [_ __nameAndFormFork] ~~~~~~> [s direct ones attention] ~~~~~~> [_ __contactFork]
+
+  [_ __contactFork] ~~~~~~> [o <<six-sense-media>> past kamma:] ~~~~~~> [_ __feelingFork]
+
+  [_ __contactFork] ~~~~~~> [o consciousness:] ~~~~~~> [_ __feelingFork]
+
+                                                          , {no}
+  [_ __contactFork] ~~~~~~> [? is holding appropriate attention?] ~~~~~~> [o ignorance & craving:] ~~~~~~> [_ __feelingFork]
+  
+  [? is holding appropriate attention?] ~~~~~~> [_ __feelingFork]
+
+  [_ __contactFork] ~~~~~~> [s establish contact with sense media] ~~~~~~> [_ __feelingFork] 
+
+  [_ __feelingFork] ~~~~~~> [o feeling:] ~~~~~~> [_ __feelingJoin]
+
+  [_ __feelingFork] ~~~~~~> [o perception:] ~~~~~~> [_ __feelingJoin]
+
+  [_ __feelingFork] ~~~~~~> [s cognizes feeling] ~~~~~~> [_ __feelingJoin] ~~~~~~> [? is dispassionate & resolved on cessation?]
+   
+                                 {no}
+  [? is dispassionate & resolved on cessation?] ~~~~~~> [s complicates] ~~~~~~> [s directs ones intent]
+
+  [? is dispassionate & resolved on cessation?] ~~~~~~> [s discerns] ~~~~~~> [s directs ones intent] ~~~~~~> [o intention:] ~~~~~~> [$ __end]
+elements:
+  - id: discerns
+    type: State
+    stateType: simple
+    compartments: |
+    notation: |
+      [^ __s1] ~~~~~~> [s comprehends with direct knowledge] ~~~~~~> [? was previously attached?] ~~~~~~> [s relinquishes clingable] ~~~~~~> [$ __e1]
+
+                                  {no}
+      [? was previously attached?] ~~~~~~> [$ __e1]
+    elements:
+      - id: relinquishes clingable
+        stereotype: reversable
+        type: State
+        stateType: simple
+        compartments: |
+          reverses: 
+            - from bliss to stress
+  - id: complicates
+    type: State
+    stateType: simple
+    notation: |
+      [^ __s2] ~~~~~~> [s resolves clingable for perception] ~~~~~~> [? are past & present perceptions conflicting?] ~~~~~~> [s change clingables state] ~~~~~~> [s (re)attaches to clingable] ~~~~~~> [$ __e2]
+
+                                                      {no}
+      [? are past & present perceptions conflicting?] ~~~~~~> [$ __e2]
+    elements:
+      - id: change clingables state
+        stereotype: reversable
+        type: State
+        stateType: simple
+        compartments: |
+          reverses: 
+            - from true to false OR
+            - from false to true

@@ -1,0 +1,17 @@
+---
+id: AN-1.48-Pliant-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    "conflicting perception" 
+    1+(
+      "change in sensuality" | 
+      :"change in view" |
+      "change in habits & practices" |
+      "change belief of self"
+    )
+    "reversal of mind" 
+  =]=
+  
