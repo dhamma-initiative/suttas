@@ -18,74 +18,32 @@ compartments: |
   **Source**: Sutta AN 1:49 href=https://www.dhammatalks.org/suttas/AN/AN1_49.html
   ---
 notation: |2
-                                       accompanied by
-                                       {not unbound}
-                                       \/
-  [^ seed next moment of consciousness] ....... [o ignorance:]
-  
-  [^ seed next moment of consciousness] ~~~~~~> [s directs attention] 
-
-                                         , /\
-                 resulting in            , influenced by      
-  [o attention:] ~~~~<*> [o nameAndForm] ......O [s directs attention] 
-
-                                                          , based on
-                                                          , \/
-  [s directs attention] ~~~~~~> [s senses contact] O...... [o <<past-kamma>> six sense media:]
-
-               accompanied by                , supported by
-               /\                            , \/
-               {not unbound}
-  [o craving:] ......O [s senses contact] O...... [o <<aggregate>> consciousness:]
-
-  [s senses contact] ~~~~~~> [s feels, perceives & cognizes] ~~~~~~> [? is dispassionate & resolved on cessation?]
-
-  [o feeling] ......O [s feels, perceives & cognizes] O...... [o perception]
+  [^ __start] ~~~~~~> [s senses] ~~~~~~> [s feels] ~~~~~~> [s perceives] ~~~~~~> [s cognizes] ~~~~~~> [? is dispassionate & resolved on cessation?]
 
                                                 {no}
-  [? is dispassionate & resolved on cessation?] ~~~~~~> [s complicates] ~~~~~~> [s directs ones intent]
+  [? is dispassionate & resolved on cessation?] ~~~~~~> [s complicates] ~~~~~~> [$ __end]
 
-  [? is dispassionate & resolved on cessation?] ~~~~~~> [s discerns] ~~~~~~> [s directs ones intent] ~~~~~~> [o intention:] ~~~~~~> [$ __end]
+                                                {yes}
+  [? is dispassionate & resolved on cessation?] ~~~~~~> [s discerns] ~~~~~~> [$ __end]
 elements:
-  - id: nameAndForm
-    type: Object
-    name: "name and form:"
-    compartments: |
-      - previous feeling
-      - previous perception
-      - previous intention
-      - previous contact
   - id: discerns
     type: State
     stateType: simple
     compartments: |
     notation: |
-      [^ __s1] ~~~~~~> [s comprehends with direct knowledge] ~~~~~~> [? was previously attached?] ~~~~~~> [s relinquishes clingable] ~~~~~~> [$ __e1]
+      [^ __s1] ~~~~~~> [? was previously attached?] ~~~~~~> [s reverses perception from (bliss/safety) to stress] ~~~~~~> [$ __e1]
 
                                   {no}
       [? was previously attached?] ~~~~~~> [$ __e1]
-    elements:
-      - id: relinquishes clingable
-        stereotype: reversable
-        type: State
-        stateType: simple
-        compartments: |
-          reverses: 
-            - from bliss to stress
   - id: complicates
     type: State
     stateType: simple
-    notation: |
-      [^ __s2] ~~~~~~> [s resolves clingable for perception] ~~~~~~> [? are past & present perceptions conflicting?] ~~~~~~> [s change clingables state] ~~~~~~> [s (re)attaches to clingable] ~~~~~~> [$ __e2]
+    notation: |2
+                                                 , {yes}
+      [^ __s2]  ~~~~~~> [? is more complicated?] ~~~~~~> [s reverses perception from (unknown/false) to true] ~~~~~~> [$ __e2]
 
-                                                      {no}
-      [? are past & present perceptions conflicting?] ~~~~~~> [$ __e2]
-    elements:
-      - id: change clingables state
-        stereotype: reversable
-        type: State
-        stateType: simple
-        compartments: |
-          reverses: 
-            - from true to false OR
-            - from false to true
+                               {no}
+      [? is more complicated?] ~~~~~~> [s reverses perception from true to false] ~~~~~~> [$ __e2]
+                            
+                               {neither}
+      [? is more complicated?] ~~~~~~> [$ __e2]

@@ -1,0 +1,51 @@
+---
+id: AN-1:49-class diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+name: Reversal of mind
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 1:49 href=https://www.dhammatalks.org/suttas/AN/AN1_49.html
+  ---
+config:
+  dotUml.dot:
+    nodesep: 1
+    splines: ortho
+notation: |2
+         grasps to
+  [Mind] <>~~~~> * [Clingable] <|~~~~~ [Sensuality] 
+
+  [View] ~~~~~|> [Clingable] <|~~~~~ [Habits & Practices] 
+
+  [Clingable] <|~~~~~ [Doctrine of Self] 
+
+              sustained by
+  [Clingable] ~~~~~~> [<<here-&-now>> Five Clinging Aggregates]
+
+  [Clingable] ....... [note1]
+elements:
+  - id: Mind
+    type: Class
+    applyMarkdown: true
+    compartments: |
+      discerns
+      complicates
+  - id: Clingable
+    type: Class
+    applyCompartmentSeparator: true
+    compartments: |
+      abandons
+      attaches to
+      ---
+      holds as true
+      regards as false
+  - id: note1
+    type: Note
+    applyMarkdown: true
+    lines: |
+      Reversal occurs at the dualities in the clingables
