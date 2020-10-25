@@ -1,0 +1,36 @@
+---
+id: AN-1.50-Lumious-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      ^{
+        "subdued hindrances"
+        1+(
+          :"free from passion" | 
+          "free from aversion" |
+          "free from delusion" |
+        )
+        ^{ 
+          "singlness of preoccupation"
+          "1st Jhana"
+          "2nd Jhana"
+          "3rd Jhana"
+          "4th Jhana"
+        }
+      }
+      | /"development of the mind"/
+    )
+    [
+      ^{
+        "5th Jhana"
+        "6th Jhana"
+        "7th Jhana"
+        "8th Jhana"
+        "cessation of percetion & feeling"
+      }
+    ]
+    "luminous mind state" 
+  =]=

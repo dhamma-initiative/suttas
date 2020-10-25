@@ -1,0 +1,45 @@
+---
+id: lumious-mind-activity-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+config:
+  dotUml.dot:
+    nodesep: 0.5
+    # splines: ortho
+name: High level process of a luminous mind
+href: https://www.dhammatalks.org/suttas/AN/AN1_50.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Sept 2021
+  **Source**: Sutta AN 1:50 href=https://www.dhammatalks.org/suttas/AN/AN1_50.html
+  ---
+notation: |2
+                                               , {no}
+  [^ __start] ~~~~~~> [? has fueld remaining?] ~~~~~~> [$ __end]
+
+  [? has fueld remaining?] ~~~~~~> [s spawn seed of consciousness] O~~~~~~ [o <<w/o-surface>> seed-consciousness:]
+
+  [s spawn seed of consciousness] ~~~~~~> [? has entered opening into 9th Jhana?] ~~~~~~> [s dwell in the cessation of perception & feeling] O~~~~~~ [o <<luminous>> 9th Jhana:]
+
+                                                     {predetermined time passes}
+  [s dwell in the cessation of perception & feeling] ~~~~~~> [? has fueld remaining?]
+
+  [? has entered opening into 9th Jhana?] ~~~~~~> [s dependently co-arise context for consciousness] O~~~~~~ [o <<here-&-now>> name-&-form:]
+
+  [o <<aggregate>> consciousness:] ~~~~~~O [s dependently co-arise context for consciousness] ~~~~~~> [s dependently co-arise present kamma] O~~~~~~ [o <<here-&-now>> six-sense-media:]
+
+  [s dependently co-arise present kamma] ~~~~~~> [s establish sensory contact] O~~~~~~ [o <<aggregate>> feeling:]
+
+  [o <<aggregate>> intention:] ~~~~~~O [s establish sensory contact] O~~~~~~ [o <<aggregate>> perception:]
+
+                                                                                   , {no}
+  [s establish sensory contact] ~~~~~~> [? was intent on 4th Jhana w/ requisites?] ~~~~~~> [s dwells in line with causation]
+
+  [? was intent on 4th Jhana w/ requisites?] ~~~~~~> [s dwells in 4th Jhana] O~~~~~~ [o <<luminous>> 4th Jhana:]
+
+
+elements:

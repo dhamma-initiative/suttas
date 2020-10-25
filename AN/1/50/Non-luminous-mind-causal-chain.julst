@@ -1,0 +1,18 @@
+---
+id: AN-1.50-Non-lumious-mind
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      "overcome by hindrances"
+      1+(
+        :"passion" | 
+        "aversion" |
+        "delusion"
+      )
+      | /"non-development of the mind"/
+    )
+    "non-luminous mind state" 
+  =]=

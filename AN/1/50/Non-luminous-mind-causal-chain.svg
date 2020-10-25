@@ -1,0 +1,129 @@
+<svg class="tracks" width="780.5" height="160" viewBox="0 0 780.5 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M465 61h0"></path>
+<rect x="60" y="42" width="405" height="98" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h10"></path>
+<path d="M455 61h10"></path>
+<g class="terminal">
+<path d="M70 61h0"></path>
+<path d="M277 61h0"></path>
+<rect x="70" y="50" width="207" height="22" rx="10" ry="10"></rect>
+<text x="173.5" y="65">overcome by hindrances</text>
+</g>
+<path d="M277 61h10"></path>
+<path d="M287 61h10"></path>
+<g>
+<path d="M297 61h0"></path>
+<path d="M455 61h0"></path>
+<path d="M327 61h10"></path>
+<g class="terminal">
+<path d="M337 61h4.25"></path>
+<path d="M420.75 61h4.25"></path>
+<rect x="341.25" y="50" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="381" y="65">passion</text>
+</g>
+<path d="M425 61h10"></path>
+<path d="M327 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M337 91h0"></path>
+<path d="M425 91h0"></path>
+<rect x="337" y="80" width="88" height="22" rx="10" ry="10"></rect>
+<text x="381" y="95">aversion</text>
+</g>
+<path d="M425 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M327 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M337 121h0"></path>
+<path d="M425 121h0"></path>
+<rect x="337" y="110" width="88" height="22" rx="10" ry="10"></rect>
+<text x="381" y="125">delusion</text>
+</g>
+<path d="M425 121a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 327 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="312" y="65" class="diagram-text">1+</text>
+<path d="M 435 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 442 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M259 31h0"></path>
+<text x="159.5" y="36" class="comment">non-development of the mind</text>
+</g>
+</g>
+<path d="M465 61h10"></path>
+<path d="M475 61h10"></path>
+<g class="terminal">
+<path d="M485 61h0"></path>
+<path d="M700.5 61h0"></path>
+<rect x="485" y="50" width="215.5" height="22" rx="10" ry="10"></rect>
+<text x="592.75" y="65">non-luminous mind state</text>
+</g>
+<path d="M700.5 61h10"></path>
+<path d="M710.5 61h10"></path>
+<g>
+<path d="M720.5 61h0"></path>
+<path d="M 720.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

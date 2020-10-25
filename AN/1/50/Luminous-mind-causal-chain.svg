@@ -1,0 +1,224 @@
+<svg class="tracks" width="1074.5" height="611" viewBox="0 0 1074.5 611" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M401 360h0"></path>
+<rect x="60" y="42" width="341" height="337" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h10"></path>
+<path d="M70 61h10"></path>
+<g class="terminal">
+<path d="M80 61h64"></path>
+<path d="M317 61h64"></path>
+<rect x="144" y="50" width="173" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="65">subdued hindrances</text>
+</g>
+<path d="M381 61a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-301a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 101h29"></path>
+<path d="M352 101h29"></path>
+<path d="M139 101h10"></path>
+<g class="terminal">
+<path d="M149 101h4.25"></path>
+<path d="M317.75 101h4.25"></path>
+<rect x="153.25" y="90" width="164.5" height="22" rx="10" ry="10"></rect>
+<text x="235.5" y="105">free from passion</text>
+</g>
+<path d="M322 101h10"></path>
+<path d="M139 101v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M149 131h0"></path>
+<path d="M322 131h0"></path>
+<rect x="149" y="120" width="173" height="22" rx="10" ry="10"></rect>
+<text x="235.5" y="135">free from aversion</text>
+</g>
+<path d="M322 131a10 10 0 0 0 10 -10v-20"></path>
+<path d="M139 101v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M149 161h0"></path>
+<path d="M322 161h0"></path>
+<rect x="149" y="150" width="173" height="22" rx="10" ry="10"></rect>
+<text x="235.5" y="165">free from delusion</text>
+</g>
+<path d="M322 161a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 139 91 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="124" y="105" class="diagram-text">1+</text>
+<path d="M 332 91 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 339 99 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M381 101a10 10 0 0 1 10 10v59a10 10 0 0 1 -10 10h-301a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M80 200h10"></path>
+<path d="M90 200h10"></path>
+<g class="terminal">
+<path d="M100 200h10"></path>
+<path d="M351 200h10"></path>
+<rect x="110" y="189" width="241" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="204">singlness of preoccupation</text>
+</g>
+<path d="M361 200a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-261a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 240h82.25"></path>
+<path d="M278.75 240h82.25"></path>
+<rect x="182.25" y="229" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="244">1st Jhana</text>
+</g>
+<path d="M361 240a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-261a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 280h82.25"></path>
+<path d="M278.75 280h82.25"></path>
+<rect x="182.25" y="269" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="284">2nd Jhana</text>
+</g>
+<path d="M361 280a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-261a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 320h82.25"></path>
+<path d="M278.75 320h82.25"></path>
+<rect x="182.25" y="309" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="324">3rd Jhana</text>
+</g>
+<path d="M361 320a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-261a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 360h82.25"></path>
+<path d="M278.75 360h82.25"></path>
+<rect x="182.25" y="349" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="230.5" y="364">4th Jhana</text>
+</g>
+<path d="M361 360h10"></path>
+<path d="M371 360h10"></path>
+</g>
+<path d="M381 360h10"></path>
+<path d="M391 360h10"></path>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M231 31h0"></path>
+<text x="145.5" y="36" class="comment">development of the mind</text>
+</g>
+</g>
+<path d="M401 360h10"></path>
+<path d="M411 360h10"></path>
+<g>
+<path d="M421 360h0"></path>
+<path d="M793 360h0"></path>
+<path d="M421 360h20"></path>
+<g>
+<path d="M441 360h332"></path>
+</g>
+<path d="M773 360h20"></path>
+<path d="M421 360a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M441 380h0"></path>
+<path d="M441 380h10"></path>
+<g class="terminal">
+<path d="M451 380h107.75"></path>
+<path d="M655.25 380h107.75"></path>
+<rect x="558.75" y="369" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="607" y="384">5th Jhana</text>
+</g>
+<path d="M763 380a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-312a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M451 420h107.75"></path>
+<path d="M655.25 420h107.75"></path>
+<rect x="558.75" y="409" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="607" y="424">6th Jhana</text>
+</g>
+<path d="M763 420a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-312a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M451 460h107.75"></path>
+<path d="M655.25 460h107.75"></path>
+<rect x="558.75" y="449" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="607" y="464">7th Jhana</text>
+</g>
+<path d="M763 460a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-312a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M451 500h107.75"></path>
+<path d="M655.25 500h107.75"></path>
+<rect x="558.75" y="489" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="607" y="504">8th Jhana</text>
+</g>
+<path d="M763 500a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-312a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M451 540h10"></path>
+<path d="M753 540h10"></path>
+<rect x="461" y="529" width="292" height="22" rx="10" ry="10"></rect>
+<text x="607" y="544">cessation of percetion &#38; feeling</text>
+</g>
+<path d="M763 540h10"></path>
+<path d="M773 540h0"></path>
+</g>
+<path d="M773 540a10 10 0 0 0 10 -10v-160a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M793 360h10"></path>
+<path d="M803 360h10"></path>
+<g class="terminal">
+<path d="M813 360h0"></path>
+<path d="M994.5 360h0"></path>
+<rect x="813" y="349" width="181.5" height="22" rx="10" ry="10"></rect>
+<text x="903.75" y="364">luminous mind state</text>
+</g>
+<path d="M994.5 360h10"></path>
+<path d="M1004.5 360h10"></path>
+<g>
+<path d="M1014.5 360h0"></path>
+<path d="M 1014.5 360 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>
