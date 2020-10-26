@@ -1,12 +1,12 @@
 ---
-id: lumious-mind-activity-diagram
+id: luminous-mind-activity-diagram
 type: UmlModel
 parser: juls
 renderer: dotUml.svg
 config:
   dotUml.dot:
     nodesep: 0.5
-    # splines: ortho
+    splines: ortho
 name: High level process of a luminous mind
 href: https://www.dhammatalks.org/suttas/AN/AN1_50.html
 anchorCompartmentEntriesEndingWithHref: true
@@ -19,27 +19,57 @@ compartments: |
   ---
 notation: |2
                                                , {no}
-  [^ __start] ~~~~~~> [? has fueld remaining?] ~~~~~~> [$ __end]
+  [^ __start] ~~~~~~> [? has fuel remaining?] ~~~~~~> [$ __end]
 
-  [? has fueld remaining?] ~~~~~~> [s spawn seed of consciousness] O~~~~~~ [o <<w/o-surface>> seed-consciousness:]
+  [? has fuel remaining?] ~~~~~~> [s spawn seed of consciousness]
 
-  [s spawn seed of consciousness] ~~~~~~> [? has entered opening into 9th Jhana?] ~~~~~~> [s dwell in the cessation of perception & feeling] O~~~~~~ [o <<luminous>> 9th Jhana:]
+  [s spawn seed of consciousness] ~~~~~~> [? has requisites for 9th Jhana?] ~~~~~~> [s dwells in the 9th Jhana]
 
-                                                     {predetermined time passes}
-  [s dwell in the cessation of perception & feeling] ~~~~~~> [? has fueld remaining?]
+                              {predetermined time passes}
+  [s dwells in the 9th Jhana] ~~~~~~> [? has fuel remaining?]
 
-  [? has entered opening into 9th Jhana?] ~~~~~~> [s dependently co-arise context for consciousness] O~~~~~~ [o <<here-&-now>> name-&-form:]
+                                    {no}
+  [? has requisites for 9th Jhana?] ~~~~~~> [s dependently co-arise context for consciousness] ~~~~~~> [s dependently co-arise present kamma] 
 
-  [o <<aggregate>> consciousness:] ~~~~~~O [s dependently co-arise context for consciousness] ~~~~~~> [s dependently co-arise present kamma] O~~~~~~ [o <<here-&-now>> six-sense-media:]
-
-  [s dependently co-arise present kamma] ~~~~~~> [s establish sensory contact] O~~~~~~ [o <<aggregate>> feeling:]
-
-  [o <<aggregate>> intention:] ~~~~~~O [s establish sensory contact] O~~~~~~ [o <<aggregate>> perception:]
+  [s dependently co-arise present kamma] ~~~~~~> [s dependently co-arise sensory contact] 
 
                                                                                    , {no}
-  [s establish sensory contact] ~~~~~~> [? was intent on 4th Jhana w/ requisites?] ~~~~~~> [s dwells in line with causation]
+  [s dependently co-arise sensory contact] ~~~~~~> [? has requisites for 4th Jhana?] ~~~~~~> [s dwells in line with causation of perception attainments] ~~~~~~> [? has fuel remaining?]
 
-  [? was intent on 4th Jhana w/ requisites?] ~~~~~~> [s dwells in 4th Jhana] O~~~~~~ [o <<luminous>> 4th Jhana:]
+  [? has requisites for 4th Jhana?] ~~~~~~> [s dwells in line with causation of perception attainments of 4th Jhana] ~~~~~~> [? has fuel remaining?]
 
 
 elements:
+  - id: spawn seed of consciousness
+    type: State
+    applyMarkdown: true
+    compartments: |
+      <<w/o-surface>> _seed-consciousness:_
+  - id: dwells in the 9th Jhana
+    type: State
+    applyMarkdown: true
+    compartments: |
+      <<luminous>> _cessation of perception & feeling:_
+  - id: dependently co-arise context for consciousness
+    type: State
+    applyMarkdown: true
+    compartments: |
+      <<here-&-now>> _name-&-form:_
+      <<aggregate>> _consciousness:_
+  - id: dependently co-arise present kamma
+    type: State
+    applyMarkdown: true
+    compartments: |
+      <<here-&-now>> _six-sense-media:_
+  - id: dependently co-arise sensory contact
+    type: State
+    applyMarkdown: true
+    compartments: |
+      <<aggregate>> _feeling:_
+      <<aggregate>> _perception:_
+      <<aggregate>> _intention:_
+  - id: dwells in line with causation of perception attainments of 4th Jhana
+    type: State
+    applyMarkdown: true
+    compartments: |
+      <<luminous>> _4th Jhana:_

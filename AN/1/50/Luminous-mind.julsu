@@ -1,5 +1,5 @@
 ---
-id: AN-1:49-class diagram
+id: AN-1:50-class diagram
 type: UmlModel
 parser: juls
 renderer: dotUml.svg
@@ -10,42 +10,26 @@ applyMarkdown: true
 compartments: |
   **Authors**: AshinW
   **Date**: Sept 2021
-  **Source**: Sutta AN 1:49 href=https://www.dhammatalks.org/suttas/AN/AN1_49.html
+  **Source**: Sutta AN 1:50 href=https://www.dhammatalks.org/suttas/AN/AN1_50.html
   ---
 config:
   dotUml.dot:
-    nodesep: 1
+    nodesep: .5
     splines: ortho
 notation: |2
-         grasps to
-  [Mind] <>~~~~> * [Clingable] <|~~~~~ [Sensuality] 
+  [<<aggregate>> Form] [<<aggregate>> Consciousness] [<<aggregate>> Feeling] [<<aggregate>> Perception] [<<aggregate>> Fabrication]
 
-  [View] ~~~~~|> [Clingable] <|~~~~~ [Habits & Practices] 
+  [Form] ~~~~<*> [Time-&-Space] <*>~~~~ [Feeling] [Perception] ~~~~<*> [Time-&-Space] <*>~~~~ [Fabrication] [<<here-&-now>> Time-&-Space] <*>~~~~ [Consciousness]
 
-  [Clingable] <|~~~~~ [Doctrine of Self] 
+  [Consciousness] ~~~~~|> [Consciousness Base] <|~~~~~ [Consciousness Without Surface]
 
-              sustained by
-  [Clingable] ~~~~~~> [<<here-&-now>> Five Clinging Aggregates]
+                                (crmqass): has prior mental qualities \/
+  [Consciousness Without Surface] ~~~~~~~ [Requisite Mental Qualities] 
 
-  [Clingable] ....... [note1]
-elements:
-  - id: Mind
-    type: Class
-    applyMarkdown: true
-    compartments: |
-      discerns
-      complicates
-  - id: Clingable
-    type: Class
-    applyCompartmentSeparator: true
-    compartments: |
-      abandons
-      attaches to
-      ---
-      holds as true
-      regards as false
-  - id: note1
-    type: Note
-    applyMarkdown: true
-    lines: |
-      Reversal occurs at the dualities in the clingables
+  [R crmqass] ....... [<<luminous>> Cessation-of-Perception-&-Feeling]
+                  ,  {has requisites for 9th Jhana}
+
+  [Consciousness Without Surface] ~~~~~~~ [Mind] ~~~~~~~ [Name-&-Form] ~~~~~~~ [Consciousness]
+
+              (pcass):
+  [Perception] ~~~~~~~ [Consciousness] [R pcass] ....... [<<luminous>> 4th Jhana]
