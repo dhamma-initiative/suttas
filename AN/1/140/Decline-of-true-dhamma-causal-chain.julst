@@ -1,0 +1,19 @@
+---
+id: SN 16:13-Counterfeit of the True Dhamma
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    1+(
+      "without respect for the Buddha/teacher" |
+      "without respect for the Dhamma" |
+      "without respect for the Noble Sangha" |
+      "without respect for the training" |
+      "without respect for concentration" |
+    )
+    all(
+      :"confusion of the true Dhamma"|
+      "disappearance of the true Dhamma"
+    )
+  =]=

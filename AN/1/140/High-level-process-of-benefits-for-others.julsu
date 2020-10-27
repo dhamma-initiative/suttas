@@ -1,0 +1,36 @@
+---
+id: benefits-for-others-activity-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+config:
+  dotUml.dot:
+    nodesep: 0.5
+    splines: ortho
+name: High level process of benefits for others
+href: https://www.dhammatalks.org/suttas/AN/AN1_140.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Oct 2021
+  **Source**: 
+    - Sutta AN 1:140 href=https://www.dhammatalks.org/suttas/AN/AN1_140.html
+    - Sutta MN 95 href=https://www.dhammatalks.org/suttas/MN/MN95.html
+  ---
+notation: |2
+  [^ __start] ~~~~~~> [s acquiring admirable friendship] ~~~~~~> [s gaining conviction]
+
+  [s gaining conviction] ~~~~~~> [s visiting regularly] ~~~~~~> [s growing closer]
+
+  [s growing closer] ~~~~~~> [s listening to their instruction] ~~~~~~> [s hearing their Dhamma]
+
+  [s hearing their Dhamma] ~~~~~~> [s remembering their Dhamma] ~~~~~~> [s penetrating the meaning]
+
+  [s penetrating the meaning] ~~~~~~> [s aligning their views with yours] ~~~~~~> [s desire to practice in accordance with Dhamma]
+
+  [s desire to practice in accordance with Dhamma] ~~~~~~> [s willingness to endure until results] ~~~~~~> [s contemplate what should be developed & abandoned]
+
+  [s contemplate what should be developed & abandoned] ~~~~~~> [s exert oneself to develop & abandon] ~~~~~~> [s awaken to truth] ~~~~~~> [$ __end]
+elements:

@@ -1,0 +1,17 @@
+---
+id: AN-1.140-Benefit-of-others
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    1+(
+      "explaining not-Dhamma as not-Dhamma" |
+      "explaining Dhamma as Dhamma" |
+    )
+    all(
+      "practice for the benefit of other" |
+      "gain merit" |
+      "helps the True Dhamma roll on" |
+    )
+  =]=

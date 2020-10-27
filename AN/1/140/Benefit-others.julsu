@@ -1,0 +1,68 @@
+---
+id: AN-1:140-benefit-others
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+name: Reversal of mind
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Oct 2021
+  **Source**: 
+    - Sutta AN 1:140 href=https://www.dhammatalks.org/suttas/AN/AN1_140.html
+    - Sutta MN 95 href=https://www.dhammatalks.org/suttas/MN/MN95.html
+    - Sutta SN 16:13 href=https://www.dhammatalks.org/suttas/SN/SN16_13.html
+  ---
+config:
+  dotUml.dot:
+    nodesep: .5
+    # splines: ortho
+notation: |2
+  [Virtue] ~~~~~<> [Training] <>~~~~~ [Concentration] [Training] <>~~~~~ [Discernment]
+
+              is an                        , is the foremost
+  [Noble One] ~~~~~~~ [i Admirable Friend] ~~~~~~~ [Buddha] ~~~~~|> [Noble One] <>~~~~~ 1..* [Noble Sangha]
+
+           respect for                      , respect for    , teaches the
+           /\                               , /\             , /\
+  [Buddha] ~~~~~~~ [Continuity True Dhamma] ~~~~~~~ [Dhamma] ~~~~~~~ [Admirable Friend]
+
+                                        ,                     , for the benefit of
+          (dtAss):                      ,                     , oneself/others/both
+  [Dhamma] ~~~~~~~ [Training] [R dtAss] ....... 4 [Practices] ~~~~~~~ [Noble Sangha]
+
+                  respect for                     , respect for
+                  /\                              , \/
+  [Noble Sangha] ~~~~~~~ [Continuity True Dhamma] ~~~~~~~ [Concentration]
+
+  [<<methodical>> Awaken to Truth Practice] ~~~~~|> [Practices] <|~~~~~ [<<well-in-tune>> Gotami's Practice]
+
+  [<<straight-forward>> Noble Eightfold Path] ~~~~~|> [Practices] <|~~~~~ [<<masterful>> Contemplatives Practice]
+
+
+elements:
+  - id: Dhamma
+    type: Class
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      is cause & effect instantly occuring
+      ---
+      **cause**
+      **effect**
+  - id: Practices
+    type: Class
+    applyMarkdown: true
+    compartments: |
+      <<develop>> **attend to this**
+      <<abandon>> **let go of that**
+  - id : Awaken to Truth Practice
+    type: Class
+    applyMarkdown: true
+    compartments: |
+      + gaining conviction
+      + visiting regularly
+      ...
+      + awaken to truth
