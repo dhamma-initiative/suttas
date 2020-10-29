@@ -1,0 +1,16 @@
+---
+id: SN 48:50 persistence as a strength causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      "conviction"
+      | /"requisutes leading to persistence"/
+    )
+    "persistence"
+    "mindfulness"
+    "concentration"
+    "discernment"
+  =]=

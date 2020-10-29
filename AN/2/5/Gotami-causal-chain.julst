@@ -1,0 +1,22 @@
+---
+id: AN 8:53 Gotami causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      all(
+        :"dispassion" | 
+        "unfetteredness" | 
+        "shedding of mental acquisitions" |
+        "modesting" |
+        "contentment" |
+        "reclusiveness/seclusion" |
+        "persistence" |
+        "unburdensomeness" |
+      )
+      | /"discontent WRT one's existing qualities"/
+    )
+    "rightness of skillful qualities"
+  =]=

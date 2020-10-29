@@ -1,0 +1,21 @@
+---
+id: AN 7:46 Perceptions causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      all(
+        :"unattractive" | 
+        "death" | 
+        "loathsomeness in food" |
+        "distaste for every world" |
+        "inconstancy" |
+        "stress in what is inconstant" |
+        "not-self in what is stressful" |
+      )
+      | /"discontent WRT one's existing level of perceptions"/
+    )
+    "unbinding"
+  =]=

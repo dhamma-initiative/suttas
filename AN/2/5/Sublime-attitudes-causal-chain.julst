@@ -1,0 +1,22 @@
+---
+id: AN 8:70 Sublime attitudes causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      1+[:
+        all(
+          :"good-will in 1st Jhana" | 
+          "compassion in 1st Jhana" | 
+          "empathetic-joy in 1st Jhana" | 
+          "equanimity-joy in 1st Jhana" | 
+        )      
+       | /"repeat for 2nd, 3rd & 4th Jhanas"/
+      ]
+      | /"discontent WRT one's current level"/
+    )
+    "Four Establishings of Mindfulness"
+    "Unbinding"
+  =]=

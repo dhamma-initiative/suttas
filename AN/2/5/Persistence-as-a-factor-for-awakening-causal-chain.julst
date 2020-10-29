@@ -1,0 +1,21 @@
+---
+id: MN 118 Persistence as a factor for awakening causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      ^{
+        "mindfulness"
+        "analysis of qualities"
+      }
+      | /"requisites leading to persistence"/
+    )
+    "persistence"
+    "rapture"
+    "calm"
+    "concentration"
+    "equanimity"
+    "clear knowing & release"
+  =]=

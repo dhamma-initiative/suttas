@@ -1,0 +1,147 @@
+<svg class="tracks" width="936.5" height="220" viewBox="0 0 936.5 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M419.5 61h0"></path>
+<rect x="60" y="42" width="359.5" height="158" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h10"></path>
+<path d="M409.5 61h10"></path>
+<path d="M70 61h10"></path>
+<g>
+<path d="M80 61h0"></path>
+<path d="M399.5 61h0"></path>
+<path d="M110 61h10"></path>
+<g class="terminal">
+<path d="M120 61h21.25"></path>
+<path d="M348.25 61h21.25"></path>
+<rect x="141.25" y="50" width="207" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="65">good-will in 1st Jhana</text>
+</g>
+<path d="M369.5 61h10"></path>
+<path d="M110 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 91h17"></path>
+<path d="M352.5 91h17"></path>
+<rect x="137" y="80" width="215.5" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="95">compassion in 1st Jhana</text>
+</g>
+<path d="M369.5 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M110 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 121h0"></path>
+<path d="M369.5 121h0"></path>
+<rect x="120" y="110" width="249.5" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="125">empathetic-joy in 1st Jhana</text>
+</g>
+<path d="M369.5 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M110 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M120 151h0"></path>
+<path d="M369.5 151h0"></path>
+<rect x="120" y="140" width="249.5" height="22" rx="10" ry="10"></rect>
+<text x="244.75" y="155">equanimity-joy in 1st Jhana</text>
+</g>
+<path d="M369.5 151a10 10 0 0 0 10 -10v-80"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 110 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="95" y="65" class="diagram-text">all</text>
+<path d="M 379.5 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 386.5 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<path d="M399.5 61h10"></path>
+<path d="M80 61a10 10 0 0 0 -10 10v100a10 10 0 0 0 10 10"></path>
+<g class="comment">
+<path d="M80 181h42.75"></path>
+<path d="M356.75 181h42.75"></path>
+<text x="239.75" y="186" class="comment">repeat for 2nd, 3rd &#38; 4th Jhanas</text>
+</g>
+<path d="M399.5 181a10 10 0 0 0 10 -10v-100a10 10 0 0 0 -10 -10"></path>
+<path d="M65 123.5l5 -5l5 5"></path>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M308 31h0"></path>
+<text x="184" y="36" class="comment">discontent WRT one's current level</text>
+</g>
+</g>
+<path d="M419.5 61h10"></path>
+<path d="M429.5 61h10"></path>
+<g class="terminal">
+<path d="M439.5 61h0"></path>
+<path d="M740 61h0"></path>
+<rect x="439.5" y="50" width="300.5" height="22" rx="10" ry="10"></rect>
+<text x="589.75" y="65">Four Establishings of Mindfulness</text>
+</g>
+<path d="M740 61h10"></path>
+<path d="M750 61h10"></path>
+<g class="terminal">
+<path d="M760 61h0"></path>
+<path d="M856.5 61h0"></path>
+<rect x="760" y="50" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="808.25" y="65">Unbinding</text>
+</g>
+<path d="M856.5 61h10"></path>
+<path d="M866.5 61h10"></path>
+<g>
+<path d="M876.5 61h0"></path>
+<path d="M 876.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

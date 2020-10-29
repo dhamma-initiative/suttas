@@ -1,0 +1,149 @@
+<svg class="tracks" width="616.5" height="280" viewBox="0 0 616.5 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M420 61h0"></path>
+<rect x="60" y="42" width="360" height="218" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h11.75"></path>
+<path d="M408.25 61h11.75"></path>
+<path d="M101.75 61h10"></path>
+<g class="terminal">
+<path d="M111.75 61h72.25"></path>
+<path d="M306 61h72.25"></path>
+<rect x="184" y="50" width="122" height="22" rx="10" ry="10"></rect>
+<text x="245" y="65">unattractive</text>
+</g>
+<path d="M378.25 61h10"></path>
+<path d="M101.75 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M111.75 91h102"></path>
+<path d="M276.25 91h102"></path>
+<rect x="213.75" y="80" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="245" y="95">death</text>
+</g>
+<path d="M378.25 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M101.75 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M111.75 121h34"></path>
+<path d="M344.25 121h34"></path>
+<rect x="145.75" y="110" width="198.5" height="22" rx="10" ry="10"></rect>
+<text x="245" y="125">loathsomeness in food</text>
+</g>
+<path d="M378.25 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M101.75 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M111.75 151h21.25"></path>
+<path d="M357 151h21.25"></path>
+<rect x="133" y="140" width="224" height="22" rx="10" ry="10"></rect>
+<text x="245" y="155">distaste for every world</text>
+</g>
+<path d="M378.25 151a10 10 0 0 0 10 -10v-80"></path>
+<path d="M101.75 61v110a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M111.75 181h76.5"></path>
+<path d="M301.75 181h76.5"></path>
+<rect x="188.25" y="170" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="245" y="185">inconstancy</text>
+</g>
+<path d="M378.25 181a10 10 0 0 0 10 -10v-110"></path>
+<path d="M101.75 61v140a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M111.75 211h4.25"></path>
+<path d="M374 211h4.25"></path>
+<rect x="116" y="200" width="258" height="22" rx="10" ry="10"></rect>
+<text x="245" y="215">stress in what is inconstant</text>
+</g>
+<path d="M378.25 211a10 10 0 0 0 10 -10v-140"></path>
+<path d="M101.75 61v170a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M111.75 241h0"></path>
+<path d="M378.25 241h0"></path>
+<rect x="111.75" y="230" width="266.5" height="22" rx="10" ry="10"></rect>
+<text x="245" y="245">not-self in what is stressful</text>
+</g>
+<path d="M378.25 241a10 10 0 0 0 10 -10v-170"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 101.75 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="86.75" y="65" class="diagram-text">all</text>
+<path d="M 388.25 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 395.25 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M420 31h0"></path>
+<text x="240" y="36" class="comment">discontent WRT one's existing level of perceptions</text>
+</g>
+</g>
+<path d="M420 61h10"></path>
+<path d="M430 61h10"></path>
+<g class="terminal">
+<path d="M440 61h0"></path>
+<path d="M536.5 61h0"></path>
+<rect x="440" y="50" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="488.25" y="65">unbinding</text>
+</g>
+<path d="M536.5 61h10"></path>
+<path d="M546.5 61h10"></path>
+<g>
+<path d="M556.5 61h0"></path>
+<path d="M 556.5 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

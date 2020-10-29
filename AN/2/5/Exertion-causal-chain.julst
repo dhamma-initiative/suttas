@@ -1,0 +1,26 @@
+---
+id: MN-95 exertion causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      ^{
+        "admirable friendship"
+        "conviction"
+        "visiting"
+        "growing close"
+        "lending an ear"
+        "hearing the Dhamma"
+        "remembering the Dhamma"
+        "coming to an agreement through pondering views"
+        "desire"
+        "willingness"
+        "contemplation"
+      }
+      | /"requisites leading to exertion"/
+    )
+    "exertion"
+    "attaintment of the truth"
+  =]=

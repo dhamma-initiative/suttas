@@ -1,0 +1,16 @@
+---
+id: AN-2.5 Heedfulness causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[= 
+    (
+      all(
+        :"relentless exertion" | 
+        "discontent with existing skillful qualities" |
+      )
+      | /"heedfulness"/
+    )
+   "awakening"
+  =]=

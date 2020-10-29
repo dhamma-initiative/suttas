@@ -1,0 +1,23 @@
+---
+id: SN-45.1 right effort causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      ^{
+        "clear knowing"
+        "sense of shame & compunction"
+        "right view"
+        "right resove"
+        "right speech"
+        "right action"
+        "right livelihood"
+      }
+      | /"requisites leading to right effort"/
+    )
+    "right effort"
+    "right mindfulness"
+    "right concentration"
+  =]=

@@ -1,0 +1,20 @@
+---
+id: AN 6:86 Obstruction causal chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    (
+      all(
+        :"doesn't have a (present) kamma obstruction" | 
+        "doesn't have a defilement obstruction" | 
+        "doesn't have a result-of-(past)-kamma obstruction" |
+        "has conviction" |
+        "has desire (to listen)" |
+        "is discerning" |
+      )
+      | /"discontent WRT one's existing requisites"/
+    )
+    "rightness of skillful qualities"
+  =]=

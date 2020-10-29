@@ -1,0 +1,141 @@
+<svg class="tracks" width="970" height="250" viewBox="0 0 970 250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 61h0"></path>
+<path d="M20 51v20m0 -10h20"></path>
+</g>
+<path d="M40 61h10"></path>
+<path d="M50 61h10"></path>
+<g>
+<path d="M60 61h0"></path>
+<path d="M586.5 61h0"></path>
+<rect x="60" y="42" width="526.5" height="188" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M60 61h10"></path>
+<path d="M576.5 61h10"></path>
+<path d="M100 61h10"></path>
+<g class="terminal">
+<path d="M110 61h29.75"></path>
+<path d="M516.75 61h29.75"></path>
+<rect x="139.75" y="50" width="377" height="22" rx="10" ry="10"></rect>
+<text x="328.25" y="65">doesn't have a (present) kamma obstruction</text>
+</g>
+<path d="M546.5 61h10"></path>
+<path d="M100 61v20a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 91h51"></path>
+<path d="M495.5 91h51"></path>
+<rect x="161" y="80" width="334.5" height="22" rx="10" ry="10"></rect>
+<text x="328.25" y="95">doesn't have a defilement obstruction</text>
+</g>
+<path d="M546.5 91a10 10 0 0 0 10 -10v-20"></path>
+<path d="M100 61v50a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 121h0"></path>
+<path d="M546.5 121h0"></path>
+<rect x="110" y="110" width="436.5" height="22" rx="10" ry="10"></rect>
+<text x="328.25" y="125">doesn't have a result-of-(past)-kamma obstruction</text>
+</g>
+<path d="M546.5 121a10 10 0 0 0 10 -10v-50"></path>
+<path d="M100 61v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 151h148.75"></path>
+<path d="M397.75 151h148.75"></path>
+<rect x="258.75" y="140" width="139" height="22" rx="10" ry="10"></rect>
+<text x="328.25" y="155">has conviction</text>
+</g>
+<path d="M546.5 151a10 10 0 0 0 10 -10v-80"></path>
+<path d="M100 61v110a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 181h114.75"></path>
+<path d="M431.75 181h114.75"></path>
+<rect x="224.75" y="170" width="207" height="22" rx="10" ry="10"></rect>
+<text x="328.25" y="185">has desire (to listen)</text>
+</g>
+<path d="M546.5 181a10 10 0 0 0 10 -10v-110"></path>
+<path d="M100 61v140a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M110 211h153"></path>
+<path d="M393.5 211h153"></path>
+<rect x="263" y="200" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="328.25" y="215">is discerning</text>
+</g>
+<path d="M546.5 211a10 10 0 0 0 10 -10v-140"></path>
+<g class="diagram-text">
+<title>take all branches, once each, in any order</title>
+<path d="M 100 51 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="85" y="65" class="diagram-text">all</text>
+<path d="M 556.5 51 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 563.5 59 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
+</g>
+<g class="comment">
+<path d="M60 31h0"></path>
+<path d="M350 31h0"></path>
+<text x="205" y="36" class="comment">discontent WRT one's existing requisites</text>
+</g>
+</g>
+<path d="M586.5 61h10"></path>
+<path d="M596.5 61h10"></path>
+<g class="terminal">
+<path d="M606.5 61h0"></path>
+<path d="M890 61h0"></path>
+<rect x="606.5" y="50" width="283.5" height="22" rx="10" ry="10"></rect>
+<text x="748.25" y="65">rightness of skillful qualities</text>
+</g>
+<path d="M890 61h10"></path>
+<path d="M900 61h10"></path>
+<g>
+<path d="M910 61h0"></path>
+<path d="M 910 61 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>
