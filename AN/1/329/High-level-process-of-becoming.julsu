@@ -1,0 +1,161 @@
+---
+id: becoming-diagram
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+config:
+  dotUml.dot:
+    nodesep: .5
+    splines: ortho
+name: High level process of becoming
+href: https://www.dhammatalks.org/suttas/AN/AN1_329.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Oct 2021
+  **Source**: 
+    - Sutta SN 12:23 href=https://www.dhammatalks.org/suttas/SN/SN12_23.html
+    - Sutta SN 12:35 href=https://www.dhammatalks.org/suttas/SN/SN12_35.html
+  ---
+notation: |2
+                                                           , {no}
+  [^ Beginingless past] ~~~~~~> [? 1. has fuel remaining?] ~~~~~~> [$ Extinguishment]
+
+                             , {no}
+  [? 1. has fuel remaining?] ~~~~~~> [s spawn seed of consciousness]
+
+  [s spawn seed of consciousness] ~~~~~~> [s establish here-&-now context] ~~~~~~> [_ __tsFork] ~~~~~~> [s ripen past kamma into here-&-now context] ~~~~~~> [_ __tsJoin]
+  
+                                           , {yes}
+  [_ __tsFork] ~~~~~~> [? 2. is fettered?] ~~~~~~> [s accompany contact with ignorance] ~~~~~~> [_ __tsJoin] [s accompany contact with ignorance] ....... [s ripen past kamma into here-&-now context]
+
+                      {no}
+  [? 2. is fettered?] ~~~~~~> [_ __tsJoin] ~~~~~~> [s establish sensation] ~~~~~~> [s fabricate in-line with intention] ~~~~~~> [_ __esJoin] ~~~~~~> [? 1. has fuel remaining?]
+
+                                           , {yes}                                               ,                                         , {yes}
+  [_ __tsJoin] ~~~~~~> [? 3. is fettered?] ~~~~~~> [s accompany sensation with craving/clinging] ~~~~~~> [? 4. has appropriate-attention?] ~~~~~~> [s fade craving & ignorance]
+
+                                    {no}
+  [? 4. has appropriate-attention?] ~~~~~~> [s <<worldly-wealth>> perpetuate craving & ignorance] ~~~~~~> [? 5. is fettered?] <~~~~~~ [s <<noble-growth>> fade craving & ignorance] ....... [s establish sensation] ....... [s perpetuate craving & ignorance]
+
+                      {yes}
+  [? 5. is fettered?] ~~~~~~> [s establish possiveness] ~~~~~~> [s plant seed of becoming] ~~~~~~> [s accompany mind with effluents] ~~~~~~> [_ __esJoin]
+  
+                      {no}
+  [? 5. is fettered?] ~~~~~~> [s release the mind of effluents] ~~~~~~> [_ __esJoin]
+
+  [s accompany sensation with craving/clinging] ....... [s establish sensation]
+
+                      {no}
+  [? 3. is fettered?] ~~~~~~> [_ __esJoin]
+elements:
+  - id: establish here-&-now context
+    type: State
+    applyMarkdown: true
+    compartments: |
+      _name-&-form:_
+        **_name:_**
+          - *_previous feeling:_*
+          - *_previous perception:_*
+          - *_previous intention:_*
+          - *_previous contact:_*
+          - <<present-kamma>> **_attention:_**
+      _mind:_
+      <<aggregate>> _consciousness:_
+  - id: ripen past kamma into here-&-now context
+    type: State
+    applyMarkdown: true
+    compartments: |
+      _six-sense-media:_
+      _contact:_
+  - id: establish sensation
+    type: State
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      <<aggregate>> _feeling:_
+      <<aggregate>> _perception:_
+      <<aggregate>> _intention:_
+      ---
+      *acquire new body if required*
+      _birth_   
+      ---
+      *casting off of the body if required*
+      _death_  {no vitality remaining}
+      ---
+      _aging_  
+      _illness_
+  - id: accompany contact with ignorance
+    type: State
+    applyMarkdown: true
+    compartments: |
+      _ignorance:_
+  - id: accompany sensation with craving/clinging
+    type: State
+    applyMarkdown: true
+    compartments: |
+      _mind:_
+        **_attachments:_**
+          - *_sensuality:_*
+          - *_views:_*
+          - *_habits-&-practicces:_*
+          - *_belief-in-self:_*
+  - id: fabricate in-line with intention
+    type: State
+    applyMarkdown: true
+    compartments: |
+      **_fabrications:_**
+        - verbal
+        - mental
+        - bodily
+  - id: accompany mind with effluents
+    type: State
+    applyMarkdown: true
+    compartments: |
+      _mind:_
+        **_effluents:_**
+          - *_sensuality:_*
+          - *_becoming:_*
+          - *_ignorance:_*
+  - id: release the mind of effluents
+    type: State
+    applyMarkdown: true
+    applyCompartmentSeparator: true
+    compartments: |
+      _mind:_
+        **_attachments:_**
+          _NONE_
+        **_effluents:_**
+          _NONE_
+      ---
+      - awareness release
+      - discernment release
+  - id: fade craving & ignorance
+    type: State
+    applyMarkdown: true
+    applyCompartmentSeparator: true
+    compartments: |
+      **tranquility:**
+        - substitute sensuality with Jhana
+      ---
+      **insight:**
+        - comprehends aspect of stress
+        - grow disenchantment
+        - grow dispassion
+        - attenuate attachments
+        - abandon aspect of craving
+  - id: establish possiveness
+    type: State
+    applyMarkdown: true
+    applyCompartmentSeparator: true
+    compartments: |2
+      *in tune with level of skillfulness*
+      - _stress:_
+  - id: plant seed of becoming
+    type: State
+    applyMarkdown: true
+    compartments: |2
+      *in tune with de/merit*
+      - kammic field

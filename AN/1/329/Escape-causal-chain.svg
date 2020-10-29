@@ -1,0 +1,196 @@
+<svg class="tracks" width="635.5" height="613" viewBox="0 0 635.5 613" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M72.5 61h0"></path>
+<path d="M20 51v20m0 -10h52.5"></path>
+<text x="20" y="46" style="text-anchor:start">birth</text>
+</g>
+<path d="M72.5 61h10"></path>
+<path d="M82.5 61h10"></path>
+<g>
+<path d="M92.5 61h0"></path>
+<path d="M555.5 566h0"></path>
+<rect x="92.5" y="42" width="463" height="551" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M92.5 61h10"></path>
+<path d="M102.5 61h10"></path>
+<g class="terminal">
+<path d="M112.5 61h176"></path>
+<path d="M359.5 61h176"></path>
+<rect x="288.5" y="50" width="71" height="22" rx="10" ry="10"></rect>
+<text x="324" y="65">stress</text>
+</g>
+<path d="M535.5 61a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-423a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M112.5 101h159"></path>
+<path d="M376.5 101h159"></path>
+<rect x="271.5" y="90" width="105" height="22" rx="10" ry="10"></rect>
+<text x="324" y="105">conviction</text>
+</g>
+<path d="M535.5 101a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-423a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M112.5 141h188.75"></path>
+<path d="M346.75 141h188.75"></path>
+<rect x="301.25" y="130" width="45.5" height="22" rx="10" ry="10"></rect>
+<text x="324" y="145">joy</text>
+</g>
+<path d="M535.5 141a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-423a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M112.5 210h63"></path>
+<path d="M472.5 330h63"></path>
+<rect x="175.5" y="191" width="297" height="158" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M175.5 210h63.25"></path>
+<path d="M238.75 210h10"></path>
+<g class="terminal">
+<path d="M248.75 210h35.5"></path>
+<path d="M363.75 210h35.5"></path>
+<rect x="284.25" y="199" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="324" y="214">rapture</text>
+</g>
+<path d="M399.25 210a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M248.75 250h48.25"></path>
+<path d="M351 250h48.25"></path>
+<rect x="297" y="239" width="54" height="22" rx="10" ry="10"></rect>
+<text x="324" y="254">calm</text>
+</g>
+<path d="M399.25 250a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M248.75 290h31.25"></path>
+<path d="M368 290h31.25"></path>
+<rect x="280" y="279" width="88" height="22" rx="10" ry="10"></rect>
+<text x="324" y="294">pleasure</text>
+</g>
+<path d="M399.25 290a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M248.75 330h10"></path>
+<path d="M389.25 330h10"></path>
+<rect x="258.75" y="319" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="324" y="334">concentration</text>
+</g>
+<path d="M399.25 330h10"></path>
+<path d="M409.25 330h63.25"></path>
+</g>
+<g class="comment">
+<path d="M175.5 180h0"></path>
+<path d="M472.5 180h0"></path>
+<text x="324" y="185" class="comment">Body/Feeling/Mind qualities establishment</text>
+</g>
+</g>
+<path d="M535.5 330a10 10 0 0 1 10 10v7a10 10 0 0 1 -10 10h-423a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M112.5 406h10"></path>
+<path d="M525.5 566h10"></path>
+<rect x="122.5" y="387" width="403" height="198" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M122.5 406h10"></path>
+<path d="M132.5 406h10"></path>
+<g class="terminal">
+<path d="M142.5 406h10"></path>
+<path d="M495.5 406h10"></path>
+<rect x="152.5" y="395" width="343" height="22" rx="10" ry="10"></rect>
+<text x="324" y="410">knowledge that it's not worth claiming</text>
+</g>
+<path d="M505.5 406a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-363a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M142.5 446h112"></path>
+<path d="M393.5 446h112"></path>
+<rect x="254.5" y="435" width="139" height="22" rx="10" ry="10"></rect>
+<text x="324" y="450">disenchantment</text>
+</g>
+<path d="M505.5 446a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-363a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M142.5 486h129"></path>
+<path d="M376.5 486h129"></path>
+<rect x="271.5" y="475" width="105" height="22" rx="10" ry="10"></rect>
+<text x="324" y="490">dispassion</text>
+</g>
+<path d="M505.5 486a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-363a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M142.5 526h141.75"></path>
+<path d="M363.75 526h141.75"></path>
+<rect x="284.25" y="515" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="324" y="530">release</text>
+</g>
+<path d="M505.5 526a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-363a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M142.5 566h78"></path>
+<path d="M427.5 566h78"></path>
+<rect x="220.5" y="555" width="207" height="22" rx="10" ry="10"></rect>
+<text x="324" y="570">knowledge of unbinding</text>
+</g>
+<path d="M505.5 566h10"></path>
+<path d="M515.5 566h10"></path>
+</g>
+<g class="comment">
+<path d="M122.5 376h0"></path>
+<path d="M342.5 376h0"></path>
+<text x="232.5" y="381" class="comment">Mental qualities establishment</text>
+</g>
+</g>
+<path d="M535.5 566h10"></path>
+<path d="M545.5 566h10"></path>
+</g>
+<g class="comment">
+<path d="M92.5 31h0"></path>
+<path d="M144.5 31h0"></path>
+<text x="118.5" y="36" class="comment">escape</text>
+</g>
+</g>
+<path d="M555.5 566h10"></path>
+<path d="M565.5 566h10"></path>
+<g>
+<path d="M575.5 566h0"></path>
+<path d="M 575.5 566 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

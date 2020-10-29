@@ -1,0 +1,166 @@
+---
+id: AN-1:329-Becoming
+type: UmlModel
+parser: juls
+renderer: dotUml.svg
+href: https://www.dhammatalks.org/suttas/AN/AN1_329.html
+anchorCompartmentEntriesEndingWithHref: true
+applyCompartmentSeparator: true
+applyMarkdown: true
+compartments: |
+  **Authors**: AshinW
+  **Date**: Oct 2021
+  **Source**: 
+    - Sutta SN 12:23 href=https://www.dhammatalks.org/suttas/SN/SN12_23.html
+    - Sutta SN 12:35 href=https://www.dhammatalks.org/suttas/SN/SN12_35.html
+  ---
+  Understanding the diagram using a painting simile:
+    - Self is like an art studio with palettes of paints with potentials that are conditionally consummed when painting
+    - Painting (ie. Fabrications) is sustained by the studio and its resources and ceases when the combination is void
+    - Becoming is what tops up the resources of the studio
+    - The Mind when in a luminous state is undefined and open to all possible potentials without shackles to studio, painting or painter
+    - Name-&-Form is like a new canvas and it makes the luminous mind a contextual painter
+    - The Mind is like a painter with split personalities, one of is which called upon in a given context
+    - The Mind until unbinding is constrainted by it's attachments, hindered by ignorance and fettered by craving
+    - The Mind's process of development/purification results in a singular "awakened" painter that only paints out of sympathy
+    - The Five Aggregates is like a resultant canvas from a painting event (ie. Contact)
+    - Each Name-&-Form canvas is influenced by the previous painting
+    - The Six Sense Media is like the pallette which the painter is limited to in the here & now because of previous choices
+    - Attention is like the extent of free-will applied to the direction that the painting will take
+    - Self Identification is the possessiveness ones takes with respect to the painting as part of their collection
+    - Craving is like the fettered desire to paint more uncharted combinations of expressions
+    - Clinging/Sustenance is like the momentary quenching of Craving via the application of the painter's values whilst painting a result worthy of ownership
+    - Ignorance is like the belief that the painter's collection is a priceless asset worthy of staking claim to
+    - Effluents are like the corrupt royalties produced from each painting held under ownership that keeps the painter enslaved in occupation and the studio resourced
+  ---
+config:
+  dotUml.dot:
+    nodesep: .5
+    splines: ortho
+notation: |2
+  // ↑ ↓ ← →
+                            (saLives): ↑ lives dependent on
+  [<<fabrications>> Action] 1..* ~~~~<*> [<<kammic-field>> Self] 
+        
+  [R saLives] ....... [Name-&-Form] ~~~~~~~ [<<present-kamma>> Attention] 
+
+  [R saLives] ....... [Five Aggregates] 
+                  , recollect past ↑ 
+
+  [R saLives] ....... [Mind]               ~~~~~~~ [Name-&-Form] ~~~~~~~ [<<event>> Contact]
+                  , ↑ luminous mind , ↑ contextual mind    ,           ,, ← contact
+                  ,                 ,                     ,           ,, {previous}
+
+                                                       ,                 , ↓ experienced as
+  [R saLives] ....... [<<past-kamma>> Six Sense Media] ~~~~~~~ [Contact] ~~~~~~~ [Five Aggregates] 
+                 , → raw material
+
+  [Five Aggregates] ~~~~~~~ [Self Identification] ~~~~~~~ [Becoming]
+                        ,               ,            , ↓ results in
+                        , {fettered}    
+
+                                    , {hindered}   , {fettered}
+  [Effluents] ~~~~~~~ [Ignorance] ~~~~~~~ [Mind] ~~~~~~~ [Craving]
+
+            (ccAss):                      
+  [Craving] ~~~~~~~ [Clinging/Sustenance] 
+  
+  [R ccAss] ....... [Self Identification]
+               , worthy of claim                   
+
+                        {held values}
+  [Clinging/Sustenance] ~~~~~~~ [Mind]
+
+  [Effluents] ~~~~~~~ [Mind]
+
+                    previous experience ↓ 
+  [Five Aggregates] ~~~~~~> [Five Aggregates]
+
+                                 , ↓ planted in the kammic field
+  [Effluents] ~~~~~~~ [Becoming] ~~~~~~~ [Action]
+elements:
+  - id: Self
+    type: Class
+    applyCompartmentSeparator: true
+    compartments: |
+      has fuel remaining
+      ---
+      spawn consciousness seed
+      extinguish
+  - id: Five Aggregates
+    type: Class
+    stereotype: resultant-kamma
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      - form
+      - feeling
+      - perception
+      - fabrications
+      - consciousness
+  - id: Self Identification
+    type: Class
+    stereotype: stress
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      aka The Five Clinging Aggregates
+      ---
+      - birth
+      - aging, illness, death
+      - sorrow, lamentation, pain, distress, despair
+  - id: Name-&-Form
+    type: Class
+    stereotype: context
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      - {previous} feeling
+      - {previous} perception
+      - {previous} intention
+      ---
+      establish a contextual mind
+      initiate next experienced event
+  - id: Contact
+    type: Class
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      ripen potentials from media stream
+      factor experience if fettered
+  - id: Mind
+    type: Class
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      - sensuality[]
+      - views[]
+      - habits-&-practices[]
+      - belief-in-self[]
+      ---
+      - is fettered
+      - develop skillful qualities
+      - abandon unskillful qualities
+  - id: Attention
+    type: Class
+    applyCompartmentSeparator: true
+    applyMarkdown: true
+    compartments: |
+      - is appropriate
+  - id: Ignorance
+    type: Class
+    compartments: |
+      - fade
+  - id: Craving
+    type: Class
+    compartments: |
+      - fade
+  - id: Effluents
+    type: Class
+    compartments: |
+      - sensuality
+  - id: Becoming
+    type: Class
+    compartments: |
+      - is meritorious
+      - realm conducive to ripening

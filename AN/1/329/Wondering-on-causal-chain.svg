@@ -1,0 +1,169 @@
+<svg class="tracks" width="370.5" height="539" viewBox="0 0 370.5 539" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(.5 .5)">
+<g>
+<path d="M40 31h0"></path>
+<path d="M20 21v20m0 -10h20"></path>
+</g>
+<path d="M40 31h10"></path>
+<path d="M50 31h10"></path>
+<g>
+<path d="M60 31h0"></path>
+<path d="M60 31h10"></path>
+<g class="terminal">
+<path d="M70 31h57"></path>
+<path d="M223.5 31h57"></path>
+<rect x="127" y="20" width="96.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="35">ignorance</text>
+</g>
+<path d="M280.5 31a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-210.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M70 71h44.25"></path>
+<path d="M236.25 71h44.25"></path>
+<rect x="114.25" y="60" width="122" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="75">fabrications</text>
+</g>
+<path d="M280.5 71a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-210.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M70 111h40"></path>
+<path d="M240.5 111h40"></path>
+<rect x="110" y="100" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="115">consciousness</text>
+</g>
+<path d="M280.5 111a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-210.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M70 151h48.5"></path>
+<path d="M232 151h48.5"></path>
+<rect x="118.5" y="140" width="113.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="155">name-&#38;-form</text>
+</g>
+<path d="M280.5 151a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-210.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M70 191h31.5"></path>
+<path d="M249 191h31.5"></path>
+<rect x="101.5" y="180" width="147.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="195">six-sense-media</text>
+</g>
+<path d="M280.5 191a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-210.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M70 231h65.5"></path>
+<path d="M215 231h65.5"></path>
+<rect x="135.5" y="220" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="235">contact</text>
+</g>
+<path d="M280.5 231a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-210.5a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M70 300h10"></path>
+<path d="M270.5 500h10"></path>
+<rect x="80" y="281" width="190.5" height="238" rx="10" ry="10" class="group-box"></rect>
+<g>
+<path d="M80 300h10"></path>
+<path d="M90 300h10"></path>
+<g class="terminal">
+<path d="M100 300h35.5"></path>
+<path d="M215 300h35.5"></path>
+<rect x="135.5" y="289" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="304">feeling</text>
+</g>
+<path d="M250.5 300a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 340h35.5"></path>
+<path d="M215 340h35.5"></path>
+<rect x="135.5" y="329" width="79.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="344">craving</text>
+</g>
+<path d="M250.5 340a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 380h31.25"></path>
+<path d="M219.25 380h31.25"></path>
+<rect x="131.25" y="369" width="88" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="384">clinging</text>
+</g>
+<path d="M250.5 380a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 420h31.25"></path>
+<path d="M219.25 420h31.25"></path>
+<rect x="131.25" y="409" width="88" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="424">becoming</text>
+</g>
+<path d="M250.5 420a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 460h44"></path>
+<path d="M206.5 460h44"></path>
+<rect x="144" y="449" width="62.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="464">birth</text>
+</g>
+<path d="M250.5 460a10 10 0 0 1 10 10v0a10 10 0 0 1 -10 10h-150.5a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M100 500h10"></path>
+<path d="M240.5 500h10"></path>
+<rect x="110" y="489" width="130.5" height="22" rx="10" ry="10"></rect>
+<text x="175.25" y="504">aging-&#38;-death</text>
+</g>
+<path d="M250.5 500h10"></path>
+<path d="M260.5 500h10"></path>
+</g>
+<g class="comment">
+<path d="M80 270h0"></path>
+<path d="M174 270h0"></path>
+<text x="127" y="275" class="comment">wondering on</text>
+</g>
+</g>
+<path d="M280.5 500h10"></path>
+<path d="M290.5 500h0"></path>
+</g>
+<path d="M290.5 500h10"></path>
+<path d="M300.5 500h10"></path>
+<g>
+<path d="M310.5 500h0"></path>
+<path d="M 310.5 500 h 20 m 0 -10 v 20"></path>
+</g>
+</g>
+<style>
+svg.tracks {
+	background-color: none;
+}
+svg.tracks path {
+	stroke-width: 3;
+	stroke: black;
+	fill: rgba(0,0,0,0);
+}
+svg.tracks text {
+	font: bold 14px monospace;
+	text-anchor: middle;
+	white-space: pre;
+}
+svg.tracks text.diagram-text {
+	font-size: 12px;
+}
+svg.tracks text.diagram-arrow {
+	font-size: 16px;
+}
+svg.tracks text.label {
+	text-anchor: start;
+}
+svg.tracks text.comment {
+	font: italic 12px monospace;
+}
+svg.tracks g.non-terminal text {
+	/&#42;font-style: italic;&#42;/
+}
+svg.tracks rect {
+	stroke-width: 3;
+	stroke: black;
+	fill: hsl(120,100%,90%);
+}
+svg.tracks rect.group-box {
+	stroke: gray;
+	stroke-dasharray: 10 5;
+	fill: none;
+}
+svg.tracks path.diagram-text {
+	stroke-width: 3;
+	stroke: black;
+	fill: white;
+	cursor: help;
+}
+svg.tracks g.diagram-text:hover path.diagram-text {
+	fill: #eee;
+}</style>
+</svg>

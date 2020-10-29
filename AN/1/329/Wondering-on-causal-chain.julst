@@ -1,0 +1,27 @@
+---
+id: SN-12:35-Wondering-on-causal-chain
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[=
+    ^{
+      "ignorance"
+      "fabrications"
+      "consciousness"
+      "name-&-form"
+      "six-sense-media"
+      "contact"
+      (
+      ^{
+        "feeling"
+        "craving"
+        "clinging"
+        "becoming"
+        "birth"
+        "aging-&-death"
+      }
+      | /"wondering on"/
+      )
+    }
+  =]=

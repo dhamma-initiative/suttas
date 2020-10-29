@@ -29,12 +29,12 @@ notation: |2
   [s dwells in the 9th Jhana] ~~~~~~> [? has fuel remaining?]
 
                                     {no}
-  [? has requisites for 9th Jhana?] ~~~~~~> [s dependently co-arise context for consciousness] ~~~~~~> [s dependently co-arise present kamma] 
+  [? has requisites for 9th Jhana?] ~~~~~~> [s dependently co-arise time-&-space context] ~~~~~~> [s dependently co-arise present kamma] 
 
-  [s dependently co-arise present kamma] ~~~~~~> [s dependently co-arise sensory contact] 
+  [s dependently co-arise present kamma] ~~~~~~> [s dependently co-arise sensation] 
 
                                                                                    , {no}
-  [s dependently co-arise sensory contact] ~~~~~~> [? has requisites for 4th Jhana?] ~~~~~~> [s dwells in line with causation of perception attainments] ~~~~~~> [? has fuel remaining?]
+  [s dependently co-arise sensation] ~~~~~~> [? has requisites for 4th Jhana?] ~~~~~~> [s dwells in line with causation of perception attainments] ~~~~~~> [? has fuel remaining?]
 
   [? has requisites for 4th Jhana?] ~~~~~~> [s dwells in line with causation of perception attainments of 4th Jhana] ~~~~~~> [? has fuel remaining?]
 
@@ -50,18 +50,24 @@ elements:
     applyMarkdown: true
     compartments: |
       <<luminous>> _cessation of perception & feeling:_
-  - id: dependently co-arise context for consciousness
+  - id: dependently co-arise time-&-space context
     type: State
     applyMarkdown: true
     compartments: |
       <<here-&-now>> _name-&-form:_
+                                          - *_prior feeling:_*
+                                          - *_prior perception:_*
+                                          - *_prior intention:_*
+                                          - *_prior contact:_*
+                                          - **_attention:_**
       <<aggregate>> _consciousness:_
   - id: dependently co-arise present kamma
     type: State
     applyMarkdown: true
     compartments: |
       <<here-&-now>> _six-sense-media:_
-  - id: dependently co-arise sensory contact
+                                    _contact:_
+  - id: dependently co-arise sensation
     type: State
     applyMarkdown: true
     compartments: |

@@ -1,0 +1,33 @@
+---
+id: SN 16:13-Escape
+type: TracksModel
+parser: juls
+renderer: tracks.svg
+notation: |
+  =[birth=
+    (
+      ^{
+        "stress"
+        "conviction"
+        "joy"
+        (
+          ^{
+            "rapture"
+            "calm"
+            "pleasure"
+            "concentration"
+          }
+        | /"Body/Feeling/Mind qualities establishment"/)
+        (
+          ^{
+            "knowledge that it's not worth claiming"
+            "disenchantment"
+            "dispassion"
+            "release"
+            "knowledge of unbinding"
+          }
+        | /"Mental qualities establishment"/)
+      }
+    | /"escape"/
+    )
+  =]=
