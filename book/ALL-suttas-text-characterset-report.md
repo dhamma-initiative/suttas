@@ -1,5 +1,5 @@
 # Sutta Text Corpus Character Set Audit Report
-Generated on: 03/09/2026 | Scanned Directory: `text/sutta-books`
+Generated on: 13/09/2026 | Scanned Directory: `text/sutta-books/`
 
 ## Executive Summary
 *   **Total Characters Scanned:** 6,043,290

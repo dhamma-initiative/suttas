@@ -1,12 +1,12 @@
-id|name|size
-AN|Aṅguttara Nikāya | The Numerical Collection|420
-KN/Dhp|Dhammapada|26
-DN|Dīgha Nikāya | The Long Collection|14
-KN/Iti|Itivuttaka | This was said by the Buddha|109
-KN/Khp|Khuddakapāṭha | Short Passages|9
-MN|Majjhima Nikāya | The Middle Collection|106
-SN|Saṁyutta Nikāya | The Connected Collection|463
-KN/StNp|Sutta Nipāta | The Discourse Group|72
-KN/Thag|Theragāthā | Poems of the Elder Monks|104
-KN/Thig|Therīgāthā | Poems of the Elder Nuns|34
-KN/Ud|Udāna | Exclamations|81
+id,name,size
+AN,Aṅguttara Nikāya | The Numerical Collection,420
+KN/Dhp,Dhammapada,26
+DN,Dīgha Nikāya | The Long Collection,14
+KN/Iti,Itivuttaka | This was said by the Buddha,109
+KN/Khp,Khuddakapāṭha | Short Passages,9
+MN,Majjhima Nikāya | The Middle Collection,106
+SN,Saṁyutta Nikāya | The Connected Collection,463
+KN/StNp,Sutta Nipāta | The Discourse Group,72
+KN/Thag,Theragāthā | Poems of the Elder Monks,104
+KN/Thig,Therīgāthā | Poems of the Elder Nuns,34
+KN/Ud,Udāna | Exclamations,81
