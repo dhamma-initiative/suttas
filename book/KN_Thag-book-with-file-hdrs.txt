@@ -1,4 +1,4 @@
-
+--- BOF [text/KN/Thag/thag1_1.txt] ---
 THERAGĀTHĀ 1:1  SUBHŪTI
 
 My hut is roofed, comfortable,
@@ -15,10 +15,10 @@ So, rain-deva.
 
 Go ahead & rain.
 
+--- EOF [text/KN/Thag/thag1_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_2.txt] ---
 THERAGĀTHĀ 1:2  MAHĀ KOṬṬHITA
 
 Calmed, restrained,
@@ -31,10 +31,10 @@ as the breeze,
 
 a leaf from a tree.
 
+--- EOF [text/KN/Thag/thag1_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_3.txt] ---
 THERAGĀTHĀ 1:3  KAṄKHĀ (DOUBTING) REVATA
 
 See this:
@@ -51,10 +51,10 @@ to those who come,
 
 subduing their doubt.
 
+--- EOF [text/KN/Thag/thag1_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_6.txt] ---
 THERAGĀTHĀ 1:6  DABBA ('CAPABLE')
 
 Whoever,
@@ -77,10 +77,10 @@ unbound,
 
 steadfast in mind.
 
+--- EOF [text/KN/Thag/thag1_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_7.txt] ---
 THERAGĀTHĀ 1:7  BHALLIYA
 
 Who scatters the troops
@@ -101,10 +101,10 @@ unbound,
 
 steadfast in mind.
 
+--- EOF [text/KN/Thag/thag1_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_10.txt] ---
 THERAGĀTHĀ 1:10  PUṆṆAMĀSA
 
 Whoever,
@@ -123,10 +123,10 @@ would know the arising-&-disbanding
 
 of the world.
 
+--- EOF [text/KN/Thag/thag1_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_13.txt] ---
 THERAGĀTHĀ 1:13  VANAVACCHA
 
 The color of blue-dark clouds,
@@ -143,10 +143,10 @@ Those rocky crags
 
 refresh me.
 
+--- EOF [text/KN/Thag/thag1_13.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_14.txt] ---
 THERAGĀTHĀ 1:14  VANAVACCHA'S PUPIL
 
 My preceptor said to me:
@@ -165,10 +165,10 @@ There's no tying down
 
 one who knows.
 
+--- EOF [text/KN/Thag/thag1_14.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_16.txt] ---
 THERAGĀTHĀ 1:16  BELAṬṬHASĪSA
 
 Just as a fine thoroughbred steed,
@@ -185,10 +185,10 @@ now that I've gained a pleasure
 
 not of the flesh.
 
+--- EOF [text/KN/Thag/thag1_16.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_18.txt] ---
 THERAGĀTHĀ 1:18  SIṄGĀLAPITAR
 
 There was an heir to the One Awakened,
@@ -205,10 +205,10 @@ Quickly, I'd say, he abandoned
 
 sensual passion.
 
+--- EOF [text/KN/Thag/thag1_18.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_21.txt] ---
 THERAGĀTHĀ 1:21  NIGRODHA
 
 I'm not afraid
@@ -229,10 +229,10 @@ That's the path
 
 by which the monks go.
 
+--- EOF [text/KN/Thag/thag1_21.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_22.txt] ---
 THERAGĀTHĀ 1:22  CITTAKA
 
 Peacocks,
@@ -249,10 +249,10 @@ They awaken the sleeper
 
 to meditate.
 
+--- EOF [text/KN/Thag/thag1_22.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_23.txt] ---
 THERAGĀTHĀ 1:23  GOSĀLA
 
 I—having eaten honey-rice
@@ -267,10 +267,10 @@ will return to the hillside, intent
 
 on seclusion.
 
+--- EOF [text/KN/Thag/thag1_23.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_25.txt] ---
 THERAGĀTHĀ 1:25  NANDIYA (TO MĀRA)
 
 Like splendor, his mind,
@@ -285,10 +285,10 @@ and you'll fall
 
 into pain.
 
+--- EOF [text/KN/Thag/thag1_25.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_26.txt] ---
 THERAGĀTHĀ 1:26  ABHAYA
 
 Hearing the well-spoken words
@@ -303,10 +303,10 @@ as if, with an arrow,
 
 the tip of a horse-tail hair.
 
+--- EOF [text/KN/Thag/thag1_26.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_29.txt] ---
 THERAGĀTHĀ 1:29  HĀRITA
 
 Hārita,
@@ -323,10 +323,10 @@ shatter ignorance
 
 to bits.
 
+--- EOF [text/KN/Thag/thag1_29.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_31.txt] ---
 THERAGĀTHĀ 1:31  GAHURATĪRIYA
 
 Touched by gnats & mosquitoes,
@@ -341,10 +341,10 @@ mindful,
 
 he acquiesces to that.
 
+--- EOF [text/KN/Thag/thag1_31.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_32.txt] ---
 THERAGĀTHĀ 1:32  SUPPIYA
 
 I'll make a trade:
@@ -359,10 +359,10 @@ the unexcelled rest
 
 from the yoke.
 
+--- EOF [text/KN/Thag/thag1_32.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_33.txt] ---
 THERAGĀTHĀ 1:33  SOPĀKA
 
 Just as one would be good
@@ -373,10 +373,10 @@ one should be good to all creatures
 
 everywhere.
 
+--- EOF [text/KN/Thag/thag1_33.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_39.txt] ---
 THERAGĀTHĀ 1:39  TISSA
 
 As if struck by a sword,
@@ -389,10 +389,10 @@ a monk should live the wandering life
 
 for the abandoning of sensual passion.
 
+--- EOF [text/KN/Thag/thag1_39.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_41.txt] ---
 THERAGĀTHĀ 1:41  SIRIVAḌḌHA
 
 Lightning lands on the cleft
@@ -409,10 +409,10 @@ of the one without compare,
 
 the one who is Such.
 
+--- EOF [text/KN/Thag/thag1_41.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_43.txt] ---
 THERAGĀTHĀ 1:43  SUMAṄGALA
 
 So freed! So freed!
@@ -437,10 +437,10 @@ Do jhāna, Sumaṅgala.
 
 Sumaṅgala, stay heedful.
 
+--- EOF [text/KN/Thag/thag1_43.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_49.txt] ---
 THERAGĀTHĀ 1:49  RĀMAṆEYYAKA
 
 Even with all the whistles & whistling,
@@ -453,10 +453,10 @@ for my delight is in
 
 oneness.
 
+--- EOF [text/KN/Thag/thag1_49.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_50.txt] ---
 THERAGĀTHĀ 1:50  VIMALA
 
 The earth's sprinkled
@@ -473,10 +473,10 @@ well-centered
 
 my mind.
 
+--- EOF [text/KN/Thag/thag1_50.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_56.txt] ---
 THERAGĀTHĀ 1:56  KUṬIVIHĀRIN (1)
 
 Who's in the hut?
@@ -493,10 +493,10 @@ The hut you built
 
 wasn't wasted.
 
+--- EOF [text/KN/Thag/thag1_56.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_57.txt] ---
 THERAGĀTHĀ 1:57  KUṬIVIHĀRIN (2)
 
 This was your old hut,
@@ -511,10 +511,10 @@ A new hut will be
 
 painful all over again.
 
+--- EOF [text/KN/Thag/thag1_57.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_61.txt] ---
 THERAGĀTHĀ 1:61  VAPPA
 
 One who sees
@@ -531,10 +531,10 @@ see who sees
 
 or who doesn't.
 
+--- EOF [text/KN/Thag/thag1_61.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_68.txt] ---
 THERAGĀTHĀ 1:68  EKUDĀNIYA
 
 Of heightened awareness & heedful,
@@ -545,10 +545,10 @@ He has no sorrows, one who is Such,
 
 calmed & ever mindful.
 
+--- EOF [text/KN/Thag/thag1_68.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_73.txt] ---
 THERAGĀTHĀ 1:73  MĀṆAVA
 
 On seeing an old person;
@@ -569,10 +569,10 @@ abandoning the sensuality
 
 that entices the heart.
 
+--- EOF [text/KN/Thag/thag1_73.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_75.txt] ---
 THERAGĀTHĀ 1:75  SUSĀRADA
 
 Good the sight
@@ -591,10 +591,10 @@ so the company of the true
 
 is good.
 
+--- EOF [text/KN/Thag/thag1_75.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_84.txt] ---
 THERAGĀTHĀ 1:84  NĪTA
 
 Asleep the whole night,
@@ -609,10 +609,10 @@ bring suffering & stress
 
 to an end?
 
+--- EOF [text/KN/Thag/thag1_84.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_85.txt] ---
 THERAGĀTHĀ 1:85  SUNĀGA
 
 Adept in a theme for the mind,
@@ -627,10 +627,10 @@ you'd attain a pleasure
 
 not of the flesh.
 
+--- EOF [text/KN/Thag/thag1_85.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_86.txt] ---
 THERAGĀTHĀ 1:86  NĀGITA
 
 Outside of this path,
@@ -649,10 +649,10 @@ instructs the Saṅgha,
 
 truly showing the palms of his hands.
 
+--- EOF [text/KN/Thag/thag1_86.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_88.txt] ---
 THERAGĀTHĀ 1:88  AJJUNA
 
 Able was I
@@ -667,10 +667,10 @@ I penetrated
 
 the truths.
 
+--- EOF [text/KN/Thag/thag1_88.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_93.txt] ---
 THERAGĀTHĀ 1:93  ERAKA
 
 Sensual pleasures are stressful,
@@ -687,10 +687,10 @@ Whoever doesn't,
 
 doesn't love stress.
 
+--- EOF [text/KN/Thag/thag1_93.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_95.txt] ---
 THERAGĀTHĀ 1:95  CAKKHUPĀLA
 
 I'm blind,
@@ -709,10 +709,10 @@ I'll go on,
 
 but not with an evil companion.
 
+--- EOF [text/KN/Thag/thag1_95.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_100.txt] ---
 THERAGĀTHĀ 1:100  DEVASABHA
 
 Consummate in the right exertions,
@@ -723,10 +723,10 @@ blanketed with the flowers of release,
 
 he will, without effluent, totally unbind.
 
+--- EOF [text/KN/Thag/thag1_100.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_101.txt] ---
 THERAGĀTHĀ 1:101  BELAṬṬHKĀNI
 
 Abandoning the householder's state,
@@ -745,10 +745,10 @@ he goes to the womb—
 
 the dullard.
 
+--- EOF [text/KN/Thag/thag1_101.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_104.txt] ---
 THERAGĀTHĀ 1:104  KHITAKA
 
 How light my body!
@@ -765,10 +765,10 @@ it seems to be floating
 
 —my body!
 
+--- EOF [text/KN/Thag/thag1_104.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_109.txt] ---
 THERAGĀTHĀ 1:109  SAṄGHARAKKHITA
 
 Why,
@@ -793,10 +793,10 @@ like a tender deer
 
 in the forest.
 
+--- EOF [text/KN/Thag/thag1_109.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_110.txt] ---
 THERAGĀTHĀ 1:110  USABHA
 
 Trees on the hilltops
@@ -815,10 +815,10 @@ conscious of
 
 'wilderness.'
 
+--- EOF [text/KN/Thag/thag1_110.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_111.txt] ---
 THERAGĀTHĀ 1:111  JENTA
 
 Going forth is hard;
@@ -841,10 +841,10 @@ continual
 
 inconstancy.
 
+--- EOF [text/KN/Thag/thag1_111.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_113.txt] ---
 THERAGĀTHĀ 1:113  VANAVACCHA
 
 With clear waters &
@@ -861,10 +861,10 @@ water weeds:
 
 Those rocky crags refresh me.
 
+--- EOF [text/KN/Thag/thag1_113.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_114.txt] ---
 THERAGĀTHĀ 1:114  ADHIMUTTA
 
 For one heavy
@@ -881,10 +881,10 @@ From where will there come
 
 contemplative-excellence?
 
+--- EOF [text/KN/Thag/thag1_114.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_118.txt] ---
 THERAGĀTHĀ 1:118  KIMBILA
 
 As if sent by a curse,
@@ -905,10 +905,10 @@ but I remember myself
 
 as if somebody else's.
 
+--- EOF [text/KN/Thag/thag1_118.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_119.txt] ---
 THERAGĀTHĀ 1:119  VAJJIPUTTA
 
 Coming to the bower
@@ -931,10 +931,10 @@ chitter-chatter
 
 to you?
 
+--- EOF [text/KN/Thag/thag1_119.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag1_120.txt] ---
 THERAGĀTHĀ 1:120  ISIDATTA
 
 The five aggregates,
@@ -955,10 +955,10 @@ the ending of effluents,
 
 attained.
 
+--- EOF [text/KN/Thag/thag1_120.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_3.txt] ---
 THERAGĀTHĀ 2:3  VALLIYA
 
 A monkey,
@@ -983,10 +983,10 @@ You're bound by discernment.
 
 You won't get far away.
 
+--- EOF [text/KN/Thag/thag2_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_9.txt] ---
 THERAGĀTHĀ 2:9  GOTAMA
 
 At ease sleep the sages
@@ -1021,10 +1021,10 @@ one doesn't
 
 grieve.
 
+--- EOF [text/KN/Thag/thag2_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_11.txt] ---
 THERAGĀTHĀ 2:11  MAHĀ CUNDA
 
 Listening well increases learning.
@@ -1047,10 +1047,10 @@ your mind protected,
 
 mindful.
 
+--- EOF [text/KN/Thag/thag2_11.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_13.txt] ---
 THERAGĀTHĀ 2:13  HERAÑÑAKĀNI
 
 Days & nights
@@ -1077,10 +1077,10 @@ evil for him
 
 the result.
 
+--- EOF [text/KN/Thag/thag2_13.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_16.txt] ---
 THERAGĀTHĀ 2:16  MAHĀKĀLA
 
 This swarthy woman
@@ -1123,10 +1123,10 @@ with my head cracked open
 
 again.
 
+--- EOF [text/KN/Thag/thag2_16.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_17.txt] ---
 THERAGĀTHĀ 2:17  TISSA
 
 He gains many enemies,
@@ -1142,10 +1142,10 @@ not soggy,
 should go forth
  mindfully.
 
+--- EOF [text/KN/Thag/thag2_17.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_19.txt] ---
 THERAGĀTHĀ 2:19  NANDA
 
 From inappropriate attention
@@ -1161,10 +1161,10 @@ I, practicing appropriately,
  plucked my mind
 out of becoming.
 
+--- EOF [text/KN/Thag/thag2_19.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_24.txt] ---
 THERAGĀTHĀ 2:24  VALLIYA
 
 What needs to be done
@@ -1195,10 +1195,10 @@ as the stream of the Ganges,
 
 the sea.
 
+--- EOF [text/KN/Thag/thag2_24.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_26.txt] ---
 THERAGĀTHĀ 2:26  PUṆṆAMĀSA
 
 Shedding five hindrances
@@ -1219,10 +1219,10 @@ my own & others'.
 
 How vain & empty the body appeared!
 
+--- EOF [text/KN/Thag/thag2_26.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_27.txt] ---
 THERAGĀTHĀ 2:27  NANDAKA
 
 Just as a fine thoroughbred steed
@@ -1247,10 +1247,10 @@ the Awakened One's thoroughbred child,
 
 his son.
 
+--- EOF [text/KN/Thag/thag2_27.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_30.txt] ---
 THERAGĀTHĀ 2:30  KAṆHADINNA
 
 Men of integrity
@@ -1283,10 +1283,10 @@ nor is found in me
 
 even now.
 
+--- EOF [text/KN/Thag/thag2_30.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_32.txt] ---
 THERAGĀTHĀ 2:32  SIVAKA
 
 Inconstant little houses:
@@ -1319,10 +1319,10 @@ be blown out
 
 right here.
 
+--- EOF [text/KN/Thag/thag2_32.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_36.txt] ---
 THERAGĀTHĀ 2:36  KHITAKA
 
 Whose mind, standing like rock,
@@ -1353,10 +1353,10 @@ from where can there come to me
 
 suffering & stress?
 
+--- EOF [text/KN/Thag/thag2_36.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_37.txt] ---
 THERAGĀTHĀ 2:37  SOṆA POṬIRIYAPUTTA
 
 It's not for sleeping,
@@ -1379,10 +1379,10 @@ than that I, defeated,
 
 survive.
 
+--- EOF [text/KN/Thag/thag2_37.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_42.txt] ---
 THERAGĀTHĀ 2:42  DHAMMAPĀLA
 
 The young monk
@@ -1397,10 +1397,10 @@ to conviction & virtue,
 confidence & Dhamma-vision,
  remembering the Buddhas' message.
 
+--- EOF [text/KN/Thag/thag2_42.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_43.txt] ---
 THERAGĀTHĀ 2:43  BRAHMĀLI
 
 Whose faculties have been made tranquil,
@@ -1416,10 +1416,10 @@ effluents abandoned,
 I'm envied even by devas.
  Such.
 
+--- EOF [text/KN/Thag/thag2_43.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag2_47.txt] ---
 THERAGĀTHĀ 2:47  ANŪPAMA
 
 Coming into the conceit of delight, the mind
@@ -1438,10 +1438,10 @@ You've gained a Teacher hard to gain.
 
 Don't urge me on to my loss.
 
+--- EOF [text/KN/Thag/thag2_47.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag3_5.txt] ---
 THERAGĀTHĀ 3:5  MĀTAṄGAPUTTA
 
 It's too cold,
@@ -1480,10 +1480,10 @@ cultivating a heart
 
 bent on seclusion.
 
+--- EOF [text/KN/Thag/thag3_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag3_8.txt] ---
 THERAGĀTHĀ 3:8  YASOJA
 
 His limbs knotted
@@ -1528,10 +1528,10 @@ more than that:
 
 a hullabaloo.
 
+--- EOF [text/KN/Thag/thag3_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag3_9.txt] ---
 THERAGĀTHĀ 3:9  SATIMATTIYA
 
 Before, you had faith.
@@ -1553,10 +1553,10 @@ little by little, in this family and that.
 I will go for alms.
 I have the strength of my legs.
 
+--- EOF [text/KN/Thag/thag3_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag3_13.txt] ---
 THERAGĀTHĀ 3:13  ABHIBHŪTA
 
 Listen, kinsmen, all of you,
@@ -1597,10 +1597,10 @@ will put an end
 
 to suffering & stress.
 
+--- EOF [text/KN/Thag/thag3_13.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag3_14.txt] ---
 THERAGĀTHĀ 3:14  GOTAMA
 
 While wandering on
@@ -1649,10 +1649,10 @@ mindful
 
 I went right to peace.
 
+--- EOF [text/KN/Thag/thag3_14.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag3_15.txt] ---
 THERAGĀTHĀ 3:15  HĀRITA
 
 Whoever wants to do later
@@ -1695,10 +1695,10 @@ where stress
 
 cease.
 
+--- EOF [text/KN/Thag/thag3_15.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag4_2.txt] ---
 THERAGĀTHĀ 4:2  BHAGU
 
 I, overcome with torpor,
@@ -1725,10 +1725,10 @@ have been attained;
 the Buddha's bidding,
  done.
 
+--- EOF [text/KN/Thag/thag4_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag4_4.txt] ---
 THERAGĀTHĀ 4:4  NANDAKA
 
 A curse on bodies—
@@ -1759,10 +1759,10 @@ don't delight there,
 have cut the cord,
    unsnared.
 
+--- EOF [text/KN/Thag/thag4_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag4_8.txt] ---
 THERAGĀTHĀ 4:8  RĀHULA
 
 In both ways
@@ -1813,10 +1813,10 @@ cooled am I.
 
 Unbound.
 
+--- EOF [text/KN/Thag/thag4_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag4_10.txt] ---
 THERAGĀTHĀ 4:10  DHAMMIKA
 
 The Dhamma protects
@@ -1879,10 +1879,10 @@ like the moon
 
 on a clear full-moon night.
 
+--- EOF [text/KN/Thag/thag4_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag5_1.txt] ---
 THERAGĀTHĀ 5:1  RĀJADATTA
 
 I, a monk,
@@ -1937,10 +1937,10 @@ the Awakened One's bidding,
 
 done.
 
+--- EOF [text/KN/Thag/thag5_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag5_8.txt] ---
 THERAGĀTHĀ 5:8  VAKKALI
 
 Stricken by sharp, wind-like pains,
@@ -1987,10 +1987,10 @@ I'll stay
 
 in the grove.
 
+--- EOF [text/KN/Thag/thag5_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag5_10.txt] ---
 THERAGĀTHĀ 5:10  YASADATTA
 
 Intent on quibbling,
@@ -2041,10 +2041,10 @@ attaining the foremost peace,
 
 totally unbinds.
 
+--- EOF [text/KN/Thag/thag5_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_2.txt] ---
 THERAGĀTHĀ 6:2  TEKICCHAKĀNI
 
 The grain: harvested.
@@ -2107,10 +2107,10 @@ dwelling
 
 unperturbed.
 
+--- EOF [text/KN/Thag/thag6_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_3.txt] ---
 THERAGĀTHĀ 6:3  MAHĀNĀGA
 
 One in whom respect for his fellows in the holy life
@@ -2161,10 +2161,10 @@ stands right in the presence of unbinding
 
 in the teaching of the Dhamma king.
 
+--- EOF [text/KN/Thag/thag6_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_5.txt] ---
 THERAGĀTHĀ 6:5  MĀLUṄKYAPUTTA
 
 When a person lives heedlessly,
@@ -2235,10 +2235,10 @@ your own arrow
 
 on your own.
 
+--- EOF [text/KN/Thag/thag6_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_6.txt] ---
 THERAGĀTHĀ 6:6  SAPPADĀSA
 
 Twenty five years since my going forth,
@@ -2293,10 +2293,10 @@ the Awakened One's bidding,
 
 done.
 
+--- EOF [text/KN/Thag/thag6_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_9.txt] ---
 THERAGĀTHĀ 6:9  JENTA, THE ROYAL CHAPLAIN'S SON
 
 I was
@@ -2365,10 +2365,10 @@ the conceit 'I am' is extracted,
 
 all forms of pride, destroyed.
 
+--- EOF [text/KN/Thag/thag6_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_10.txt] ---
 THERAGĀTHĀ 6:10  SUMANA THE NOVICE
 
 When I was seven
@@ -2421,10 +2421,10 @@ wants this:
 
 'Don't let anyone know me.'
 
+--- EOF [text/KN/Thag/thag6_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_12.txt] ---
 THERAGĀTHĀ 6:12  BRAHMADATTA
 
 Whence is there anger
@@ -2487,10 +2487,10 @@ as you would a bad ox
 
 eating grain.
 
+--- EOF [text/KN/Thag/thag6_12.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag6_13.txt] ---
 THERAGĀTHĀ 6:13  SIRIMAṆḌA
 
 Rain soddens what's covered
@@ -2551,10 +2551,10 @@ This isn't your time
 
 to be heedless.
 
+--- EOF [text/KN/Thag/thag6_13.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag7_1.txt] ---
 THERAGĀTHĀ 7:1  SUNDARA SAMUDDA & THE COURTESAN
 
 Ornamented, finely clothed,
@@ -2627,10 +2627,10 @@ the Buddha's bidding,
 
 done.
 
+--- EOF [text/KN/Thag/thag7_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag9.txt] ---
 THERAGĀTHĀ 9  BHŪTA
 
 When, knowing, 'stress, aging-&-death'—
@@ -2735,10 +2735,10 @@ he does jhāna,
 
 there's no greater enjoyment than that.
 
+--- EOF [text/KN/Thag/thag9.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag10_1.txt] ---
 THERAGĀTHĀ 10:1  KĀLUDĀYIN
 
 Covered in embers now are the trees,
@@ -2833,10 +2833,10 @@ In the Dhamma, Gotama,
 
 you are my grandfather.
 
+--- EOF [text/KN/Thag/thag10_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag10_2.txt] ---
 THERAGĀTHĀ 10:2  EKAVIHĀRIYA—'DWELLING ALONE'
 
 If, in front or behind,
@@ -2949,10 +2949,10 @@ totally ended,
 
 there is now no further becoming.
 
+--- EOF [text/KN/Thag/thag10_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag10_5.txt] ---
 THERAGĀTHĀ 10:5  KAPPA
 
 Full of the many clans of impurities,
@@ -3045,10 +3045,10 @@ will, without effluent,
 
 totally unbind.
 
+--- EOF [text/KN/Thag/thag10_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag10_7.txt] ---
 THERAGĀTHĀ 10:7  GOTAMA
 
 You should know what's to your benefit.
@@ -3169,10 +3169,10 @@ This is fitting
 
 for a contemplative.
 
+--- EOF [text/KN/Thag/thag10_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag11.txt] ---
 THERAGĀTHĀ 11  SAṄKICCA
 
 What do you want in the woods, my boy,
@@ -3285,10 +3285,10 @@ I await my time,
 
 mindful, alert.
 
+--- EOF [text/KN/Thag/thag11.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag12_1.txt] ---
 THERAGĀTHĀ 12:1  SĪLAVAT
 
 Here master the virtue
@@ -3401,10 +3401,10 @@ one conquers
 
 through virtue & discernment.
 
+--- EOF [text/KN/Thag/thag12_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag12_2.txt] ---
 THERAGĀTHĀ 12:2  SUNĪTA THE OUTCASTE
 
 Into a lowly family I was born,
@@ -3521,10 +3521,10 @@ That's how one is a brahman.
 
 He is a brahman supreme.'
 
+--- EOF [text/KN/Thag/thag12_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag13.txt] ---
 THERAGĀTHĀ 13  SOṆA KOḶIVISA
 
 Who once was highly exalted in the state,
@@ -3645,10 +3645,10 @@ focuses on
 
 their passing away.
 
+--- EOF [text/KN/Thag/thag13.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag14_1.txt] ---
 THERAGĀTHĀ 14:1  REVATA'S FAREWELL
 
 Since I went forth
@@ -3797,10 +3797,10 @@ I'm released
 
 everywhere.
 
+--- EOF [text/KN/Thag/thag14_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag14_2.txt] ---
 THERAGĀTHĀ 14:2  GODATTA
 
 Just as a fine, well-bred bull
@@ -3981,10 +3981,10 @@ totally
 
 unbind.
 
+--- EOF [text/KN/Thag/thag14_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag15_2.txt] ---
 THERAGĀTHĀ 15:2  UDĀYIN
 
 A human being, self-awakened,
@@ -4125,10 +4125,10 @@ will, without effluent,
 
 totally unbind.
 
+--- EOF [text/KN/Thag/thag15_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag16_1.txt] ---
 THERAGĀTHĀ 16:1  ADHIMUTTA & THE BANDITS
 
 The bandit chief:
@@ -4341,10 +4341,10 @@ their faculties ripened,
 
 they touched uncompounded unbinding.
 
+--- EOF [text/KN/Thag/thag16_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag16_4.txt] ---
 THERAGĀTHĀ 16:4  RAṬṬHAPĀLA
 
 Look at the image beautified,
@@ -4655,10 +4655,10 @@ the end
 
 of all fetters.
 
+--- EOF [text/KN/Thag/thag16_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag16_7.txt] ---
 THERAGĀTHĀ 16:7  BHADDIYA KĀLIGODHĀYAPUTTA
 
 Whatever the fine clothes I wore
@@ -4771,10 +4771,10 @@ step by step I attained
 
 the ending of all fetters.
 
+--- EOF [text/KN/Thag/thag16_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag16_8.txt] ---
 THERAGĀTHĀ 16:8  AṄGULIMĀLA
 
 Aṅgulimāla:
@@ -5073,10 +5073,10 @@ the guide to becoming,     uprooted;
 
 the heavy load,       laid down.
 
+--- EOF [text/KN/Thag/thag16_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag17_2.txt] ---
 THERAGĀTHĀ 17:2  SĀRIPUTTA
 
 Mindful, heedful,
@@ -5437,10 +5437,10 @@ I'm released
 
 everywhere.
 
+--- EOF [text/KN/Thag/thag17_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thag/thag18.txt] ---
 THERAGĀTHĀ 18  MAHĀ KASSAPA
 
 One shouldn't go about
@@ -5973,6 +5973,6 @@ he goes about
 
 always unbound.
 
-
+--- EOF [text/KN/Thag/thag18.txt] ---
 
 

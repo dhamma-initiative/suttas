@@ -13,6 +13,18 @@ For those who want to express gratitude for the teachers’ generosity, the best
 
 For the purposes of the suttaplayer, I need a highly distilled (ie. "cleaned") text for consumption my text-to-speech technology.
 
+## Artifact layout
+
+- `text/` - stable per-sutta text paths and per-catalog manifests.
+- `book/<Catalog>-book-with-file-hdrs.txt` - stable aggregated catalog books.
+  Book filenames do not contain a version label.
+- `phoneme/` - English and Pali phoneme dictionaries coupled to this text build.
+- `vector-index/` - RAG chunk metadata and binary embeddings.
+- `version-manifest.json` - the authoritative build version for all artifacts.
+
+Consumers must resolve the build version from `version-manifest.json` and use it
+for cache invalidation. Do not derive the version from an artifact filename.
+
 
 ---
 

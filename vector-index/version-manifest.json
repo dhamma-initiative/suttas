@@ -1,9 +1,10 @@
 {
-  "version": "v202610120653",
-  "generatedAt": "2026-10-12T06:53:02.041Z",
-  "totalChunks": 8085,
+  "version": "v261020",
+  "buildVersion": "261020",
+  "generatedAt": "2026-10-20T05:29:57.163Z",
+  "totalChunks": 8086,
   "vectorDimensions": 384,
   "binaryIndexFile": "suttas-index.bin",
   "metadataFile": "suttas-metadata.json",
-  "fileSizeBytes": 12418560
+  "fileSizeBytes": 12420096
 }

@@ -1,4 +1,4 @@
-
+--- BOF [text/KN/Thig/thig1_1.txt] ---
 THERĪGĀTHĀ 1:1  AN ANONYMOUS NUN
 
 Sleep, little therī, sleep comfortably,
@@ -11,10 +11,10 @@ like a pot of pickled greens
 
 boiled dry.
 
+--- EOF [text/KN/Thig/thig1_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig1_3.txt] ---
 THERĪGĀTHĀ 1:3  PUṆṆĀ
 
 Puṇṇā, grow full with good qualities
@@ -27,10 +27,10 @@ the mass
 
 of darkness.
 
+--- EOF [text/KN/Thig/thig1_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig1_11.txt] ---
 THERĪGĀTHĀ 1:11  MUTTĀ
 
 So freed! So thoroughly freed am I!—
@@ -47,10 +47,10 @@ that leads to becoming,
 
 I'm from aging & death set free.
 
+--- EOF [text/KN/Thig/thig1_11.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig1_17.txt] ---
 THERĪGĀTHĀ 1:17  DHAMMĀ
 
 Wandering for alms—
@@ -67,10 +67,10 @@ my mind was then
 
 set free.
 
+--- EOF [text/KN/Thig/thig1_17.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig2_3.txt] ---
 THERĪGĀTHĀ 2:3  SUMAṄGALA'S MOTHER
 
 So freed! So freed!
@@ -97,10 +97,10 @@ I do jhāna, from the bliss thinking:
 
 'What bliss!'
 
+--- EOF [text/KN/Thig/thig2_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig2_4.txt] ---
 THERĪGĀTHĀ 2:4  AḌḌHKĀSĪ
 
 All of the Kāsi countryside:
@@ -127,10 +127,10 @@ The Buddha's bidding
 
 done.
 
+--- EOF [text/KN/Thig/thig2_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig3_2.txt] ---
 THERĪGĀTHĀ 3:2  UTTAMĀ
 
 Four times, five, I ran amok from my dwelling,
@@ -159,10 +159,10 @@ having burst the mass
 
 of darkness.
 
+--- EOF [text/KN/Thig/thig3_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig3_4.txt] ---
 THERĪGĀTHĀ 3:4  DANTIKĀ & THE ELEPHANT
 
 Coming out from my day's abiding
@@ -197,10 +197,10 @@ why I'd gone to the woods
 
 in the first place.
 
+--- EOF [text/KN/Thig/thig3_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig3_5.txt] ---
 THERĪGĀTHĀ 3:5  UBBIRI
 
 [Ubbiri recalls the Buddha's words:]
@@ -247,10 +247,10 @@ for refuge to
 
 the Sage.
 
+--- EOF [text/KN/Thig/thig3_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_2.txt] ---
 THERĪGĀTHĀ 5:2  VIMALĀ, THE FORMER COURTESAN
 
 Intoxicated with my complexion
@@ -295,10 +295,10 @@ effluents,
 
 cooled am I.       Unbound.
 
+--- EOF [text/KN/Thig/thig5_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_4.txt] ---
 THERĪGĀTHĀ 5:4  NANDĀ'S VISION
 
 'Sick, putrid, unclean:
@@ -347,10 +347,10 @@ calmed was I.
 
 Unbound.
 
+--- EOF [text/KN/Thig/thig5_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_6.txt] ---
 THERĪGĀTHĀ 5:6  MITTAKĀLĪ
 
 Going forth through conviction
@@ -403,10 +403,10 @@ the Awakened One's bidding
 
 done.
 
+--- EOF [text/KN/Thig/thig5_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_8.txt] ---
 THERĪGĀTHĀ 5:8  SOṆĀ, MOTHER OF TEN
 
 Ten children I bore
@@ -451,10 +451,10 @@ old age.
 
 There is now no further becoming.
 
+--- EOF [text/KN/Thig/thig5_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_10.txt] ---
 THERĪGĀTHĀ 5:10  PAṬĀCĀRĀ
 
 [I thought:]
@@ -507,10 +507,10 @@ was the liberation
 
 of awareness.
 
+--- EOF [text/KN/Thig/thig5_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_11.txt] ---
 THERĪGĀTHĀ 5:11  PAṬĀCĀRĀ'S THIRTY STUDENTS
 
 [Paṭācārā taught:]
@@ -579,10 +579,10 @@ effluent-free—
 
 will continue honoring you.'
 
+--- EOF [text/KN/Thig/thig5_11.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig5_12.txt] ---
 THERĪGĀTHĀ 5:12  CANDĀ, THE BEGGAR
 
 Before, I had fallen on evil times:
@@ -629,10 +629,10 @@ Endowed with the three knowledges,
 
 I'm effluent-     free.
 
+--- EOF [text/KN/Thig/thig5_12.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_1.txt] ---
 THERĪGĀTHĀ 6:1  PAṬĀCĀRĀ'S 500 STUDENTS
 
 [Paṭācārā recounts the Buddha's words:]
@@ -717,10 +717,10 @@ for refuge to
 
 the Sage.
 
+--- EOF [text/KN/Thig/thig6_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_2.txt] ---
 THERĪGĀTHĀ 6:2  VĀSIṬṬHĪ THE MADWOMAN
 
 Overwhelmed with grief for my son—
@@ -785,10 +785,10 @@ the grounds from which griefs
 
 come into play.
 
+--- EOF [text/KN/Thig/thig6_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_3.txt] ---
 THERĪGĀTHĀ 6:3  KHEMĀ
 
 Māra:
@@ -867,10 +867,10 @@ entirely released
 
 from sufferings & stress.
 
+--- EOF [text/KN/Thig/thig6_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_4.txt] ---
 THERĪGĀTHĀ 6:4  SUJĀTĀ
 
 Ornamented, well-dressed,
@@ -931,10 +931,10 @@ The Buddha's bidding
 
 is not in vain.
 
+--- EOF [text/KN/Thig/thig6_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_5.txt] ---
 THERĪGĀTHĀ 6:5  ANOPAMĀ, THE MILLIONAIRE'S DAUGHTER
 
 Born in a high-ranking family
@@ -991,10 +991,10 @@ since I made craving
 
 wither away.
 
+--- EOF [text/KN/Thig/thig6_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_6.txt] ---
 THERĪGĀTHĀ 6:6  MAHĀPAJĀPATI GOTAMĪ
 
 Awakened! Hero! Homage to you,
@@ -1057,10 +1057,10 @@ thrusting away the mass of pain
 
 of those mired in illness & death.
 
+--- EOF [text/KN/Thig/thig6_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_7.txt] ---
 THERĪGĀTHĀ 6:7  GUTTĀ
 
 [The Buddha admonished me:]
@@ -1123,10 +1123,10 @@ you will go about
 
 totally calmed.
 
+--- EOF [text/KN/Thig/thig6_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig6_8.txt] ---
 THERĪGĀTHĀ 6:8  VIJAYĀ
 
 Four times, five, I ran amok from my dwelling,
@@ -1179,10 +1179,10 @@ having burst the mass
 
 of darkness.
 
+--- EOF [text/KN/Thig/thig6_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig7_2.txt] ---
 THERĪGĀTHĀ 7:2  CĀLĀ
 
 Cālā:
@@ -1271,10 +1271,10 @@ End-maker,
 
 struck down.
 
+--- EOF [text/KN/Thig/thig7_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig7_3.txt] ---
 THERĪGĀTHĀ 7:3  UPACĀLĀ
 
 Upacālā:
@@ -1365,10 +1365,10 @@ End-maker,
 
 struck down.
 
+--- EOF [text/KN/Thig/thig7_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig8.txt] ---
 THERĪGĀTHĀ 8  SĪSŪPACĀLĀ
 
 Sīsupacālā:
@@ -1467,10 +1467,10 @@ End-maker,
 
 struck down.
 
+--- EOF [text/KN/Thig/thig8.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig9.txt] ---
 THERĪGĀTHĀ 9  VAḌḌHA'S MOTHER
 
 Vaḍḍha's Mother:
@@ -1567,10 +1567,10 @@ touched
 
 the highest peace.
 
+--- EOF [text/KN/Thig/thig9.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig10.txt] ---
 THERĪGĀTHĀ 10  KĪSĀ GOTAMĪ
 
 Having admirable friends
@@ -1685,10 +1685,10 @@ my heart well released,
 
 have said this.
 
+--- EOF [text/KN/Thig/thig10.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig12.txt] ---
 THERĪGĀTHĀ 12  PUṆṆIKĀ & THE BRAHMAN
 
 Puṇṇikā:
@@ -1833,10 +1833,10 @@ consummate in knowledge,
 
 washed clean.
 
+--- EOF [text/KN/Thig/thig12.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig13_1.txt] ---
 THERĪGĀTHĀ 13:1  AMBAPĀLĪ
 
 Black was my hair
@@ -2043,10 +2043,10 @@ The Truth-speaker's word
 
 doesn't change.
 
+--- EOF [text/KN/Thig/thig13_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig13_2.txt] ---
 THERĪGĀTHĀ 13:2  ROHIṆĪ
 
 Rohiṇī's father:
@@ -2313,10 +2313,10 @@ consummate in knowledge,
 
 washed clean.
 
+--- EOF [text/KN/Thig/thig13_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig13_5.txt] ---
 THERĪGĀTHĀ 13:5  SUBHĀ THE GOLDSMITH'S DAUGHTER
 
 'I was a child, with clean clothes,
@@ -2581,10 +2581,10 @@ pays homage to her:
 
 Subhā the goldsmith's daughter.
 
+--- EOF [text/KN/Thig/thig13_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Thig/thig14.txt] ---
 THERĪGĀTHĀ 14  SUBHĀ & THE LIBERTINE
 
 As Subhā the nun was going through Jīvaka's delightful mango grove, a libertine (a goldsmith's son) blocked her path, so she said to him:
@@ -2879,6 +2879,6 @@ her eye became
 
 as it was before.
 
-
+--- EOF [text/KN/Thig/thig14.txt] ---
 
 

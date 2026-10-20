@@ -2,12 +2,12 @@
 Shortest Line (All): 0
 Shortest Line (Non-Empty): 1
 Longest Line: 2400
-Total Lines: 80947
-Total Non-Empty Lines: 41766
-Average Line Length (All Lines): 73.5684
-Average Line Length (Non-Empty Only): 142.5835  <-- USE THIS FOR TTS
-Total Words: 1000960
-Total Duration (est): 6673.07 minutes
+Total Lines: 80967
+Total Non-Empty Lines: 41777
+Average Line Length (All Lines): 73.5614
+Average Line Length (Non-Empty Only): 142.5676  <-- USE THIS FOR TTS
+Total Words: 1001113
+Total Duration (est): 6674.09 minutes
 
 File: KN/Khp/khp6.txt
   Shortest (All): 0
@@ -3973,10 +3973,10 @@ File: DN/DN16.txt
   Shortest (All): 0
   Shortest (Non-Empty): 3
   Longest: 1989
-  Average (All Lines): 107.4469
-  Average (Non-Empty Lines): 215.2026
-  Words: 25182
-  Duration: 167.88 min
+  Average (All Lines): 107.4491
+  Average (Non-Empty Lines): 215.2069
+  Words: 25185
+  Duration: 167.90 min
 
 File: DN/DN02.txt
   Shortest (All): 0
@@ -9274,10 +9274,10 @@ File: SN/SN12_51.txt
   Shortest (All): 0
   Shortest (Non-Empty): 11
   Longest: 1012
-  Average (All Lines): 127.9259
-  Average (Non-Empty Lines): 246.7143
-  Words: 1139
-  Duration: 7.59 min
+  Average (All Lines): 127.9444
+  Average (Non-Empty Lines): 246.7500
+  Words: 1140
+  Duration: 7.60 min
 
 File: SN/SN6_14.txt
   Shortest (All): 0
@@ -9989,6 +9989,15 @@ File: SN/SN20_6.txt
   Average (Non-Empty Lines): 246.8000
   Words: 224
   Duration: 1.49 min
+
+File: SN/SN22_121.txt
+  Shortest (All): 0
+  Shortest (Non-Empty): 8
+  Longest: 144
+  Average (All Lines): 43.9500
+  Average (Non-Empty Lines): 79.9091
+  Words: 131
+  Duration: 0.87 min
 
 File: SN/SN2_22.txt
   Shortest (All): 0
@@ -12199,10 +12208,10 @@ File: MN/MN60.txt
   Shortest (All): 0
   Shortest (Non-Empty): 6
   Longest: 2161
-  Average (All Lines): 224.2059
-  Average (Non-Empty Lines): 471.5258
-  Words: 7500
-  Duration: 50.00 min
+  Average (All Lines): 224.2941
+  Average (Non-Empty Lines): 471.7113
+  Words: 7518
+  Duration: 50.12 min
 
 File: MN/MN143.txt
   Shortest (All): 0

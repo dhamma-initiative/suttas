@@ -1,4 +1,4 @@
-
+--- BOF [text/KN/Ud/ud1_1.txt] ---
 UDĀNA 1:1 AWAKENING (1) (BODHI SUTTA)
 
 I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Bodhi tree–the tree of awakening–newly awakened. And on that occasion he sat at the root of the Bodhi tree for seven days in one session, sensitive to the bliss of release. Then, with the passing of seven days, after emerging from that concentration, in the first watch of the night, he gave close attention to dependent co-arising in forward order, thus:
@@ -43,10 +43,10 @@ when he discerns
 
 a phenomenon with its cause.
 
+--- EOF [text/KN/Ud/ud1_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_2.txt] ---
 UDĀNA 1:2 AWAKENING (2) (BODHI SUTTA)
 
 I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Bodhi tree–the tree of awakening–newly awakened. And on that occasion he sat at the root of the Bodhi tree for seven days in one session, sensitive to the bliss of release. Then, with the passing of seven days, after emerging from that concentration, in the second watch of the night, he gave close attention to dependent co-arising in reverse order, thus:
@@ -91,10 +91,10 @@ when he penetrates the ending
 
 of requisite conditions.
 
+--- EOF [text/KN/Ud/ud1_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_3.txt] ---
 UDĀNA 1:3 AWAKENING (3) (BODHI SUTTA)
 
 I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Bodhi tree–the tree of awakening–newly awakened. And on that occasion he sat at the root of the Bodhi tree for seven days in one session, sensitive to the bliss of release. Then, with the passing of seven days, after emerging from that concentration, in the third watch of the night, he gave close attention to dependent co-arising in forward and reverse order, thus:
@@ -147,10 +147,10 @@ as the sun,
 
 illumining the sky.
 
+--- EOF [text/KN/Ud/ud1_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_4.txt] ---
 UDĀNA 1:4 OVERBEARING (HUHUṄKA SUTTA)
 
 I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Bodhi tree–the tree of awakening–newly awakened. And on that occasion he sat at the root of the Bodhi tree for seven days in one session, sensitive to the bliss of release. At the end of seven days, he emerged from that concentration.
@@ -181,10 +181,10 @@ He has no swelling of pride
 
 anywhere in the world.
 
+--- EOF [text/KN/Ud/ud1_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_5.txt] ---
 UDĀNA 1:5 BRAHMANS (BRĀHMAṆA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Sāriputta, Venerable Mahā Moggallāna, Venerable Mahā Kassapa, Venerable Mahā Kaccāna, Venerable Mahā Koṭṭhita, Venerable Mahā Kappina, Venerable Mahā Cunda, Venerable Anuruddha, Venerable Revata, and Venerable Nanda went to the Blessed One. The Blessed One saw them coming from afar and, on seeing them, addressed the monks, 'Monks, those are brahmans who are coming. Monks, those are brahmans who are coming.'
@@ -203,10 +203,10 @@ They, in the world,
 
 are truly brahmans.
 
+--- EOF [text/KN/Ud/ud1_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_6.txt] ---
 UDĀNA 1:6 MAHĀ KASSAPA (KASSAPA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' Sanctuary. And on that occasion Venerable Mahā Kassapa was staying at the Pipphali Cave, afflicted, in pain, & seriously ill. Then, at a later time, he recovered from his illness. When he had recovered from the illness, the thought occurred to him: 'What if I were to go into Rājagaha for alms?'
@@ -231,10 +231,10 @@ He's what I call
 
 a brahman.
 
+--- EOF [text/KN/Ud/ud1_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_7.txt] ---
 UDĀNA 1:7 AJA (AJA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Pāva at the Ajakalāpaka [Herd-of-Goats] shrine, the dwelling of the Ajakalāpaka spirit. And on that occasion, in the pitch-black darkness of the night, the Blessed One was sitting in the open air, and the rain was falling in scattered drops.
@@ -255,10 +255,10 @@ he transcends this goblin
 
 and his pandemonium.
 
+--- EOF [text/KN/Ud/ud1_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_8.txt] ---
 UDĀNA 1:8 SAṄGĀMAJI (SAṄGĀMAJI SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Saṅgāmaji had arrived in Sāvatthī to see the Blessed One. His former wife heard, 'Master Saṅgāmaji, they say, has arrived in Sāvatthī.' Taking her small child, she went to Jeta's Grove. On that occasion Venerable Saṅgāmaji was sitting at the root of a tree for the day's abiding. His former wife went to him and, on arrival, said to him, 'Look after me, contemplative–(a woman) with a little son.' When this was said, Venerable Saṅgāmaji remained silent. A second time… A third time, his former wife said to him, 'Look after me, contemplative–(a woman) with a little son.' A third time, Venerable Saṅgāmaji remained silent.
@@ -285,10 +285,10 @@ He's what I call
 
 a brahman.
 
+--- EOF [text/KN/Ud/ud1_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_9.txt] ---
 UDĀNA 1:9 ASCETICS (JAṬILA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Gayā at Gayā Head. And on that occasion, many ascetics–on the cold winter nights of the 'Between-the-Eights,' when the snow was falling in Gayā–jumped up in the water, jumped down in the water, did a jumping-up-&-down in the water, poured (water over themselves), and performed the fire sacrifice, (thinking,) 'Through this there is purity.'
@@ -309,10 +309,10 @@ He's a clean one;
 
 he, a brahman.
 
+--- EOF [text/KN/Ud/ud1_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud1_10.txt] ---
 UDĀNA 1:10 BĀHIYA (BĀHIYA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Bāhiya of the Bark-cloth was living in Suppāraka by the seashore. He was worshipped, revered, honored, venerated, and given homage–a recipient of robes, alms food, lodgings, & medicinal requisites for the sick. Then, when he was alone in seclusion, this line of thinking appeared to his awareness: 'Now, of those who in this world are arahants or have entered the path of arahantship, am I one?'
@@ -375,10 +375,10 @@ from bliss & pain,
 
 he is freed.
 
+--- EOF [text/KN/Ud/ud1_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_1.txt] ---
 UDĀNA 2:1 MUCCALINDA (MUCCALINDA SUTTA)
 
 I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Muccalinda tree, newly awakened. And on that occasion he sat for seven days in one session, sensitive to the bliss of release.
@@ -415,10 +415,10 @@ That is truly
 
 the ultimate bliss.
 
+--- EOF [text/KN/Ud/ud2_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_2.txt] ---
 UDĀNA 2:2 KINGS (RĀJĀ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion a large number of monks, after the meal, on returning from their alms round, were sitting gathered together in the assembly hall when this discussion arose: 'Friends, which of these two kings has greater wealth, greater possessions, the greater treasury, the larger realm, the greater stock of riding animals, the greater army, greater power, greater might: King Seniya Bimbisāra of Magadha or King Pasenadi of Kosala?' And this discussion came to no conclusion.
@@ -439,10 +439,10 @@ isn't worth one sixteenth-sixteenth
 
 of the bliss of the ending of craving.
 
+--- EOF [text/KN/Ud/ud2_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_3.txt] ---
 UDĀNA 2:3 THE STICK (DAṆḌA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion, a large number of boys on the road between Sāvatthī & Jeta's Grove were hitting a snake with a stick. Then early in the morning the Blessed One adjusted his under robe and–carrying his bowl & robes–went into Sāvatthī for alms. He saw the large number of boys on the road between Sāvatthī & Jeta's Grove hitting the snake with a stick.
@@ -465,10 +465,10 @@ when he himself is looking for ease,
 
 will meet with ease after death.
 
+--- EOF [text/KN/Ud/ud2_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_4.txt] ---
 UDĀNA 2:4 VENERATION (SAKKĀRA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One was worshipped, revered, honored, venerated, and given homage–a recipient of robes, alms food, lodgings, & medicinal requisites for the sick. The community of monks was also worshipped, revered, honored, venerated, and given homage–a recipient of robes, alms food, lodgings, & medicinal requisites for the sick. But the wanderers of other sects were not worshipped, revered, honored, venerated, or given homage; nor were they recipients of robes, alms food, lodgings, or medicinal requisites for the sick. So the wanderers of other sects, unable to stand the veneration given to the Blessed One and the community of monks, on seeing monks in village or wilderness, would insult, revile, irritate, & harass them with discourteous, abusive language.
@@ -493,10 +493,10 @@ contacts would make contact
 
 with what?
 
+--- EOF [text/KN/Ud/ud2_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_5.txt] ---
 UDĀNA 2:5 THE LAY FOLLOWER (UPĀSAKA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion a certain lay follower from Icchānaṅgalaka had arrived in Sāvatthī on some business affairs. Having settled his affairs in Sāvatthī, he went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One said to him, 'At long last you have managed to come here.'
@@ -517,10 +517,10 @@ a person bound in body
 
 with people.
 
+--- EOF [text/KN/Ud/ud2_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_6.txt] ---
 UDĀNA 2:6 THE PREGNANT WOMAN (GABBHININ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the young wife of a certain wanderer was pregnant and on the verge of delivery. So she said to the wanderer, 'Go, brahman, get some oil for my delivery.'
@@ -551,10 +551,10 @@ a person bound in mind
 
 with people.
 
+--- EOF [text/KN/Ud/ud2_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_7.txt] ---
 UDĀNA 2:7 THE ONLY SON (EKAPUTTA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the dear and beloved only son of a certain lay follower had died. So a large number of lay followers–their clothes wet, their hair wet–went to the Blessed One in the middle of the day and, on arrival, having bowed down to him, sat to one side. As they were sitting there the Blessed One said to them: 'Why have you come here–your clothes wet, your hair wet–in the middle of the day?'
@@ -591,10 +591,10 @@ so hard
 
 to overcome.
 
+--- EOF [text/KN/Ud/ud2_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_8.txt] ---
 UDĀNA 2:8 SUPPAVĀSĀ (SUPPAVĀSĀ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Kuṇḍiya in the Kuṇḍiṭṭhāna forest. And on that occasion Suppavāsā the Koliyan-daughter had been seven years pregnant and seven days in difficult labor. She–touched by fierce, sharp pains–endured them with three thoughts: 'How rightly self-awakened is the Blessed One who, abandoning this sort of suffering, teaches the Dhamma! How well-practiced is the community of the Blessed One's disciples who practice, abandoning this sort of suffering! How truly blissful is unbinding, where this sort of pain is not found!'
@@ -649,10 +649,10 @@ overcome
 
 one who is heedless.
 
+--- EOF [text/KN/Ud/ud2_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_9.txt] ---
 UDĀNA 2:9 VISĀKHĀ (VISĀKHĀ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at the Eastern Monastery, the palace of Migāra's mother. And on that occasion, Visākhā, Migāra's mother, had some dealings with King Pasenadi Kosala that he did not settle as she had wished. So in the middle of the day she went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As she was sitting there the Blessed One said to her, 'Well now, Visākhā, where are you coming from in the middle of the day?'
@@ -677,10 +677,10 @@ for duties are hard
 
 to overcome.
 
+--- EOF [text/KN/Ud/ud2_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud2_10.txt] ---
 UDĀNA 2:10 BHADDIYA KĀḶIGODHĀ (KĀḶIGODHĀ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Anupiyā in the Mango Grove. And on that occasion, Venerable Bhaddiya, Kāḷigodhā's son, on going to the wilderness, to the root of a tree, or to an empty dwelling, would repeatedly exclaim, 'What bliss! What bliss!'
@@ -721,10 +721,10 @@ with no grief–
 
 is one the devas can't see.
 
+--- EOF [text/KN/Ud/ud2_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_1.txt] ---
 UDĀNA 3:1 KAMMA (KAMMA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion a certain monk was sitting not far from the Blessed One, his legs crossed, his body held erect, enduring fierce pains, sharp & severe, that were the result of old kamma–mindful, alert, without suffering. The Blessed One saw him sitting not far away, his legs crossed, his body held erect, enduring fierce pains, sharp & severe, that were the result of old kamma–mindful, alert, and not struck down by them.
@@ -747,10 +747,10 @@ There's no point in telling
 
 anyone else.
 
+--- EOF [text/KN/Ud/ud3_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_2.txt] ---
 UDĀNA 3:2 NANDA (NANDA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Nanda–the Blessed One's brother, son of his maternal aunt–announced to a large number of monks: 'I don't enjoy leading the holy life, my friends. I can't keep up the holy life. Giving up the training, I will return to the common life.'
@@ -809,10 +809,10 @@ from pleasures & pains
 
 : a monk.
 
+--- EOF [text/KN/Ud/ud3_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_3.txt] ---
 UDĀNA 3:3 YASOJA (YASOJA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion approximately 500 monks, headed by Venerable Yasoja, had arrived in Sāvatthī to see the Blessed One. As these visiting monks were exchanging greetings with the resident monks, setting their lodgings in order, and putting away their robes & bowls, they made a loud racket, a great racket. Then the Blessed One said to Venerable Ānanda, 'Ānanda, what is that loud racket, that great racket like fishermen with a catch of fish?'
@@ -873,10 +873,10 @@ from pleasures & pains
 
 : a monk.
 
+--- EOF [text/KN/Ud/ud3_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_4.txt] ---
 UDĀNA 3:4 SĀRIPUTTA (SĀRIPUTTA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Sāriputta was sitting not far from the Blessed One, his legs crossed, his body held erect, having set mindfulness to the fore. The Blessed One saw Venerable Sāriputta sitting not far away, his legs crossed, his body held erect, having set mindfulness to the fore.
@@ -893,10 +893,10 @@ doesn't quiver–
 
 just like a mountain.
 
+--- EOF [text/KN/Ud/ud3_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_5.txt] ---
 UDĀNA 3:5 MAHĀ MOGGALLĀNA (KOLITA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Mahā Moggallāna was sitting not far from the Blessed One, his legs crossed, his body held erect, having mindfulness immersed in the body well-established within. The Blessed One saw Venerable Mahā Moggallāna sitting not far away, his legs crossed, his body held erect, having mindfulness immersed in the body well-established within.
@@ -917,10 +917,10 @@ can know
 
 unbinding for himself.
 
+--- EOF [text/KN/Ud/ud3_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_6.txt] ---
 UDĀNA 3:6 PILINDA (PILINDA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' refuge. Now at on that occasion Venerable Pilindavaccha went around addressing the monks as if they were outcastes.
@@ -957,10 +957,10 @@ He's         a brahman
 
 : a monk.
 
+--- EOF [text/KN/Ud/ud3_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_7.txt] ---
 UDĀNA 3:7 MAHĀ KASSAPA (KASSAPA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' Sanctuary. And on that occasion Venerable Mahā Kassapa was staying at the Pipphali Cave, sitting for seven days in a single session, having attained a certain level of concentration. Then, with the passing of seven days, he emerged from that concentration. To him, emerging from that concentration, the thought occurred: 'What if I were to go into Rājagaha for alms?'
@@ -999,10 +999,10 @@ The devas adore one who is Such,
 
 calmed & ever mindful.
 
+--- EOF [text/KN/Ud/ud3_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_8.txt] ---
 UDĀNA 3:8 ALMS (PIṆḌA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion a large number of monks, after the meal, on returning from their alms round, were sitting gathered together at the kareri-tree pavilion when this discussion arose: 'Friends, an alms-collecting monk, while going for alms, periodically sees agreeable sights via the eye. He periodically hears agreeable sounds via the ear… smells agreeable aromas via the nose… tastes agreeable flavors via the tongue… touches agreeable tactile sensations via the body. An alms-collecting monk, while going for alms, is honored, respected, revered, venerated, and given homage.
@@ -1027,10 +1027,10 @@ if he's not intent
 
 on fame & praise.
 
+--- EOF [text/KN/Ud/ud3_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_9.txt] ---
 UDĀNA 3:9 CRAFTS (SIPPA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Now at that time a large number of monks, after the meal, on returning from their alms round, were sitting gathered together at a pavilion when this discussion arose: 'Who, friends, knows a craft? Who's studying which craft? Which is the supreme among crafts?'
@@ -1067,10 +1067,10 @@ going alone
 
 : a monk.
 
+--- EOF [text/KN/Ud/ud3_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud3_10.txt] ---
 UDĀNA 3:10 SURVEYING THE WORLD (LOKA SUTTA)
 
 I have heard that on one occasion, the Blessed One was staying at Uruvelā on the bank of the Nerañjarā River at the root of the Bodhi tree–the tree of awakening–newly awakened. And on that occasion he sat at the root of the Bodhi tree for seven days in one session, sensitive to the bliss of release. Then, with the passing of seven days, after emerging from that concentration, he surveyed the world with the eye of an Awakened One. As he did so, he saw living beings burning with the many fevers and aflame with the many fires born of passion, aversion, & delusion.
@@ -1167,10 +1167,10 @@ having gone beyond becomings
 
 : Such.
 
+--- EOF [text/KN/Ud/ud3_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_1.txt] ---
 UDĀNA 4:1 MEGHIYA (MEGHIYA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying among the Cālikans, at Cālikā Mountain. And on that occasion Venerable Meghiya was his attendant. Then Venerable Meghiya went to the Blessed One and, on arrival, having bowed down to him, stood to one side. As he was standing there he said to the Blessed One, 'I would like to go into Jantu Village for alms.'
@@ -1245,10 +1245,10 @@ one awakened
 
 lets them go without trace.
 
+--- EOF [text/KN/Ud/ud4_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_2.txt] ---
 UDĀNA 4:2 HIGH-STRUNG (UDDHATA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying in Upavattana, the Mallan sal grove near Kusinārā. And on that occasion, not far from the Blessed One, many monks were staying in wilderness huts: high-strung, rowdy, unruly, talkative, of loose words & muddled mindfulness, unalert, unconcentrated, their minds scattered, their faculties left wide open.
@@ -1283,10 +1283,10 @@ bad destinations
 
 behind.
 
+--- EOF [text/KN/Ud/ud4_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_3.txt] ---
 UDĀNA 4:3 THE COWHERD (GOPĀLA SUTTA)
 
 I have heard that on one occasion the Blessed One was wandering among the Kosalans with a large community of monks. Then, coming down from the road, he went to a certain tree, and on arrival sat down on a seat laid out. A certain cowherd then went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, the Blessed One, instructed, urged, roused, & encouraged him with Dhamma-talk. The cowherd–instructed, urged, roused, & encouraged by the Blessed One's talk on Dhamma–said to him, 'Lord, may the Blessed One, together with the community of monks, acquiesce to my offer of tomorrow's meal.'
@@ -1317,10 +1317,10 @@ can do to you
 
 even worse.
 
+--- EOF [text/KN/Ud/ud4_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_4.txt] ---
 UDĀNA 4:4 MOONLIT (JUÑHA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' Sanctuary. And on that occasion Venerable Sāriputta and Venerable Mahā Moggallāna were staying in Pigeon Cave. Then, on a moonlit night, Venerable Sāriputta–his head newly shaven–was sitting in the open air, having attained a certain level of concentration.
@@ -1363,10 +1363,10 @@ from where can there come to him
 
 suffering & stress?
 
+--- EOF [text/KN/Ud/ud4_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_5.txt] ---
 UDĀNA 4:5 THE BULL ELEPHANT (NĀGA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Kosambī at Kosita's monastery. And on that occasion the Blessed One lived hemmed in with monks, nuns, male & female lay followers, kings, royal ministers, sectarians, & their disciples. Hemmed in, he lived unpleasantly and not in ease. The thought occurred to him: 'I now live hemmed in by monks, nuns, male & female lay followers, kings, royal ministers, sectarians, & their disciples. Hemmed in, I live unpleasantly and not in ease. What if I were to live alone, apart from the crowd?'
@@ -1399,10 +1399,10 @@ alone,
 
 in the forest.
 
+--- EOF [text/KN/Ud/ud4_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_6.txt] ---
 UDĀNA 4:6 PIṆḌOLA (PIṆḌOLA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Piṇḍola Bhāradvāja was sitting not far from the Blessed One, his legs crossed, his body held erect–a wilderness dweller, an alms-goer, a rag-robe wearer, an owner of only one set of three robes, modest, content, solitary, unentangled, his persistence aroused, an advocate of the ascetic practices, devoted to the heightened mind. The Blessed One saw Venerable Piṇḍola Bhāradvāja sitting not far away, his legs crossed, his body held erect–a wilderness dweller, an alms-goer, a rag-robe wearer, an owner of only one set of three robes, modest, content, solitary, unentangled, his persistence aroused, an advocate of the ascetic practices, devoted to the heightened mind.
@@ -1423,10 +1423,10 @@ this is the teaching
 
 of the Awakened.
 
+--- EOF [text/KN/Ud/ud4_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_7.txt] ---
 UDĀNA 4:7 SĀRIPUTTA (SĀRIPUTTA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Sāriputta was sitting not far from the Blessed One–his legs crossed, his body held erect–modest, content, solitary, unentangled, his persistence aroused, devoted to the heightened mind. The Blessed One saw Venerable Sāriputta sitting not far away–his legs crossed, his body held erect–modest, content, solitary, unentangled, his persistence aroused, devoted to the heightened mind.
@@ -1441,10 +1441,10 @@ He has no sorrows, one who is Such,
 
 calmed & ever mindful.
 
+--- EOF [text/KN/Ud/ud4_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_8.txt] ---
 UDĀNA 4:8 SUNDARĪ (SUNDARĪ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Now at that time the Blessed One was worshipped, revered, honored, venerated, and given homage–a recipient of robes, alms food, lodgings, & medicinal requisites for the sick. The community of monks was also worshipped, revered, honored, venerated, and given homage–a recipient of robes, alms food, lodgings, & medicinal requisites for the sick. But the wanderers of other sects were not worshipped, revered, honored, venerated, or given homage; nor were they recipients of robes, alms food, lodgings, or medicinal requisites for the sick.
@@ -1529,10 +1529,10 @@ one should endure them:
 
 a monk with unbothered mind.
 
+--- EOF [text/KN/Ud/ud4_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_9.txt] ---
 UDĀNA 4:9 UPASENA VAṄGANTAPUTTA (UPASENA VAṄGANTAPUTTA SUTTA )
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' Sanctuary. And on that occasion, when Venerable Upasena Vaṅgantaputta was alone in seclusion, this line of thinking appeared to his awareness: 'What a gain, what a true gain it is for me that my teacher is the Blessed One, worthy and fully self-awakened; that I have gone forth from home to the homeless life in a well-taught Dhamma & Vinaya; that my companions in the holy life are virtuous and endowed with admirable qualities; that I have achieved culmination in terms of the precepts; that my mind is unified and well-concentrated; that I am an arahant, with effluents ended; that I have great power & great might. Fortunate has been my life; fortunate will be my death.'
@@ -1567,10 +1567,10 @@ are totally ended.
 
 He has no further becoming.
 
+--- EOF [text/KN/Ud/ud4_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud4_10.txt] ---
 UDĀNA 4:10 SĀRIPUTTA (SĀRIPUTTA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Sāriputta was sitting not far from the Blessed One–his legs crossed, his body held erect–reflecting on the peace within himself. The Blessed One saw Venerable Sāriputta sitting not far away–his legs crossed, his body held erect–reflecting on the peace within himself.
@@ -1591,10 +1591,10 @@ Freed is he
 
 from Māra's bonds.
 
+--- EOF [text/KN/Ud/ud4_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_1.txt] ---
 UDĀNA 5:1 THE KING (RĀJAN SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion King Pasenadi Kosala had gone with Queen Mallikā to the upper palace. Then he said to her, 'Mallikā, is there anyone dearer to you than yourself?'
@@ -1627,10 +1627,10 @@ So you shouldn't hurt others
 
 if you love yourself.
 
+--- EOF [text/KN/Ud/ud5_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_2.txt] ---
 UDĀNA 5:2 SHORT-LIVED (APPĀYUKA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Then Venerable Ānanda, emerging from his seclusion in the late afternoon, went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there he said to the Blessed One, 'It's amazing, sir. It's astounding–how short-lived the Blessed One's mother was. Seven days after the Blessed One's birth she died and reappeared among the Contented [Tusita] (deva-) group.'
@@ -1657,10 +1657,10 @@ should live the holy life
 
 ardently.
 
+--- EOF [text/KN/Ud/ud5_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_3.txt] ---
 UDĀNA 5:3 THE LEPER (KUṬṬHI SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' Sanctuary. And on that occasion in Rājagaha there was a leper named Suppabuddha, a poor, pitiful wretch of a person. And on that occasion the Blessed One was sitting surrounded by a large assembly, teaching the Dhamma. Suppabuddha the leper saw the large gathering of people from afar and thought to himself, 'Without a doubt, someone must be distributing staple or non-staple food there. Why don't I go over to that large group of people, and maybe there I'll get some staple or non-staple food.' So he went over to the large group of people. Then he saw the Blessed One sitting surrounded by a large assembly, teaching the Dhamma. On seeing this, he realized, 'There's no one distributing staple or non-staple food there. That's Gotama the contemplative (sitting) surrounded, teaching the Dhamma. Why don't I listen to the Dhamma?' So he sat down to one side right there, [thinking,] 'I, too, will listen to the Dhamma.'
@@ -1695,10 +1695,10 @@ avoid
 
 evil deeds.
 
+--- EOF [text/KN/Ud/ud5_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_4.txt] ---
 UDĀNA 5:4 BOYS (KUMĀRA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion, a large number of boys on the road between Sāvatthī & Jeta's Grove were catching fish. Then early in the morning the Blessed One adjusted his under robe and–carrying his bowl & robes–went into Sāvatthī for alms. He saw the large number of boys on the road between Sāvatthī & Jeta's Grove catching little fish. Seeing them, he went up to them and, on arrival, said to them, 'Boys, do you fear pain? Do you dislike pain?'
@@ -1725,10 +1725,10 @@ catching up
 
 as you run away.
 
+--- EOF [text/KN/Ud/ud5_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_5.txt] ---
 UDĀNA 5:5 UPOSATHA (UPOSATHA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at the Eastern Monastery, the palace of Migāra's mother. And on that occasion, the Blessed One–it being the observance day–was sitting surrounded by the community of monks. Then Venerable Ānanda–when the night was far advanced, at the end of the first watch–got up from his seat, arranged his robe over one shoulder, stood facing the Blessed One, paying homage with his hands placed palm-to-palm over his heart, and said to him, 'Lord, the night is far advanced. The first watch has ended. The community of monks has been sitting here long. May the Blessed One recite the Pāṭimokkha to them.' When this was said, the Blessed One remained silent.
@@ -1795,10 +1795,10 @@ So open up what's covered up,
 
 so that it won't get soddened by the rain.
 
+--- EOF [text/KN/Ud/ud5_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_6.txt] ---
 UDĀNA 5:6 SOṆA (SOṆA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Mahā Kaccāna was living among the people of Avantī on Pavatta Mountain near the Osprey Habitat. And at that time the lay follower Soṇa Koṭikaṇṇa was Venerable Mahā Kaccāna's supporter. Then as Soṇa Koṭikaṇṇa was alone in seclusion, this train of thought appeared to his awareness: 'According to the Dhamma that Master Mahā Kaccāna teaches, it's not easy living at home to practice the holy life totally perfect, totally pure, like a polished shell. What if I were to shave off my hair & beard, put on the ochre robes, and go forth from the household life into homelessness?'
@@ -1855,10 +1855,10 @@ in evil
 
 a clean one doesn't find joy.
 
+--- EOF [text/KN/Ud/ud5_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_7.txt] ---
 UDĀNA 5:7 REVATA (REVATA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Revata the Doubter was sitting not far from the Blessed One, his legs crossed, his body held erect, reflecting on [his] purification through the overcoming of doubt. The Blessed One saw Venerable Revata the Doubter sitting not far away, his legs crossed, his body held erect, reflecting on [his] purification through the overcoming of doubt.
@@ -1883,10 +1883,10 @@ ardent,
 
 living the holy life.
 
+--- EOF [text/KN/Ud/ud5_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_8.txt] ---
 UDĀNA 5:8 ĀNANDA (ĀNANDA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' refuge. And on that occasion, early in the morning of the uposatha, Venerable Ānanda adjusted his under robe and–carrying his bowl & robes–went into Rājagaha for alms. Devadatta saw Venerable Ānanda going for alms in Rājagaha and, on seeing him, went to him. On arrival, he said to him, 'From this day forward, friend Ānanda, I will conduct the uposatha & community transactions apart from the Blessed One, apart from the community of monks.'
@@ -1903,10 +1903,10 @@ Evil, for the evil, is easy to do.
 
 Evil, for the noble ones, is hard to do.
 
+--- EOF [text/KN/Ud/ud5_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_9.txt] ---
 UDĀNA 5:9 JEERING (SADHĀYAMĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was wandering among the Kosalans with a large community of monks. And on that occasion, a large number of youths passed by as if jeering not far from the Blessed One. The Blessed One saw the large number of youths passing by as if jeering not far away.
@@ -1923,10 +1923,10 @@ led on by what,
 
 they don't know.
 
+--- EOF [text/KN/Ud/ud5_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud5_10.txt] ---
 UDĀNA 5:10 CŪḶA PANTHAKA (PANTHAKA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Cūḷa Panthaka was sitting not far from the Blessed One, his legs crossed, his body held erect, with mindfulness established to the fore. The Blessed One saw Venerable Cūḷa Panthaka sitting not far away, his legs crossed, his body held erect, with mindfulness established to the fore.
@@ -1953,10 +1953,10 @@ he goes where the King of Death
 
 can't see.
 
+--- EOF [text/KN/Ud/ud5_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_1.txt] ---
 UDĀNA 6:1 RELINQUISHMENT OF THE LIFE FORCE (ĀYUSAMA-OSAJJANA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Vesālī at the Gabled Hall in the Great Forest. Then, early in the morning, he adjusted his under robe and–carrying his bowl & robes–went into Vesālī for alms. Then, having gone for alms in Vesālī, after the meal, returning from his alms round, he addressed Venerable Ānanda, 'Get a sitting cloth, Ānanda. We will go to the Pāvāla shrine for the day's abiding.'
@@ -2015,10 +2015,10 @@ coming-into-being
 
 like a coat of mail.
 
+--- EOF [text/KN/Ud/ud6_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_2.txt] ---
 UDĀNA 6:2 SECLUSION (PAṬISALLA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at the Eastern Monastery, the palace of Migāra's mother. And on that occasion the Blessed One, having emerged from his seclusion in the late afternoon, was sitting outside the doorway of the porch. Then King Pasenadi Kosala went to the Blessed One and, on arrival, having bowed down to him, sat to one side.
@@ -2063,10 +2063,10 @@ should not go about
 
 as a trader in the Dhamma.
 
+--- EOF [text/KN/Ud/ud6_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_3.txt] ---
 UDĀNA 6:3 IT WAS (AHU SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One sat reflecting on the various evil, unskillful qualities that had been abandoned [in him] and on the various skillful qualities that had gone to the culmination of their development. Then as he realized the various evil, unskillful qualities that had been abandoned [in him] and the various skillful qualities that had gone to the culmination of their development, he on that occasion exclaimed:
@@ -2079,10 +2079,10 @@ It wasn't, won't be,
 
 & now isn't to be found.
 
+--- EOF [text/KN/Ud/ud6_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_4.txt] ---
 UDĀNA 6:4 SECTARIANS (1) (TITTHA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion there were many contemplatives, brahmans, & wanderers of various sects living around Sāvatthī with differing views, differing opinions, differing beliefs, dependent for support on their differing views. Some of the contemplatives & brahmans held this doctrine, this view: 'The cosmos is eternal. Only this is true; anything otherwise is worthless.'
@@ -2145,10 +2145,10 @@ They quarrel & fight–
 
 people seeing one side.
 
+--- EOF [text/KN/Ud/ud6_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_5.txt] ---
 UDĀNA 6:5 SECTARIANS (2) (TITTHA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion there were many contemplatives, brahmans, & wanderers of various sects living around Sāvatthī with differing views, differing opinions, differing beliefs, dependent for support on their differing views. Some of the contemplatives & brahmans held this doctrine, this view: 'The self & the cosmos are eternal. Only this is true; anything otherwise is worthless.'
@@ -2177,10 +2177,10 @@ Not reaching the footing,
 
 they sink in mid-stream.
 
+--- EOF [text/KN/Ud/ud6_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_6.txt] ---
 UDĀNA 6:6 SECTARIANS (3) (TITTHA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion there were many contemplatives, brahmans, & wanderers of various sects living around Sāvatthī with differing views, differing opinions, differing beliefs, dependent for support on their differing views. Some of the contemplatives & brahmans held this doctrine, this view: 'The self & the cosmos are eternal. Only this is true; anything otherwise is worthless.'
@@ -2235,10 +2235,10 @@ they don't go beyond
 
 the wandering-on.
 
+--- EOF [text/KN/Ud/ud6_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_7.txt] ---
 UDĀNA 6:7 SUBHŪTI (SUBHŪTI SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Subhūti was sitting not far from the Blessed One, his legs crossed, his body held erect, having attained a concentration free from directed thought. The Blessed One saw Venerable Subhūti sitting not far away, his legs crossed, his body held erect, having attained a concentration free from directed thought.
@@ -2267,10 +2267,10 @@ one doesn't go
 
 to birth.
 
+--- EOF [text/KN/Ud/ud6_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_8.txt] ---
 UDĀNA 6:8 THE COURTESAN (GAṆIKA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha at the Bamboo Forest, the Squirrels' Sanctuary. And on that occasion two factions in Rājagaha were infatuated with a certain courtesan, their minds enthralled. Arguing, quarreling, & disputing, they attacked one another with fists, attacked one another with clods of dirt, attacked one another with sticks, attacked one another with knives, so that they fell into death or death-like pain.
@@ -2321,10 +2321,10 @@ there's no whirling through the cycle
 
 to be described.
 
+--- EOF [text/KN/Ud/ud6_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_9.txt] ---
 UDĀNA 6:9 RUSHING (UPĀTI SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Now on that occasion, in the pitch-black darkness of the night, the Blessed One was sitting in the open air while oil lamps were burning. And on that occasion, many flying insects, flying into & around those lamps, were meeting their downfall, meeting their misfortune, meeting their downfall & misfortune in those oil lamps. The Blessed One saw those flying insects, flying into & around those lamps, meeting their downfall, meeting their misfortune, meeting their downfall & misfortune in those oil lamps.
@@ -2347,10 +2347,10 @@ on things seen,
 
 things heard.
 
+--- EOF [text/KN/Ud/ud6_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud6_10.txt] ---
 UDĀNA 6:10 THEY APPEAR (UPPAJJANTI SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Then Venerable Ānanda went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there he said to the Blessed One, 'Lord, as long as Tathāgatas–worthy & rightly self-awakened–do not appear in the world, that's when the wanderers of other sects are worshipped, revered, honored, venerated, and given homage–recipients of robes, alms food, lodgings, & medicinal requisites for the sick. But when Tathāgatas–worthy & rightly self-awakened–appear in the world, that's when the wanderers of other sects are not worshipped, revered, honored, venerated, or given homage; nor are they recipients of robes, alms food, lodgings, & medicinal requisites for the sick. Now only the Blessed One is worshipped, revered, honored, venerated, and given homage–a recipient of robes, alms food, lodgings, & medicinal requisites for the sick–along with the community of monks.'
@@ -2385,10 +2385,10 @@ aren't released
 
 from stress.
 
+--- EOF [text/KN/Ud/ud6_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_1.txt] ---
 UDĀNA 7:1 BHADDIYA (1) (BHADDIYA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. At that time Venerable Sāriputta was–with a variety of approaches–instructing, urging, rousing, & encouraging Venerable Bhaddiya the Dwarf with Dhamma-talk. As Venerable Bhaddiya the Dwarf was–with a variety of approaches–being instructed, urged, roused, & encouraged by Venerable Sāriputta with Dhamma-talk, his mind, through lack of clinging or sustenance, was released from the effluents.
@@ -2407,10 +2407,10 @@ not crossed before,
 
 for the sake of no further becoming.
 
+--- EOF [text/KN/Ud/ud7_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_2.txt] ---
 UDĀNA 7:2 BHADDIYA (2) (BHADDIYA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. At that time Venerable Sāriputta was–with a variety of approaches–instructing, urging, rousing, & encouraging Venerable Bhaddiya the Dwarf with Dhamma-talk to an even greater extent, as he thought that Bhaddiya was still just a learner.
@@ -2437,10 +2437,10 @@ This, just this,
 
 is the end of stress.
 
+--- EOF [text/KN/Ud/ud7_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_3.txt] ---
 UDĀNA 7:3 ATTACHED TO SENSUAL PLEASURES (1) (KĀMESU SATTA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion, most of the people in Sāvatthī were excessively attached to sensual pleasures. They lived infatuated with, greedy for, addicted to, fastened to, absorbed in sensual pleasures. Then in the early morning, a large number of monks adjusted their under robes and–carrying their bowls & robes–went into Sāvatthī for alms. Having gone for alms in Sāvatthī, after the meal, returning from their alms round, they went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they said to the Blessed One, 'Most of the people in Sāvatthī are excessively attached to sensual pleasures. They live infatuated with, greedy for, addicted to, fastened to, absorbed in sensual pleasures.'
@@ -2459,10 +2459,10 @@ cross over the flood
 
 so great & wide.
 
+--- EOF [text/KN/Ud/ud7_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_4.txt] ---
 UDĀNA 7:4 ATTACHED TO SENSUAL PLEASURES (2) (KĀMESU SATTA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion, most of the people in Sāvatthī were excessively attached to sensual pleasures. They lived infatuated with, greedy for, addicted to, fastened to, absorbed in sensual pleasures. Then early in the morning the Blessed One adjusted his under robe and–carrying his bowl & robes–went into Sāvatthī for alms. He saw that most of the people in Sāvatthī were excessively attached to sensual pleasures, that they live infatuated with, greedy for, addicted to, fastened to, absorbed in sensual pleasures.
@@ -2483,10 +2483,10 @@ they go to aging & death,
 
 like a milk-drinking calf to its mother.
 
+--- EOF [text/KN/Ud/ud7_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_5.txt] ---
 UDĀNA 7:5 THE DWARF (LAKUṆṬHA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Bhaddiya the Dwarf, following behind a large number of monks, was going to the Blessed One. From afar, the Blessed One saw Venerable Bhaddiya the Dwarf coming, following behind a large number of monks: ugly, unsightly, stunted, treated with condescension by most of the monks. On seeing him, the Blessed One addressed the monks, 'Monks, do you see that monk coming from afar, following behind a large number of monks: ugly, unsightly, stunted, treated with condescension by most of the monks?'
@@ -2509,10 +2509,10 @@ one whose stream is cut,
 
 free from bonds.
 
+--- EOF [text/KN/Ud/ud7_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_6.txt] ---
 UDĀNA 7:6 THE ENDING OF CRAVING (TAṆHĀKHAYA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion Venerable Aññāta Kondañña was sitting not far from the Blessed One, his legs crossed, his body held erect, reflecting on [his] release through the total ending of craving. The Blessed One saw Venerable Aññāta Kondañña sitting not far away, his legs crossed, his body held erect, reflecting on [his] release through the total ending of craving.
@@ -2533,10 +2533,10 @@ Even devas praise him.
 
 Even by Brahmā he's praised.
 
+--- EOF [text/KN/Ud/ud7_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_7.txt] ---
 UDĀNA 7:7 THE ENDING OF OBJECTIFICATION (PAPAÑCAKHAYA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One was sitting, contemplating his own abandoning of the perceptions & categories of objectification.
@@ -2561,10 +2561,10 @@ he, going about without craving,
 
 a sage.
 
+--- EOF [text/KN/Ud/ud7_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_8.txt] ---
 UDĀNA 7:8 KACCĀNA (KACCĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Now at that time Venerable Mahā Kaccāna was sitting not far from the Blessed One, his legs crossed, his body held erect, having mindfulness immersed in the body well-established to the fore within. The Blessed One saw Venerable Mahā Kaccāna sitting not far away, his legs crossed, his body held erect, having mindfulness immersed in the body well-established to the fore within.
@@ -2599,10 +2599,10 @@ would cross over
 
 attachment.
 
+--- EOF [text/KN/Ud/ud7_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_9.txt] ---
 UDĀNA 7:9 THE WELL (UDAPĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was wandering among the Mallans, together with a large community of monks, and came to a brahman village of the Mallans named Thūna. The brahman householders of Thūna heard that 'Gotama the Sakyan contemplative, gone forth from the Sakyan clan, is wandering among the Mallans together with a large community of monks, and has arrived at Thūna.' So they filled the well all the way to the brim with grass & chaff, [thinking], 'Don't let these shaven-headed contemplatives draw drinking water.'
@@ -2635,10 +2635,10 @@ one would go about searching
 
 for what?
 
+--- EOF [text/KN/Ud/ud7_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud7_10.txt] ---
 UDĀNA 7:10 KING UDENA (UDENA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Kosambī at Ghosita's monastery. And on that occasion the inner quarters of King Udena's royal park had burned down, and 500 women, headed by Sāmāvatī, had died.
@@ -2663,10 +2663,10 @@ but for one who sees,
 
 there is nothing.
 
+--- EOF [text/KN/Ud/ud7_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_1.txt] ---
 UDĀNA 8:1 UNBINDING (1) (NIBBĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One was instructing, urging, rousing, & encouraging the monks with Dhamma-talk concerned with unbinding. The monks–receptive, attentive, focusing their entire awareness, lending ear–listened to the Dhamma.
@@ -2675,10 +2675,10 @@ Then, on realizing the significance of that, the Blessed One on that occasion ex
 
 There is that dimension, monks, where there is neither earth, nor water, nor fire, nor wind; neither dimension of the infinitude of space, nor dimension of the infinitude of consciousness, nor dimension of nothingness, nor dimension of neither perception nor non-perception; neither this world, nor the next world, nor sun, nor moon. And there, I say, there is neither coming, nor going, nor staying; neither passing away nor arising: unestablished, unevolving, without support [mental object]. This, just this, is the end of stress.
 
+--- EOF [text/KN/Ud/ud8_1.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_2.txt] ---
 UDĀNA 8:2 UNBINDING (2) (NIBBĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One was instructing, urging, rousing, & encouraging the monks with Dhamma-talk concerned with unbinding. The monks–receptive, attentive, focusing their entire awareness, lending ear–listened to the Dhamma.
@@ -2697,10 +2697,10 @@ for one who sees,
 
 there is nothing.
 
+--- EOF [text/KN/Ud/ud8_2.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_3.txt] ---
 UDĀNA 8:3 UNBINDING (3) (NIBBĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One was instructing, urging, rousing, & encouraging the monks with Dhamma-talk concerned with unbinding. The monks–receptive, attentive, focusing their entire awareness, lending ear–listened to the Dhamma.
@@ -2709,10 +2709,10 @@ Then, on realizing the significance of that, the Blessed One on that occasion ex
 
 There is, monks, an unborn–unbecome–unmade–unfabricated. If there were not that unborn–unbecome–unmade–unfabricated, there would not be the case that escape from the born–become–made–fabricated would be discerned. But precisely because there is an unborn–unbecome–unmade–unfabricated, escape from the born–become–made–fabricated is discerned.
 
+--- EOF [text/KN/Ud/ud8_3.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_4.txt] ---
 UDĀNA 8:4 UNBINDING (4) (NIBBĀNA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. And on that occasion the Blessed One was instructing, urging, rousing, & encouraging the monks with Dhamma-talk concerned with unbinding. The monks–receptive, attentive, focusing their entire awareness, lending ear–listened to the Dhamma.
@@ -2721,10 +2721,10 @@ Then, on realizing the significance of that, the Blessed One on that occasion ex
 
 One who is dependent has wavering. One who is independent has no wavering. There being no wavering, there is calm. There being calm, there is no yearning. There being no yearning, there is no coming or going. There being no coming or going, there is no passing away or arising. There being no passing away or arising, there is neither a here nor a there nor a between-the-two. This, just this, is the end of stress.
 
+--- EOF [text/KN/Ud/ud8_4.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_5.txt] ---
 UDĀNA 8:5 CUNDA (CUNDA SUTTA)
 
 I have heard that on one occasion, while the Blessed One was wandering among the Mallans with a large community of monks, he arrived at Pāvā. There he stayed near Pāvā in the mango grove of Cunda the silversmith.
@@ -2857,10 +2857,10 @@ delusion–
 
 is totally unbound.
 
+--- EOF [text/KN/Ud/ud8_5.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_6.txt] ---
 UDĀNA 8:6 PĀṬALI VILLAGE (PĀṬALIGĀMA SUTTA)
 
 I have heard that on one occasion, while the Blessed One was wandering among the Magadhans with a large community of monks, he arrived at Pāṭali Village. The lay followers of Pāṭali Village heard, 'The Blessed One, they say, while wandering among the Magadhans with a large community of monks, has reached Pāṭali Village.' So they went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As they were sitting there, they said to him, 'Lord, may the Blessed One acquiesce to (the use of) the rest-house hall.'
@@ -2969,10 +2969,10 @@ have already crossed
 
 : the wise.
 
+--- EOF [text/KN/Ud/ud8_6.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_7.txt] ---
 UDĀNA 8:7 A FORK IN THE PATH (DVIDHAPATHA SUTTA)
 
 I have heard that on one occasion the Blessed One was journeying along a road in the Kosalan country with Venerable Nāgasamāla as his junior companion. Venerable Nāgasamāla, while going along the road, saw a fork in the path. On seeing it, he said to the Blessed One, 'That, lord Blessed One, is the route. We go that way.' When this was said, the Blessed One said, 'This, Nāgasamāla, is the route. We go this way.'
@@ -3003,10 +3003,10 @@ as a milk-feeding heron,
 
 a bog.
 
+--- EOF [text/KN/Ud/ud8_7.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_8.txt] ---
 UDĀNA 8:8 VISĀKHĀ (VISĀKHĀ SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at the Eastern Monastery, the palace of Migāra's mother. And on that occasion a dear and beloved grandson of Visākhā, Migāra's mother, had died. So Visākhā, Migāra's mother–her clothes wet, her hair wet–went to the Blessed One in the middle of the day and, on arrival, having bowed down to him, sat to one side. As she was sitting there the Blessed One said to her: 'Why have you come here, Visākhā–your clothes wet, your hair wet–in the middle of the day?'
@@ -3057,10 +3057,10 @@ in the world
 
 anywhere.
 
+--- EOF [text/KN/Ud/ud8_8.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_9.txt] ---
 UDĀNA 8:9 DABBA (1) (DABBA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. Then Venerable Dabba Mallaputta went to the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there he said to the Blessed One, 'Now is the time for my total unbinding, O One-Well-Gone!'
@@ -3085,10 +3085,10 @@ consciousness
 
 has come to an end.
 
+--- EOF [text/KN/Ud/ud8_9.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/ud8_10.txt] ---
 UDĀNA 8:10 DABBA (2) (DABBA SUTTA)
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī at Jeta's Grove, Anāthapiṇḍika's monastery. There he addressed the monks, 'Monks!'
@@ -3119,10 +3119,10 @@ for those who've attained
 
 unwavering bliss.
 
+--- EOF [text/KN/Ud/ud8_10.txt] ---
 
 
-
-
+--- BOF [text/KN/Ud/apptwo.txt] ---
 UDĀNA APPENDIX TWO: NON-UDĀNA EXCLAMATIONS
 
 
@@ -3288,6 +3288,6 @@ So in that moment, that instant, the cry shot right up to the Brahma worlds. And
 
 Then the Blessed One exclaimed: 'So you really know, Kondañña? So you really know?' And that is how Venerable Kondañña acquired the name Añña-Kondañña–Kondañña who knows.
 
-
+--- EOF [text/KN/Ud/apptwo.txt] ---
 
 

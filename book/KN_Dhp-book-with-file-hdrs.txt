@@ -1,4 +1,4 @@
-
+--- BOF [text/KN/Dhp/Ch01.txt] ---
 DHAMMAPADA 1 : PAIRS
 
 Phenomena are
@@ -287,10 +287,10 @@ either here or hereafter:
 
 he has his share in the contemplative life.
 
+--- EOF [text/KN/Dhp/Ch01.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch02.txt] ---
 DHAMMAPADA 2 : HEEDFULNESS
 
 Heedfulness:
@@ -445,10 +445,10 @@ stands right on the verge
 
 of Unbinding.
 
+--- EOF [text/KN/Dhp/Ch02.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch03.txt] ---
 DHAMMAPADA 3 : THE MIND
 
 Quivering, wavering,
@@ -597,10 +597,10 @@ can do for you
 
 even better.
 
+--- EOF [text/KN/Dhp/Ch03.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch04.txt] ---
 DHAMMAPADA 4 : BLOSSOMS
 
 Who will penetrate this earth
@@ -813,10 +813,10 @@ the disciple of the Rightly
 
 Self-Awakened One.
 
+--- EOF [text/KN/Dhp/Ch04.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch05.txt] ---
 DHAMMAPADA 5 : FOOLS
 
 Long for the wakeful is the night.
@@ -1013,10 +1013,10 @@ should cultivate            seclusion
 
 instead.
 
+--- EOF [text/KN/Dhp/Ch05.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch06.txt] ---
 DHAMMAPADA 6 : THE WISE
 
 Regard him as one who
@@ -1217,10 +1217,10 @@ they, in the world,
 
 are Unbound.
 
+--- EOF [text/KN/Dhp/Ch06.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch07.txt] ---
 DHAMMAPADA 7 : ARAHANTS
 
 In one who
@@ -1353,10 +1353,10 @@ for they're not searching
 
 for sensual pleasures.
 
+--- EOF [text/KN/Dhp/Ch07.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch08.txt] ---
 DHAMMAPADA 8 : THOUSANDS
 
 Better
@@ -1557,10 +1557,10 @@ lived seeing
 
 the ultimate Dhamma.
 
+--- EOF [text/KN/Dhp/Ch08.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch09.txt] ---
 DHAMMAPADA 9 : EVIL
 
 Be quick in doing
@@ -1751,10 +1751,10 @@ where you could stay & not succumb
 
 to death.
 
+--- EOF [text/KN/Dhp/Ch09.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch10.txt] ---
 DHAMMAPADA 10 : THE ROD
 
 All
@@ -1927,10 +1927,10 @@ Those of good practices control
 
 themselves.
 
+--- EOF [text/KN/Dhp/Ch10.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch11.txt] ---
 DHAMMAPADA 11 : AGING
 
 What laughter, why joy,
@@ -2051,10 +2051,10 @@ misfired from the bow,
 
 sighing over old times.
 
+--- EOF [text/KN/Dhp/Ch11.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch12.txt] ---
 DHAMMAPADA 12 : SELF
 
 If you hold yourself dear
@@ -2177,10 +2177,10 @@ Realizing your own true welfare,
 
 be intent on just that.
 
+--- EOF [text/KN/Dhp/Ch12.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch13.txt] ---
 DHAMMAPADA 13 : WORLDS
 
 Don't associate with lowly qualities.
@@ -2305,10 +2305,10 @@ the fruit of stream entry
 
 excels them.
 
+--- EOF [text/KN/Dhp/Ch13.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch14.txt] ---
 DHAMMAPADA 14 : AWAKENED
 
 Whose conquest can't be undone,
@@ -2533,10 +2533,10 @@ there's no measure for reckoning
 
 that your merit's 'this much.'
 
+--- EOF [text/KN/Dhp/Ch14.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch15.txt] ---
 DHAMMAPADA 15 : HAPPY
 
 How very happily we live,
@@ -2675,10 +2675,10 @@ as the moon, the path
 
 of the zodiac stars.
 
+--- EOF [text/KN/Dhp/Ch15.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch16.txt] ---
 DHAMMAPADA 16 : DEAR ONES
 
 Having applied himself
@@ -2827,10 +2827,10 @@ as kin, someone dear
 
 come home.
 
+--- EOF [text/KN/Dhp/Ch16.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch17.txt] ---
 DHAMMAPADA 17 : ANGER
 
 Abandon anger,
@@ -2995,10 +2995,10 @@ restrained in speech & in mind
 
 are the ones whose restraint is secure.
 
+--- EOF [text/KN/Dhp/Ch17.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch18.txt] ---
 DHAMMAPADA 18 : IMPURITIES
 
 You are now
@@ -3237,10 +3237,10 @@ no eternal fabrications,
 
 no wavering in the Awakened.
 
+--- EOF [text/KN/Dhp/Ch18.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch19.txt] ---
 DHAMMAPADA 19 : THE JUDGE
 
 To pass judgment hurriedly
@@ -3451,10 +3451,10 @@ when the ending of effluents
 
 is still unattained.
 
+--- EOF [text/KN/Dhp/Ch19.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch20.txt] ---
 DHAMMAPADA 20 : THE PATH
 
 Of paths, the eightfold is best.
@@ -3683,10 +3683,10 @@ should make the path pure
 
 that goes all the way to Unbinding.
 
+--- EOF [text/KN/Dhp/Ch20.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch21.txt] ---
 DHAMMAPADA 21 : MISCELLANY
 
 If, by forsaking
@@ -3877,10 +3877,10 @@ he'd delight alone–
 
 alone in the forest.
 
+--- EOF [text/KN/Dhp/Ch21.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch22.txt] ---
 DHAMMAPADA 22 : HELL
 
 He goes to hell,
@@ -4033,10 +4033,10 @@ go to a good
 
 destination.
 
+--- EOF [text/KN/Dhp/Ch22.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch23.txt] ---
 DHAMMAPADA 23 : ELEPHANTS
 
 I–like an elephant in battle,
@@ -4191,10 +4191,10 @@ The non-doing of evil things is
 
 a blessing.
 
+--- EOF [text/KN/Dhp/Ch23.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch24.txt] ---
 DHAMMAPADA 24 : CRAVING
 
 When a person lives heedlessly,
@@ -4539,10 +4539,10 @@ free of longing
 
 bears great fruit.
 
+--- EOF [text/KN/Dhp/Ch24.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch25.txt] ---
 DHAMMAPADA 25 : MONKS
 
 Restraint with the eye is good,
@@ -4819,10 +4819,10 @@ brightens the world
 
 like the moon set free from a cloud.
 
+--- EOF [text/KN/Dhp/Ch25.txt] ---
 
 
-
-
+--- BOF [text/KN/Dhp/Ch26.txt] ---
 DHAMMAPADA 26 : BRAHMANS
 
 Having striven, brahman,
@@ -5383,6 +5383,6 @@ he's what I call
 
 a brahman.
 
-
+--- EOF [text/KN/Dhp/Ch26.txt] ---
 
 

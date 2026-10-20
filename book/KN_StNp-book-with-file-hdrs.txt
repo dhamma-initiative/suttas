@@ -1,4 +1,4 @@
-
+--- BOF [text/KN/StNp/StNp1_1.txt] ---
 SUTTA NIPĀTA 1:1  THE SNAKE
 
 The monk who subdues his arisen anger
@@ -161,10 +161,10 @@ sloughs off the near shore & far—
 
 as a snake, its decrepit old skin.
 
+--- EOF [text/KN/StNp/StNp1_1.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_2.txt] ---
 SUTTA NIPĀTA 1:2  DHANIYA THE CATTLEMAN
 
 Dhaniya the cattleman:
@@ -425,10 +425,10 @@ for a person with no acquisitions
 
 doesn't grieve.'
 
+--- EOF [text/KN/StNp/StNp1_2.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_3.txt] ---
 SUTTA NIPĀTA 1:3  A RHINOCEROS
 
 Renouncing violence
@@ -963,10 +963,10 @@ Wander alone
 
 like a rhinoceros.
 
+--- EOF [text/KN/StNp/StNp1_3.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_4.txt] ---
 SUTTA NIPĀTA 1:4  TO KASI BHĀRADVĀJA
 
 I have heard that on one occasion the Blessed One was staying among the Magadhans in Dakkhiṇāgiri near the brahman village of Ekanāḷā. Now at that time approximately 500 of the brahman Kasi [Plowing] Bhāradvāja's plows were yoked at the sowing time. Then, in the early morning, after adjusting his lower robe and carrying his bowl & outer robe, the Blessed One went to where Kasi Bhāradvāja was working. Now at that time Kasi Bhāradvāja's food-distribution was underway. So the Blessed One went to Kasi Bhāradvāja's food-distribution and, on arrival, stood to one side. Kasi Bhāradvāja saw the Blessed One standing for alms, and on seeing him, said to him, 'I, contemplative, plow & sow. Having plowed & sown, I eat. You, too, contemplative, should plow & sow. Having plowed & sown, you (will) eat.'
@@ -1077,10 +1077,10 @@ Then Kasi Bhāradvāja—in awe, his hair standing on end—went to the Blessed 
 
 Then the brahman Kasi Bhāradvāja obtained the Going-forth in the Blessed One's presence, he obtained Acceptance. And not long after his Acceptance—dwelling alone, secluded, heedful, ardent, & resolute—he in no long time reached & remained in the supreme goal of the holy life, for which clansmen rightly go forth from home into homelessness, knowing & realizing it for himself in the here-&-now. He knew: 'Birth is ended, the holy life fulfilled, the task done. There is nothing further for the sake of this world.' And so Venerable Bhāradvāja became another one of the arahants.
 
+--- EOF [text/KN/StNp/StNp1_4.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_5.txt] ---
 SUTTA NIPĀTA 1:5  CUNDA
 
 Cunda the smith:
@@ -1205,10 +1205,10 @@ the corrupt     with the uncorrupt,
 
 the impure     with the pure?
 
+--- EOF [text/KN/StNp/StNp1_5.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_6.txt] ---
 SUTTA NIPĀTA 1:6  DECLINE
 
 I have heard that at one time the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Then a certain deva, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta's Grove, went to the Blessed One. On arrival, having bowed down to him, she stood to one side. As she was standing there, she addressed him with a verse:
@@ -1477,10 +1477,10 @@ heads to a world
 
 auspicious.
 
+--- EOF [text/KN/StNp/StNp1_6.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_7.txt] ---
 SUTTA NIPĀTA 1:7  AN OUTCASTE
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Then, in the early morning, after adjusting his lower robe and carrying his bowl & outer robe, he entered Sāvatthī for alms. Now at that time, in the house of the brahman Aggika Bhāradvāja, a (sacrificial) fire was burning and an offering was lifted up. Then the Blessed One, going through Sāvatthī on a methodical almsround, approached the house of Aggika Bhāradvāja. Aggika Bhāradvāja saw the Blessed One coming from afar and, on seeing him, said to him: 'Stop right there, you little shaveling! Right there, you little contemplative! Right there, you little outcaste!'
@@ -1731,10 +1731,10 @@ By action is one a brahman.
 
 When this was said, the brahman Aggika Bhāradvāja said to the Blessed One: 'Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.'
 
+--- EOF [text/KN/StNp/StNp1_7.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_8.txt] ---
 SUTTA NIPĀTA 1:8  GOODWILL
 
 This is to be done by one skilled in aims
@@ -1825,10 +1825,10 @@ one never again
 
 will lie in the womb.
 
+--- EOF [text/KN/StNp/StNp1_8.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_9.txt] ---
 SUTTA NIPĀTA 1:9  HEMAVATA
 
 Sātāgira the yakkha:
@@ -2161,10 +2161,10 @@ paying homage     to the One Self-Awakened
 
 & to the Dhamma's     true rightness.
 
+--- EOF [text/KN/StNp/StNp1_9.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_10.txt] ---
 SUTTA NIPĀTA 1:10  ĀḶAVAKA
 
 I have heard that on one occasion the Blessed One was staying at Āḷavī in the haunt of the Āḷavaka yakkha. Then the Āḷavaka yakkha went to the Blessed One and on arrival said to him: 'Get out, contemplative!'
@@ -2345,10 +2345,10 @@ paying homage     to the One Self-Awakened
 
 & to the Dhamma's     true rightness.
 
+--- EOF [text/KN/StNp/StNp1_10.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_11.txt] ---
 SUTTA NIPĀTA 1:11  VICTORY
 
 Whether walking, standing,
@@ -2475,10 +2475,10 @@ What is that
 
 if not blindness?
 
+--- EOF [text/KN/StNp/StNp1_11.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp1_12.txt] ---
 SUTTA NIPĀTA 1:12  THE SAGE
 
 Danger is born from intimacy,
@@ -2695,10 +2695,10 @@ in the forest,
 
 doing jhāna.
 
+--- EOF [text/KN/StNp/StNp1_12.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_1.txt] ---
 SUTTA NIPĀTA 2:1  TREASURES
 
 Whatever spirits have gathered here,
@@ -2919,10 +2919,10 @@ May there be
 
 well-being.
 
+--- EOF [text/KN/StNp/StNp2_1.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_2.txt] ---
 SUTTA NIPĀTA 2:2  RAW STENCH
 
 Tissa:
@@ -3147,10 +3147,10 @@ paid homage to the Tathāgata,
 
 chose the Going Forth right there.
 
+--- EOF [text/KN/StNp/StNp2_2.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_3.txt] ---
 SUTTA NIPĀTA 2:3  SHAME
 
 One who,
@@ -3217,10 +3217,10 @@ refreshed with the savor
 
 of rapture in the Dhamma.
 
+--- EOF [text/KN/StNp/StNp2_3.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_4.txt] ---
 SUTTA NIPĀTA 2:4  PROTECTION
 
 I have heard that at one time the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Then a certain deva, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta's Grove, went to the Blessed One. On arrival, having bowed down to him, she stood to one side. As she was standing there, she addressed him with a verse.
@@ -3323,10 +3323,10 @@ people go everywhere in well-being:
 
 This is their highest protection.'
 
+--- EOF [text/KN/StNp/StNp2_4.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_5.txt] ---
 SUTTA NIPĀTA 2:5  SUCILOMA
 
 I have heard that on one occasion the Blessed One was staying in Gayā at Ṭaṁkitamañca, the haunt of Suciloma [NeedleHair] the yakkha. And on that occasion Khara [Rough] the yakkha and Suciloma the yakkha passed by not far from the Blessed One.
@@ -3405,10 +3405,10 @@ never crossed before,
 
 for the sake of no further becoming.
 
+--- EOF [text/KN/StNp/StNp2_5.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_6.txt] ---
 SUTTA NIPĀTA 2:6  THE DHAMMA LIFE
 
 Living the Dhamma life,
@@ -3501,10 +3501,10 @@ you will put an end
 
 to suffering & stress.
 
+--- EOF [text/KN/StNp/StNp2_6.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_7.txt] ---
 SUTTA NIPĀTA 2:7  BRAHMAN PRINCIPLES
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Then many Kosalan brahmans of great means—old, aged, advanced in years, having come to the last stage of life—approached the Blessed One. On arrival, they exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, they sat to one side. As they were sitting there, they said to him, 'Master Gotama, do brahmans at present live in conformity with the brahman principles of ancient brahmans?'
@@ -3829,10 +3829,10 @@ sway.
 
 When this was said, those brahmans of great means said to the Blessed One: 'Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. We go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember us as lay followers who have gone for refuge from this day forward, for life.'
 
+--- EOF [text/KN/StNp/StNp2_7.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_8.txt] ---
 SUTTA NIPĀTA 2:8  A BOAT
 
 Because:
@@ -3953,10 +3953,10 @@ when you've experienced the Dhamma,
 
 you get bliss.
 
+--- EOF [text/KN/StNp/StNp2_8.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_9.txt] ---
 SUTTA NIPĀTA 2:9  WITH WHAT VIRTUE?
 
 'With     what virtue,
@@ -4073,10 +4073,10 @@ what discernment & learning
 
 have as their heartwood.'
 
+--- EOF [text/KN/StNp/StNp2_9.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_10.txt] ---
 SUTTA NIPĀTA 2:10  INITIATIVE
 
 Get up!
@@ -4135,10 +4135,10 @@ you'd remove
 
 your own arrow.
 
+--- EOF [text/KN/StNp/StNp2_10.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_11.txt] ---
 SUTTA NIPĀTA 2:11  RĀHULA
 
 'From living with him often
@@ -4217,10 +4217,10 @@ stilled.'
 
 In this way, the Blessed One often instructed Venerable Rāhula with these verses.
 
+--- EOF [text/KN/StNp/StNp2_11.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_12.txt] ---
 SUTTA NIPĀTA 2:12  VAṄGĪSA
 
 I have heard that on one occasion the Blessed One was staying near Āḷavī at the Aggāḷava shrine. And on that occasion Venerable Vaṅgīsa's preceptor, an elder named Nigrodha Kappa, had recently totally unbound at the Aggāḷava shrine. Then as Venerable Vaṅgīsa was alone in seclusion, this train of thought arose in his awareness: 'Has my preceptor totally unbound, or has he not totally unbound?'
@@ -4387,10 +4387,10 @@ the realm of Death
 
 so very hard to cross.'
 
+--- EOF [text/KN/StNp/StNp2_12.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_13.txt] ---
 SUTTA NIPĀTA 2:13  RIGHT WANDERING
 
 'I ask the sage of abundant discernment,
@@ -4561,10 +4561,10 @@ conducive for fetters:
 
 He would wander rightly in the world.'
 
+--- EOF [text/KN/StNp/StNp2_13.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp2_14.txt] ---
 SUTTA NIPĀTA 2:14  DHAMMIKA
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Then Dhammika the lay follower, together with 500 other lay followers, approached the Blessed One and, on arrival, having bowed down to him, sat to one side. As he was sitting there, he addressed the Blessed One in verses:
@@ -4845,10 +4845,10 @@ goes to the devas called
 
 Self-radiant.'
 
+--- EOF [text/KN/StNp/StNp2_14.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_1.txt] ---
 SUTTA NIPĀTA 3:1  THE GOING FORTH
 
 I will praise the Going Forth,
@@ -5013,10 +5013,10 @@ I go to strive.
 
 That's where my heart delights.'
 
+--- EOF [text/KN/StNp/StNp3_1.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_2.txt] ---
 SUTTA NIPĀTA 3:2  EXERTION
 
 To me—
@@ -5291,10 +5291,10 @@ right there
 
 disappeared.
 
+--- EOF [text/KN/StNp/StNp3_2.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_3.txt] ---
 SUTTA NIPĀTA 3:3  WELL-SPOKEN
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. There he addressed the monks, 'Monks!'
@@ -5361,10 +5361,10 @@ to the mass of stress:
 
 That is the speech unsurpassed.'
 
+--- EOF [text/KN/StNp/StNp3_3.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_4.txt] ---
 SUTTA NIPĀTA 3:4  SUNDARIKA BHĀRADVĀJA
 
 I have heard that on one occasion the Blessed One was staying among the Kosalans on the bank of the River Sundarika. And on that occasion, the brahman Sundarika Bhāradvāja was offering a fire sacrifice and performing a fire oblation on the bank of the River Sundarika. Then, having offered the fire sacrifice and performed the fire oblation, he got up from his seat and looked around to the four directions, (thinking,) 'Who should eat the remains of the offering?' He saw the Blessed One sitting not far away at the root of a tree with his head covered. On seeing him, he took the remains of the offering in his left hand and his water-pot in his right, and went to the Blessed One. Then the Blessed One, at the sound of the brahman Sundarika Bhāradvāja's footsteps, uncovered his head. The brahman Sundarika Bhāradvāja (thinking,) 'This venerable one is shaven. This venerable one is a shaveling,' wanted to turn back. But then the thought occurred to him, 'Still, there are some brahmans who are shaven. What if, having approached him, I were to ask his caste?'
@@ -5847,10 +5847,10 @@ Then the brahman Sundarika Bhāradvāja said to the Blessed One, 'Magnificent, M
 
 Then the brahman Sundarika Bhāradvāja obtained the Going-forth in the Blessed One's presence, he obtained Acceptance. And not long after his Acceptance—dwelling alone, secluded, heedful, ardent, & resolute—he in no long time reached & remained in the supreme goal of the holy life, for which clansmen rightly go forth from home into homelessness, knowing & realizing it for himself in the here-&-now. He knew: 'Birth is ended, the holy life fulfilled, the task done. There is nothing further for the sake of this world.' And so Venerable Sundarika Bhāradvāja became another one of the arahants.
 
+--- EOF [text/KN/StNp/StNp3_4.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_5.txt] ---
 SUTTA NIPĀTA 3:5  MĀGHA
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha on Vulture Peak Mountain. Then the young brahman Māgha went to the Blessed One and, on arrival, exchanged courteous greetings with him. After an exchange of friendly greetings & courtesies, he sat to one side. As he was sitting there, he said to the Blessed One, 'Master Gotama, I am generous, a master of giving, magnanimous, responsive to requests. I search for wealth righteously. Having searched for wealth righteously, then—with wealth righteously gained, righteously acquired—I give to one, I give to two, three, four, five, six, seven, eight, nine, ten, twenty, thirty, forty, fifty, one hundred, and to more. Thus giving, thus sacrificing, do I produce much merit?'
@@ -6171,10 +6171,10 @@ reappears, I say, in the Brahmā world.'
 
 When this was said, the young brahman Māgha said to the Blessed One: 'Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. I go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember me as a lay follower who has gone for refuge from this day forward, for life.'
 
+--- EOF [text/KN/StNp/StNp3_5.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_6.txt] ---
 SUTTA NIPĀTA 3:6  SABHIYA
 
 I have heard that on one occasion the Blessed One was staying near Rājagaha in the Bamboo Forest, the Squirrels' Sanctuary. Now on that occasion, questions had been assigned to Sabhiya the wanderer by a devatā who was a former relative of his: 'Sabhiya, if any contemplative or brahman, when asked these questions, answers them, live the holy life in his presence.' Then Sabhiya the wanderer, having learned these questions in the presence of that devatā, went to those who had communities & groups, who were the teachers of groups, well-known, prestigious, founders of sects, well-regarded by people at large—that is, Pūraṇa Kassapa, Makkhali Gosāla, Ajita Kesakambalin, Pakudha Kaccāyana, Sañjaya Velaṭṭhaputta, & the Nigaṇṭha Nāṭaputta—and asked them the questions. But they, being asked the questions by Sabhiya the wanderer, were unable to answer. Unable to answer, they showed anger, aversion, & displeasure, and even turned the questions back on Sabhiya the wanderer.
@@ -6679,10 +6679,10 @@ Then Sabhiya the wanderer, bending his head to the Blessed One's feet, said, 'Ma
 
 Then Sabhiya the wanderer obtained the Going-forth in the Blessed One's presence, he obtained Acceptance. And not long after his Acceptance—dwelling alone, secluded, heedful, ardent, & resolute—he in no long time reached & remained in the supreme goal of the holy life, for which clansmen rightly go forth from home into homelessness, knowing & realizing it for himself in the here-&-now. He knew: 'Birth is ended, the holy life fulfilled, the task done. There is nothing further for the sake of this world.' And so Venerable Sabhiya became another one of the arahants.
 
+--- EOF [text/KN/StNp/StNp3_6.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_7.txt] ---
 SUTTA NIPĀTA 3:7  SELA
 
 I have heard that on one occasion, while the Blessed One was wandering on a tour among the Aṅguttarāpans with a large Saṅgha of monks, approximately 1,250 monks in all, he arrived at an Aṅguttarāpan town named Āpaṇa. Keṇiya the coiled hair ascetic heard it said, 'Gotama the contemplative—a son of the Sakyans, gone forth from the Sakyan clan—on a wandering tour among the Aṅguttarāpans with a large Saṅgha of monks, approximately 1,250 monks in all—has arrived at Āpaṇa. And of that Master Gotama this fine reputation has spread: 'He is indeed a Blessed One, worthy & rightly self-awakened, consummate in clear-knowing & conduct, well-gone, an expert with regard to the cosmos, unexcelled trainer of people fit to be tamed, teacher of devas & human beings, awakened, blessed. He makes known—having realized it through direct knowledge—this world with its devas, Māras, & Brahmās, this generation with its contemplatives & brahmans, its rulers & commonfolk; he explains the Dhamma admirable in the beginning, admirable in the middle, admirable in the end; he expounds the holy life both in its particulars & in its essence, entirely perfect, surpassingly pure. It is good to see such a worthy one.'
@@ -6995,10 +6995,10 @@ The nāgas venerate them,
 
 the feet of the Teacher.'
 
+--- EOF [text/KN/StNp/StNp3_7.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_8.txt] ---
 SUTTA NIPĀTA 3:8  THE ARROW
 
 Without sign,
@@ -7227,10 +7227,10 @@ griefless you are
 
 unbound.
 
+--- EOF [text/KN/StNp/StNp3_8.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_9.txt] ---
 SUTTA NIPĀTA 3:9  VĀSEṬṬHA
 
 I have heard that on one occasion the Blessed One was staying at Icchānaṅgala in the Icchānaṅgala forest grove. And on that occasion many well-known wealthy brahmans were dwelling in Icchānaṅgala, that is, Caṅkī the brahman, Tārukkha the brahman, Pokkharasāti the brahman, Jānusoṇin the brahman, Todeyya the brahman, and many other well-known wealthy brahmans.
@@ -7923,10 +7923,10 @@ for those who directly know.'
 
 When this was said, the young brahmans Vāseṭṭha & Bhāradvāja said to the Blessed One: 'Magnificent, Master Gotama! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has Master Gotama—through many lines of reasoning—made the Dhamma clear. We go to Master Gotama for refuge, to the Dhamma, & to the Saṅgha of monks. May Master Gotama remember us as lay followers who have gone for refuge from this day forward, for life.'
 
+--- EOF [text/KN/StNp/StNp3_9.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_10.txt] ---
 SUTTA NIPĀTA 3:10  KOKĀLIKA
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery. Then the monk Kokālika went to the Blessed One and, on arrival, bowed down to him and sat to one side. As he was sitting there, he said to the Blessed One, 'Lord, Sāriputta & Moggallāna have evil desires. They have fallen under the sway of evil desires.'
@@ -8197,10 +8197,10 @@ one should constantly guard
 
 one's words & heart.
 
+--- EOF [text/KN/StNp/StNp3_10.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_11.txt] ---
 SUTTA NIPĀTA 3:11  NĀLAKA
 
 Asita the seer, in his mid-day meditation,
@@ -8713,10 +8713,10 @@ He is a sage,
 
 his sagehood attained.'
 
+--- EOF [text/KN/StNp/StNp3_11.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp3_12.txt] ---
 SUTTA NIPĀTA 3:12  THE CONTEMPLATION OF DUALITIES
 
 I have heard that on one occasion the Blessed One was staying near Sāvatthī in the Eastern Monastery, the palace of Migāra's mother. Now on that occasion—the uposatha day of the fifteenth, a perfect full-moon night—the Blessed One was sitting in the open air surrounded by the Saṅgha of monks. Surveying the silent Saṅgha of monks, he addressed them: 'Monks, if there are any who ask, 'Your listening to teachings that are skillful, noble, leading onward, going to self-awakening is a prerequisite for what?' they should be told, 'For the sake of knowing qualities of dualities as they actually are.' Which duality are you speaking about? 'This is stress. This is the origination of stress': This is one contemplation. 'This is the cessation of stress. This is the path of practice leading to the cessation of stress': This is a second contemplation. For a monk rightly contemplating this duality in this way—heedful, ardent, & resolute—one of two fruits can be expected: either gnosis right here-&-now, or—if there be any remnant of clinging-sustenance—non-return.'
@@ -9357,10 +9357,10 @@ effluent-free.'
 
 That is what the Blessed One said. Gratified, the monks delighted in the Blessed One's words. And while this explanation was being given, the minds of 60 monks, through lack of clinging, were released from effluents.
 
+--- EOF [text/KN/StNp/StNp3_12.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_1.txt] ---
 SUTTA NIPĀTA 4:1  SENSUAL PLEASURE
 
 If one, longing for sensual pleasure,
@@ -9423,10 +9423,10 @@ like one who, having bailed out the boat,
 
 has reached the far shore.
 
+--- EOF [text/KN/StNp/StNp4_1.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_2.txt] ---
 SUTTA NIPĀTA 4:2  THE CAVE OCTET
 
 Staying attached to the cave,
@@ -9553,10 +9553,10 @@ this world,
 
 the next.
 
+--- EOF [text/KN/StNp/StNp4_2.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_3.txt] ---
 SUTTA NIPĀTA 4:3  THE CORRUPTED OCTET
 
 There are some who dispute
@@ -9681,10 +9681,10 @@ has sloughed off every view
 
 right here—every one.
 
+--- EOF [text/KN/StNp/StNp4_3.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_4.txt] ---
 SUTTA NIPĀTA 4:4  THE PURE OCTET
 
 'I see the pure, the supreme,
@@ -9833,10 +9833,10 @@ he has nothing here
 
 that he's grasped as supreme.
 
+--- EOF [text/KN/StNp/StNp4_4.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_5.txt] ---
 SUTTA NIPĀTA 4:5  THE SUPREME OCTET
 
 When dwelling on views
@@ -9953,10 +9953,10 @@ gone to the beyond
 
 doesn't fall back.
 
+--- EOF [text/KN/StNp/StNp4_5.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_6.txt] ---
 SUTTA NIPĀTA 4:6  OLD AGE
 
 How short this life!
@@ -10083,10 +10083,10 @@ for he neither takes on passion
 
 nor puts it away.
 
+--- EOF [text/KN/StNp/StNp4_6.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_7.txt] ---
 SUTTA NIPĀTA 4:7  TO TISSA-METTEYYA
 
 Tissa-metteyya:
@@ -10211,10 +10211,10 @@ unconcerned for sensual pleasures
 
 —one who's crossed over the flood.'
 
+--- EOF [text/KN/StNp/StNp4_7.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_8.txt] ---
 SUTTA NIPĀTA 4:8  TO PASŪRA
 
 'Only here is there purity'
@@ -10333,10 +10333,10 @@ You're paired off with a pure one
 
 and so cannot proceed.'
 
+--- EOF [text/KN/StNp/StNp4_8.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_9.txt] ---
 SUTTA NIPĀTA 4:9  TO MĀGANDIYA
 
 [Māgandiya, a brahman, offers his daughter to the Buddha, who replies:]
@@ -10599,10 +10599,10 @@ Those who grasp at perceptions & views
 
 go about clashing in the world.'
 
+--- EOF [text/KN/StNp/StNp4_9.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_10.txt] ---
 SUTTA NIPĀTA 4:10  BEFORE THE BREAK-UP (OF THE BODY)
 
 'Seeing how,
@@ -10823,10 +10823,10 @@ to be
 
 at peace.'
 
+--- EOF [text/KN/StNp/StNp4_10.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_11.txt] ---
 SUTTA NIPĀTA 4:11  QUARRELS & DISPUTES
 
 'From where have there arisen
@@ -11071,10 +11071,10 @@ doesn't meet with becoming & not-
 
 : He's enlightened.'
 
+--- EOF [text/KN/StNp/StNp4_11.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_12.txt] ---
 SUTTA NIPĀTA 4:12  THE LESSER ARRAY
 
 'Dwelling on
@@ -11305,10 +11305,10 @@ creates no strife
 
 in the world.'
 
+--- EOF [text/KN/StNp/StNp4_12.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_13.txt] ---
 SUTTA NIPĀTA 4:13  THE GREAT ARRAY
 
 'Those who, dwelling on views,
@@ -11605,10 +11605,10 @@ desire,'
 
 the Blessed One said.
 
+--- EOF [text/KN/StNp/StNp4_13.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_14.txt] ---
 SUTTA NIPĀTA 4:14  QUICKLY
 
 'I ask the Kinsman of the Sun, the Great Seer,
@@ -11827,10 +11827,10 @@ in line with that Blessed One's message,'
 
 the Blessed One said.
 
+--- EOF [text/KN/StNp/StNp4_14.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_15.txt] ---
 SUTTA NIPĀTA 4:15  THE ROD EMBRACED
 
 'When embraced,
@@ -12095,10 +12095,10 @@ reject,'
 
 the Blessed One said.
 
+--- EOF [text/KN/StNp/StNp4_15.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp4_16.txt] ---
 SUTTA NIPĀTA 4:16  TO SĀRIPUTTA
 
 Venerable Sāriputta:
@@ -12403,10 +12403,10 @@ darkness,'
 
 the Blessed One said.
 
+--- EOF [text/KN/StNp/StNp4_16.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_prolog.txt] ---
 SUTTA NIPĀTA 5. : THE TO-THE-FAR-SHORE CHAPTER  (PĀRĀYANA VAGGA)
 
 
@@ -12962,10 +12962,10 @@ Ajita there addressed the first question
 
 to the Tathāgata.
 
+--- EOF [text/KN/StNp/StNp5_prolog.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_1.txt] ---
 SUTTA NIPĀTA 5:1  AJITA'S QUESTIONS
 
 With what
@@ -13090,10 +13090,10 @@ he, the monk, should wander
 
 mindfully.
 
+--- EOF [text/KN/StNp/StNp5_1.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_2.txt] ---
 SUTTA NIPĀTA 5:2  TISSA-METTEYYA'S QUESTIONS
 
 Who
@@ -13154,10 +13154,10 @@ here has gone past
 
 the seamstress:          craving.
 
+--- EOF [text/KN/StNp/StNp5_2.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_3.txt] ---
 SUTTA NIPĀTA 5:3  PUṆṆAKA'S QUESTIONS
 
 To the one unperturbed,
@@ -13274,10 +13274,10 @@ he, I tell you, has crossed over birth
 
 & aging.
 
+--- EOF [text/KN/StNp/StNp5_3.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_4.txt] ---
 SUTTA NIPĀTA 5:4  METTAGŪ'S QUESTIONS
 
 I ask you, Blessed One.
@@ -13474,10 +13474,10 @@ I tell you, has crossed over birth
 
 & aging.
 
+--- EOF [text/KN/StNp/StNp5_4.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_5.txt] ---
 SUTTA NIPĀTA 5:5  DHOTAKA'S QUESTIONS
 
 I ask you, Blessed One.
@@ -13588,10 +13588,10 @@ don't create craving
 
 for becoming or non-.
 
+--- EOF [text/KN/StNp/StNp5_5.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_6.txt] ---
 SUTTA NIPĀTA 5:6  UPASĪVA'S QUESTIONS
 
 Alone, Sakyan, with nothing to rely on,
@@ -13702,10 +13702,10 @@ all means of speaking
 
 are done away with as well.
 
+--- EOF [text/KN/StNp/StNp5_6.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_7.txt] ---
 SUTTA NIPĀTA 5:7  NANDA'S QUESTIONS
 
 There are in the world
@@ -13866,10 +13866,10 @@ are effluent-free:
 
 I, too, say they've crossed over the flood.
 
+--- EOF [text/KN/StNp/StNp5_7.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_8.txt] ---
 SUTTA NIPĀTA 5:8  HEMAKA'S QUESTION
 
 In the past,
@@ -13922,10 +13922,10 @@ have crossed over beyond
 
 entanglement in the world.
 
+--- EOF [text/KN/StNp/StNp5_8.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_9.txt] ---
 SUTTA NIPĀTA 5:9  TODEYYA'S QUESTIONS
 
 One in whom
@@ -13996,10 +13996,10 @@ in sensuality
 
 & becoming.
 
+--- EOF [text/KN/StNp/StNp5_9.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_10.txt] ---
 SUTTA NIPĀTA 5:10  KAPPA'S QUESTION
 
 For one stranded in the middle of the lake,
@@ -14046,10 +14046,10 @@ don't serve as Māra's servants,
 
 don't come under Māra's sway.
 
+--- EOF [text/KN/StNp/StNp5_10.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_11.txt] ---
 SUTTA NIPĀTA 5:11  JATUKAṆṆIN'S QUESTION
 
 Hearing, hero,
@@ -14122,10 +14122,10 @@ by which he would go
 
 under Māra's sway.
 
+--- EOF [text/KN/StNp/StNp5_11.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_12.txt] ---
 SUTTA NIPĀTA 5:12  BHADRĀVUDHA'S QUESTION
 
 I entreat the one who has
@@ -14178,10 +14178,10 @@ in all the world,
 
 every world.
 
+--- EOF [text/KN/StNp/StNp5_12.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_13.txt] ---
 SUTTA NIPĀTA 5:13  UDAYA'S QUESTIONS
 
 To the one in jhāna—
@@ -14288,10 +14288,10 @@ brings consciousness
 
 to a halt.
 
+--- EOF [text/KN/StNp/StNp5_13.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_14.txt] ---
 SUTTA NIPĀTA 5:14  POSĀLA'S QUESTION
 
 To one who reveals the past
@@ -14350,10 +14350,10 @@ the brahman who has lived
 
 to fulfillment.
 
+--- EOF [text/KN/StNp/StNp5_14.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_15.txt] ---
 SUTTA NIPĀTA 5:15  MOGHARĀJA'S QUESTION
 
 Twice now, Sakyan,
@@ -14410,10 +14410,10 @@ in this way
 
 isn't seen by Death's King.
 
+--- EOF [text/KN/StNp/StNp5_15.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_16.txt] ---
 SUTTA NIPĀTA 5:16  PIṄGIYA'S QUESTIONS
 
 I'm old & weak,
@@ -14492,10 +14492,10 @@ let go of craving
 
 for the sake of no further becoming.
 
+--- EOF [text/KN/StNp/StNp5_16.txt] ---
 
 
-
-
+--- BOF [text/KN/StNp/StNp5_epilog.txt] ---
 SUTTA NIPĀTA 5. : THE TO-THE-FAR-SHORE CHAPTER  (PĀRĀYANA VAGGA)
 
 
@@ -14779,6 +14779,6 @@ as one whose mind
 
 is decided.
 
-
+--- EOF [text/KN/StNp/StNp5_epilog.txt] ---
 
 

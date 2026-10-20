@@ -1,81 +1,81 @@
 {
   "metadata": {
-    "total_characters_scanned": 6043290,
-    "unique_character_count": 103,
-    "scanned_directory": "text/sutta-books/",
-    "timestamp": "2026-09-13T09:30:59.977Z"
+    "total_characters_scanned": 6133957,
+    "unique_character_count": 104,
+    "scanned_directory": "build/book",
+    "timestamp": "2026-10-20T05:29:55.975Z"
   },
   "characters": [
     {
       "char": " ",
       "code_point": "U+0020",
-      "count": 964282,
+      "count": 973059,
       "category": "Whitespace"
     },
     {
       "char": "e",
       "code_point": "U+0065",
-      "count": 594939,
+      "count": 597920,
       "category": "Letter"
     },
     {
       "char": "t",
       "code_point": "U+0074",
-      "count": 400342,
+      "count": 412900,
       "category": "Letter"
     },
     {
       "char": "n",
       "code_point": "U+006E",
-      "count": 360505,
+      "count": 360569,
       "category": "Letter"
     },
     {
       "char": "a",
       "code_point": "U+0061",
-      "count": 349919,
+      "count": 350383,
       "category": "Letter"
     },
     {
       "char": "i",
       "code_point": "U+0069",
-      "count": 344705,
+      "count": 345562,
       "category": "Letter"
     },
     {
       "char": "s",
       "code_point": "U+0073",
-      "count": 336539,
+      "count": 336590,
       "category": "Letter"
     },
     {
       "char": "o",
       "code_point": "U+006F",
-      "count": 334543,
+      "count": 334583,
       "category": "Letter"
     },
     {
       "char": "h",
       "code_point": "U+0068",
-      "count": 278683,
+      "count": 279423,
       "category": "Letter"
     },
     {
       "char": "r",
       "code_point": "U+0072",
-      "count": 254017,
+      "count": 254049,
       "category": "Letter"
     },
     {
       "char": "d",
       "code_point": "U+0064",
-      "count": 176549,
+      "count": 176885,
       "category": "Letter"
     },
     {
       "char": "l",
       "code_point": "U+006C",
-      "count": 169595,
+      "count": 169634,
       "category": "Letter"
     },
     {
@@ -87,145 +87,157 @@
     {
       "char": "c",
       "code_point": "U+0063",
-      "count": 111430,
+      "count": 111454,
       "category": "Letter"
     },
     {
       "char": "u",
       "code_point": "U+0075",
-      "count": 110405,
+      "count": 110568,
       "category": "Letter"
     },
     {
       "char": ",",
       "code_point": "U+002C",
-      "count": 109455,
+      "count": 109467,
       "category": "Punctuation"
     },
     {
       "char": "m",
       "code_point": "U+006D",
-      "count": 104975,
+      "count": 104987,
       "category": "Letter"
     },
     {
       "char": "g",
       "code_point": "U+0067",
-      "count": 102516,
+      "count": 103097,
       "category": "Letter"
     },
     {
       "char": "w",
       "code_point": "U+0077",
-      "count": 90556,
+      "count": 90561,
       "category": "Letter"
     },
     {
       "char": "\n",
       "code_point": "U+000A",
-      "count": 88142,
+      "count": 88162,
       "category": "Control Character"
     },
     {
       "char": "p",
       "code_point": "U+0070",
-      "count": 70683,
+      "count": 71084,
       "category": "Letter"
     },
     {
       "char": "y",
       "code_point": "U+0079",
-      "count": 60996,
+      "count": 61000,
       "category": "Letter"
     },
     {
       "char": "b",
       "code_point": "U+0062",
-      "count": 59364,
+      "count": 59373,
       "category": "Letter"
     },
     {
       "char": "'",
       "code_point": "U+0027",
-      "count": 51232,
+      "count": 51243,
       "category": "Punctuation"
     },
     {
       "char": ".",
       "code_point": "U+002E",
-      "count": 46336,
+      "count": 49230,
       "category": "Punctuation"
     },
     {
       "char": "v",
       "code_point": "U+0076",
-      "count": 44665,
+      "count": 44671,
       "category": "Letter"
     },
     {
       "char": "k",
       "code_point": "U+006B",
-      "count": 33591,
-      "category": "Letter"
-    },
-    {
-      "char": "T",
-      "code_point": "U+0054",
-      "count": 26312,
-      "category": "Letter"
-    },
-    {
-      "char": "&",
-      "code_point": "U+0026",
-      "count": 18910,
-      "category": "Punctuation"
-    },
-    {
-      "char": "A",
-      "code_point": "U+0041",
-      "count": 18019,
-      "category": "Letter"
-    },
-    {
-      "char": "I",
-      "code_point": "U+0049",
-      "count": 16915,
+      "count": 33613,
       "category": "Letter"
     },
     {
       "char": "-",
       "code_point": "U+002D",
-      "count": 14577,
+      "count": 31850,
       "category": "Punctuation"
     },
     {
-      "char": "B",
-      "code_point": "U+0042",
-      "count": 9725,
+      "char": "T",
+      "code_point": "U+0054",
+      "count": 26596,
       "category": "Letter"
     },
     {
-      "char": "S",
-      "code_point": "U+0053",
-      "count": 9633,
+      "char": "A",
+      "code_point": "U+0041",
+      "count": 19706,
+      "category": "Letter"
+    },
+    {
+      "char": "&",
+      "code_point": "U+0026",
+      "count": 18912,
+      "category": "Punctuation"
+    },
+    {
+      "char": "I",
+      "code_point": "U+0049",
+      "count": 17138,
+      "category": "Letter"
+    },
+    {
+      "char": "x",
+      "code_point": "U+0078",
+      "count": 13728,
       "category": "Letter"
     },
     {
       "char": "O",
       "code_point": "U+004F",
-      "count": 9531,
+      "count": 12411,
+      "category": "Letter"
+    },
+    {
+      "char": "S",
+      "code_point": "U+0053",
+      "count": 11780,
+      "category": "Letter"
+    },
+    {
+      "char": "B",
+      "code_point": "U+0042",
+      "count": 11166,
+      "category": "Letter"
+    },
+    {
+      "char": "N",
+      "code_point": "U+004E",
+      "count": 10939,
       "category": "Letter"
     },
     {
       "char": "ā",
       "code_point": "U+0101",
-      "count": 9004,
+      "count": 9005,
       "category": "Letter"
     },
     {
       "char": ":",
       "code_point": "U+003A",
-      "count": 8248,
+      "count": 8249,
       "category": "Punctuation"
     },
     {
@@ -241,12 +253,6 @@
       "category": "Letter"
     },
     {
-      "char": "x",
-      "code_point": "U+0078",
-      "count": 7972,
-      "category": "Letter"
-    },
-    {
       "char": "…",
       "code_point": "U+2026",
       "count": 7870,
@@ -255,19 +261,25 @@
     {
       "char": "W",
       "code_point": "U+0057",
-      "count": 7398,
+      "count": 7404,
       "category": "Letter"
     },
     {
       "char": "?",
       "code_point": "U+003F",
-      "count": 6766,
+      "count": 6768,
       "category": "Punctuation"
+    },
+    {
+      "char": "F",
+      "code_point": "U+0046",
+      "count": 6076,
+      "category": "Letter"
     },
     {
       "char": "D",
       "code_point": "U+0044",
-      "count": 5958,
+      "count": 6067,
       "category": "Letter"
     },
     {
@@ -277,15 +289,15 @@
       "category": "Letter"
     },
     {
-      "char": "N",
-      "code_point": "U+004E",
-      "count": 5760,
+      "char": "M",
+      "code_point": "U+004D",
+      "count": 5728,
       "category": "Letter"
     },
     {
-      "char": "M",
-      "code_point": "U+004D",
-      "count": 5303,
+      "char": "E",
+      "code_point": "U+0045",
+      "count": 5140,
       "category": "Letter"
     },
     {
@@ -295,21 +307,33 @@
       "category": "Letter"
     },
     {
-      "char": "G",
-      "code_point": "U+0047",
-      "count": 3772,
+      "char": "[",
+      "code_point": "U+005B",
+      "count": 4370,
+      "category": "Punctuation"
+    },
+    {
+      "char": "]",
+      "code_point": "U+005D",
+      "count": 4370,
+      "category": "Punctuation"
+    },
+    {
+      "char": "K",
+      "code_point": "U+004B",
+      "count": 4298,
       "category": "Letter"
     },
     {
       "char": "U",
       "code_point": "U+0055",
-      "count": 3761,
+      "count": 3926,
       "category": "Letter"
     },
     {
-      "char": "E",
-      "code_point": "U+0045",
-      "count": 3701,
+      "char": "G",
+      "code_point": "U+0047",
+      "count": 3774,
       "category": "Letter"
     },
     {
@@ -319,21 +343,9 @@
       "category": "Letter"
     },
     {
-      "char": "K",
-      "code_point": "U+004B",
-      "count": 3409,
-      "category": "Letter"
-    },
-    {
       "char": "Ā",
       "code_point": "U+0100",
-      "count": 3328,
-      "category": "Letter"
-    },
-    {
-      "char": "F",
-      "code_point": "U+0046",
-      "count": 3195,
+      "count": 3331,
       "category": "Letter"
     },
     {
@@ -341,6 +353,12 @@
       "code_point": "U+003B",
       "count": 3112,
       "category": "Punctuation"
+    },
+    {
+      "char": "1",
+      "code_point": "U+0031",
+      "count": 3000,
+      "category": "Numeric"
     },
     {
       "char": "R",
@@ -351,7 +369,7 @@
     {
       "char": "Y",
       "code_point": "U+0059",
-      "count": 2897,
+      "count": 2899,
       "category": "Letter"
     },
     {
@@ -363,8 +381,14 @@
     {
       "char": "P",
       "code_point": "U+0050",
-      "count": 2465,
+      "count": 2467,
       "category": "Letter"
+    },
+    {
+      "char": "_",
+      "code_point": "U+005F",
+      "count": 2328,
+      "category": "Punctuation"
     },
     {
       "char": "(",
@@ -379,28 +403,46 @@
       "category": "Punctuation"
     },
     {
-      "char": "L",
-      "code_point": "U+004C",
-      "count": 1951,
-      "category": "Letter"
+      "char": "2",
+      "code_point": "U+0032",
+      "count": 2032,
+      "category": "Numeric"
     },
     {
       "char": "C",
       "code_point": "U+0043",
-      "count": 1947,
+      "count": 2001,
       "category": "Letter"
     },
     {
-      "char": "[",
-      "code_point": "U+005B",
-      "count": 1492,
-      "category": "Punctuation"
+      "char": "L",
+      "code_point": "U+004C",
+      "count": 1953,
+      "category": "Letter"
     },
     {
-      "char": "]",
-      "code_point": "U+005D",
-      "count": 1492,
-      "category": "Punctuation"
+      "char": "5",
+      "code_point": "U+0035",
+      "count": 1673,
+      "category": "Numeric"
+    },
+    {
+      "char": "3",
+      "code_point": "U+0033",
+      "count": 1614,
+      "category": "Numeric"
+    },
+    {
+      "char": "4",
+      "code_point": "U+0034",
+      "count": 1544,
+      "category": "Numeric"
+    },
+    {
+      "char": "0",
+      "code_point": "U+0030",
+      "count": 1411,
+      "category": "Numeric"
     },
     {
       "char": "J",
@@ -415,15 +457,9 @@
       "category": "Punctuation"
     },
     {
-      "char": "1",
-      "code_point": "U+0031",
-      "count": 1224,
-      "category": "Numeric"
-    },
-    {
       "char": "ī",
       "code_point": "U+012B",
-      "count": 1210,
+      "count": 1211,
       "category": "Letter"
     },
     {
@@ -431,6 +467,12 @@
       "code_point": "U+1E6D",
       "count": 1210,
       "category": "Letter"
+    },
+    {
+      "char": "6",
+      "code_point": "U+0036",
+      "count": 1097,
+      "category": "Numeric"
     },
     {
       "char": "ṇ",
@@ -451,33 +493,21 @@
       "category": "Punctuation"
     },
     {
-      "char": "0",
-      "code_point": "U+0030",
-      "count": 879,
+      "char": "7",
+      "code_point": "U+0037",
+      "count": 875,
       "category": "Numeric"
     },
     {
-      "char": "2",
-      "code_point": "U+0032",
-      "count": 821,
+      "char": "8",
+      "code_point": "U+0038",
+      "count": 873,
       "category": "Numeric"
     },
     {
-      "char": "5",
-      "code_point": "U+0035",
-      "count": 681,
-      "category": "Numeric"
-    },
-    {
-      "char": "3",
-      "code_point": "U+0033",
-      "count": 628,
-      "category": "Numeric"
-    },
-    {
-      "char": "4",
-      "code_point": "U+0034",
-      "count": 622,
+      "char": "9",
+      "code_point": "U+0039",
+      "count": 771,
       "category": "Numeric"
     },
     {
@@ -489,14 +519,8 @@
     {
       "char": "Ṁ",
       "code_point": "U+1E40",
-      "count": 487,
+      "count": 488,
       "category": "Letter"
-    },
-    {
-      "char": "6",
-      "code_point": "U+0036",
-      "count": 435,
-      "category": "Numeric"
     },
     {
       "char": "ḍ",
@@ -505,28 +529,10 @@
       "category": "Letter"
     },
     {
-      "char": "8",
-      "code_point": "U+0038",
-      "count": 361,
-      "category": "Numeric"
-    },
-    {
-      "char": "7",
-      "code_point": "U+0037",
-      "count": 331,
-      "category": "Numeric"
-    },
-    {
       "char": "•",
       "code_point": "U+2022",
       "count": 330,
       "category": "Punctuation"
-    },
-    {
-      "char": "9",
-      "code_point": "U+0039",
-      "count": 285,
-      "category": "Numeric"
     },
     {
       "char": "ñ",
