@@ -1,10 +1,53 @@
 {
+  "schemaVersion": 2,
   "version": "v261020",
   "buildVersion": "261020",
-  "generatedAt": "2026-10-20T05:29:57.163Z",
+  "indexVersion": "bge-small-en-v1.5-261020-v2",
+  "generatedAt": "2026-10-22T02:06:57.198Z",
   "totalChunks": 8086,
   "vectorDimensions": 384,
   "binaryIndexFile": "suttas-index.bin",
   "metadataFile": "suttas-metadata.json",
-  "fileSizeBytes": 12420096
+  "fileSizeBytes": 12420096,
+  "corpusHash": "c2b370440aba1b89fb3d9ba8ffde5240cfa6fc6967ffa2841e7788f5c2cc695b",
+  "chunking": {
+    "version": "causal-16-10-v1",
+    "windowSize": 16,
+    "stepSize": 10
+  },
+  "embedding": {
+    "id": "Xenova/bge-small-en-v1.5",
+    "revision": "ea104dacec62c0de699686887e3f920caeb4f3e3",
+    "dimensions": 384,
+    "dtype": "q8",
+    "pooling": "cls",
+    "normalize": true,
+    "queryInstruction": "",
+    "maxTokens": 512,
+    "license": "MIT (BAAI/bge-small-en-v1.5); ONNX conversion by Xenova",
+    "provider": "transformers.js@4.3.1",
+    "sourceUrl": "https://huggingface.co/Xenova/bge-small-en-v1.5",
+    "files": {
+      "config.json": {
+        "sha256": "fa73f90bf92c8cace1fbcb709626306f2bdbc9ea3e5b5f94b440df9b6aa56350",
+        "bytes": 683
+      },
+      "tokenizer.json": {
+        "sha256": "d241a60d5e8f04cc1b2b3e9ef7a4921b27bf526d9f6050ab90f9267a1f9e5c66",
+        "bytes": 711396
+      },
+      "tokenizer_config.json": {
+        "sha256": "9261e7d79b44c8195c1cada2b453e55b00aeb81e907a6664974b4d7776172ab3",
+        "bytes": 366
+      },
+      "special_tokens_map.json": {
+        "sha256": "b6d346be366a7d1d48332dbc9fdf3bf8960b5d879522b7799ddba59e76237ee3",
+        "bytes": 125
+      },
+      "onnx/model_quantized.onnx": {
+        "sha256": "6c9c6101a956d62dfb5e7190c538226c0c5bb9cb27b651234b6df063ee7dbfe4",
+        "bytes": 34014426
+      }
+    }
+  }
 }
