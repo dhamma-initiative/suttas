@@ -6,5 +6,4 @@
 - **Next:** write the contract; wait for `TASK-0002` release artifacts before
   generating the staging tree
 - **Blockers:** `TASK-0002`
-- **Open question:** confirm whether `vector-index/` belongs here or in
-  `vits-piper` at G0
+- **Contract:** `vector-index/` belongs here (ADR-0005)

@@ -25,12 +25,10 @@ file must trace to a release manifest and SHA-256.
 `dhamma-initiative/suttas` is a gated release step (G5). GitHub Pages is not
 enabled on the private repo.
 
-## Open question for G0
+## Confirmed contract
 
-The sponsor's note described `vits-piper` as the endpoint for
-`[vector-index]`. The current app and archive contract place `vector-index/`
-in `suttas`, and models/phonemizer config in `vits-piper`. Confirm the final
-split at G0 before implementing.
+`vector-index/` belongs here. `vits-piper` carries only the model and runtime
+phonemizer config. See `ADR-0005` in the orchestration repo.
 
 ## Collaboration
 
