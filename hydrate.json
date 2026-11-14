@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "repository": "dhamma-initiative/dt.o-suttas-builder",
+    "releaseTag": "build-{version}",
+    "asset": "dt.o-suttas-builder-{version}.tgz"
+  },
+  "mappings": [
+    {
+      "from": "build/book",
+      "to": "book",
+      "mode": "replace"
+    },
+    {
+      "from": "build/phoneme",
+      "to": "phoneme",
+      "mode": "replace"
+    },
+    {
+      "from": "build/text",
+      "to": "text",
+      "mode": "replace"
+    },
+    {
+      "from": "build/vector-index",
+      "to": "vector-index",
+      "mode": "replace"
+    },
+    {
+      "from": "build/version-manifest.json",
+      "to": "version-manifest.json",
+      "mode": "file"
+    }
+  ],
+  "preserve": [
+    "README.md",
+    "LICENSE",
+    ".gitignore"
+  ],
+  "provenanceFile": "release-manifest.json",
+  "post": [],
+  "pages": {
+    "repo": "dhamma-initiative/suttas",
+    "branch": "{version}",
+    "path": "/"
+  }
+}
