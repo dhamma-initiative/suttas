@@ -5,7 +5,7 @@
     "repository": "dhamma-initiative/dt.o-suttas-builder",
     "releaseTag": "build-261115",
     "asset": "dt.o-suttas-builder-261115.tgz",
-    "sha256": "e06a2310e3eea5698b4ac3c86c261ceaf0d368ab227e8c2966710518786a83f2"
+    "sha256": "b5a6816a2fb7406c02ddf48e251a00e4c147c050025252a61ae92e2ec426bc3c"
   },
   "build": {
     "version": "2611.15.00",
@@ -14,7 +14,7 @@
     "sourceDate": "2026-11-15",
     "generatedAt": "2026-11-14T22:42:25.175Z"
   },
-  "hydratedAt": "2026-11-16T05:37:30.220Z",
+  "hydratedAt": "2026-11-16T05:37:57.785Z",
   "mappings": [
     {
       "from": "build/book",
